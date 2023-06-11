@@ -1,0 +1,127 @@
+origen,year,num_migrantes,development
+Africa,1990,5392123,Developed regions
+Asia,1990,21564643,Developed regions
+Europe,1990,37640490,Developed regions
+South America,1990,11232859,Developed regions
+North America,1990,1908980,Developed regions
+Oceania,1990,831371,Developed regions
+Africa,1990,15229341,Less developed regions
+Asia,1990,35392357,Less developed regions
+Europe,1990,10089788,Less developed regions
+South America,1990,4040540,Less developed regions
+North America,1990,893155,Less developed regions
+Oceania,1990,130176,Less developed regions
+Africa,1990,8786997,Least developed countries
+Asia,1990,1410342,Least developed countries
+Europe,1990,81070,Least developed countries
+South America,1990,12490,Least developed countries
+North America,1990,40192,Least developed countries
+Oceania,1990,6621,Least developed countries
+Africa,1995,6189244,Developed regions
+Asia,1995,25164061,Developed regions
+Europe,1995,39485417,Developed regions
+South America,1995,15916691,Developed regions
+North America,1995,1950736,Developed regions
+Oceania,1995,934229,Developed regions
+Africa,1995,16152150,Less developed regions
+Asia,1995,33983861,Less developed regions
+Europe,1995,9150586,Less developed regions
+South America,1995,3753013,Less developed regions
+North America,1995,995425,Less developed regions
+Oceania,1995,137066,Less developed regions
+Africa,1995,8998169,Least developed countries
+Asia,1995,1738269,Least developed countries
+Europe,1995,94766,Least developed countries
+South America,1995,16888,Least developed countries
+North America,1995,42475,Least developed countries
+Oceania,1995,6717,Least developed countries
+Africa,2000,7143697,Developed regions
+Asia,2000,28600308,Developed regions
+Europe,2000,41342533,Developed regions
+South America,2000,20737821,Developed regions
+North America,2000,2015659,Developed regions
+Oceania,2000,1100642,Developed regions
+Africa,2000,14936306,Less developed regions
+Asia,2000,36733305,Less developed regions
+Europe,2000,8385251,Less developed regions
+South America,2000,3890879,Less developed regions
+North America,2000,1134260,Less developed regions
+Oceania,2000,146194,Less developed regions
+Africa,2000,7181326,Least developed countries
+Asia,2000,1858180,Least developed countries
+Europe,2000,105423,Least developed countries
+South America,2000,20994,Least developed countries
+North America,2000,44812,Least developed countries
+Oceania,2000,6722,Least developed countries
+Africa,2005,9475935,Developed regions
+Asia,2005,32333969,Developed regions
+Europe,2005,43054652,Developed regions
+South America,2005,24845504,Developed regions
+North America,2005,2147035,Developed regions
+Oceania,2005,1230865,Developed regions
+Africa,2005,15765471,Less developed regions
+Asia,2005,40472074,Less developed regions
+Europe,2005,8282332,Less developed regions
+South America,2005,4492702,Less developed regions
+North America,2005,1365071,Less developed regions
+Oceania,2005,160553,Less developed regions
+Africa,2005,6834763,Least developed countries
+Asia,2005,1812853,Least developed countries
+Europe,2005,114728,Least developed countries
+South America,2005,22756,Least developed countries
+North America,2005,49245,Least developed countries
+Oceania,2005,6664,Least developed countries
+Africa,2010,11171167,Developed regions
+Asia,2010,36667598,Developed regions
+Europe,2010,46503827,Developed regions
+South America,2010,29133420,Developed regions
+North America,2010,2291342,Developed regions
+Oceania,2010,1413360,Developed regions
+Africa,2010,18022685,Less developed regions
+Asia,2010,51454579,Less developed regions
+Europe,2010,8207474,Less developed regions
+South America,2010,5504230,Less developed regions
+North America,2010,1678461,Less developed regions
+Oceania,2010,177808,Less developed regions
+Africa,2010,6977694,Least developed countries
+Asia,2010,1928495,Least developed countries
+Europe,2010,119871,Least developed countries
+South America,2010,30609,Least developed countries
+North America,2010,54676,Least developed countries
+Oceania,2010,7414,Least developed countries
+Africa,2015,12709831,Developed regions
+Asia,2015,41929231,Developed regions
+Europe,2015,48116266,Developed regions
+South America,2015,29853910,Developed regions
+North America,2015,2324284,Developed regions
+Oceania,2015,1565999,Developed regions
+Africa,2015,22402128,Less developed regions
+Asia,2015,61448788,Less developed regions
+Europe,2015,8461487,Less developed regions
+South America,2015,6352090,Less developed regions
+North America,2015,1690365,Less developed regions
+Oceania,2015,185423,Less developed regions
+Africa,2015,9571067,Least developed countries
+Asia,2015,2130169,Least developed countries
+Europe,2015,124344,Least developed countries
+South America,2015,40287,Least developed countries
+North America,2015,57307,Least developed countries
+Oceania,2015,8640,Least developed countries
+Africa,2020,14885507,Developed regions
+Asia,2020,46785274,Developed regions
+Europe,2020,54093598,Developed regions
+South America,2020,31401278,Developed regions
+North America,2020,2485082,Developed regions
+Oceania,2020,1772336,Developed regions
+Africa,2020,25681656,Less developed regions
+Asia,2020,68126210,Less developed regions
+Europe,2020,9180065,Less developed regions
+South America,2020,11489203,Less developed regions
+North America,2020,1842876,Less developed regions
+Oceania,2020,197869,Less developed regions
+Africa,2020,11850593,Least developed countries
+Asia,2020,2611954,Least developed countries
+Europe,2020,126494,Least developed countries
+South America,2020,40931,Least developed countries
+North America,2020,56762,Least developed countries
+Oceania,2020,8973,Least developed countries

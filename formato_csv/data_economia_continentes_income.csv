@@ -1,0 +1,127 @@
+origen,year,num_migrantes,income
+Africa,1990,6747963,High-income countries
+Asia,1990,23874694,High-income countries
+Europe,1990,26203905,High-income countries
+South America,1990,11606947,High-income countries
+North America,1990,2289490,High-income countries
+Oceania,1990,871441,High-income countries
+Africa,1990,6442942,Middle-income countries
+Asia,1990,32664148,Middle-income countries
+Europe,1990,20991096,Middle-income countries
+South America,1990,3574943,Middle-income countries
+North America,1990,501565,Middle-income countries
+Oceania,1990,85705,Middle-income countries
+Africa,1990,7408983,Low-income countries
+Asia,1990,415823,Low-income countries
+Europe,1990,415675,Low-income countries
+South America,1990,11565,Low-income countries
+North America,1990,9894,Low-income countries
+Oceania,1990,271,Low-income countries
+Africa,1995,7625829,High-income countries
+Asia,1995,28667067,High-income countries
+Europe,1995,28144425,High-income countries
+South America,1995,16374656,High-income countries
+North America,1995,2355943,High-income countries
+Oceania,1995,981681,High-income countries
+Africa,1995,7547948,Middle-income countries
+Asia,1995,30020059,Middle-income countries
+Europe,1995,19992803,Middle-income countries
+South America,1995,3199409,Middle-income countries
+North America,1995,578704,Middle-income countries
+Oceania,1995,84963,Middle-income countries
+Africa,1995,7127106,Low-income countries
+Asia,1995,458054,Low-income countries
+Europe,1995,346361,Low-income countries
+South America,1995,11845,Low-income countries
+North America,1995,10139,Low-income countries
+Oceania,1995,260,Low-income countries
+Africa,2000,8703335,High-income countries
+Asia,2000,33823114,High-income countries
+Europe,2000,30444071,High-income countries
+South America,2000,21281197,High-income countries
+North America,2000,2452752,High-income countries
+Oceania,2000,1156594,High-income countries
+Africa,2000,7893888,Middle-income countries
+Asia,2000,30950682,Middle-income countries
+Europe,2000,18792072,Middle-income countries
+South America,2000,3247925,Middle-income countries
+North America,2000,684860,Middle-income countries
+Oceania,2000,85282,Middle-income countries
+Africa,2000,5415746,Low-income countries
+Asia,2000,556670,Low-income countries
+Europe,2000,303210,Low-income countries
+South America,2000,11916,Low-income countries
+North America,2000,10766,Low-income countries
+Oceania,2000,260,Low-income countries
+Africa,2005,11358311,High-income countries
+Asia,2005,40621384,High-income countries
+Europe,2005,32997057,High-income countries
+South America,2005,25524614,High-income countries
+North America,2005,2607445,High-income countries
+Oceania,2005,1293419,High-income countries
+Africa,2005,8542201,Middle-income countries
+Asia,2005,31226426,Middle-income countries
+Europe,2005,17842762,Middle-income countries
+South America,2005,3700019,Middle-income countries
+North America,2005,893780,Middle-income countries
+Oceania,2005,92740,Middle-income countries
+Africa,2005,5254581,Low-income countries
+Asia,2005,955233,Low-income countries
+Europe,2005,291643,Low-income countries
+South America,2005,12110,Low-income countries
+North America,2005,9131,Low-income countries
+Oceania,2005,280,Low-income countries
+Africa,2010,14003323,High-income countries
+Asia,2010,52518689,High-income countries
+Europe,2010,37089395,High-income countries
+South America,2010,29967194,High-income countries
+North America,2010,2760852,High-income countries
+Oceania,2010,1481900,High-income countries
+Africa,2010,9230759,Middle-income countries
+Asia,2010,33791090,Middle-income countries
+Europe,2010,17115535,Middle-income countries
+South America,2010,4536897,Middle-income countries
+North America,2010,1198462,Middle-income countries
+Oceania,2010,103169,Middle-income countries
+Africa,2010,5862555,Low-income countries
+Asia,2010,1809546,Low-income countries
+Europe,2010,288735,Low-income countries
+South America,2010,18475,Low-income countries
+North America,2010,8596,Low-income countries
+Oceania,2010,907,Low-income countries
+Africa,2015,16228156,High-income countries
+Asia,2015,62993405,High-income countries
+Europe,2015,38458306,High-income countries
+South America,2015,30931523,High-income countries
+North America,2015,2804783,High-income countries
+Oceania,2015,1638467,High-income countries
+Africa,2015,10567413,Middle-income countries
+Asia,2015,39183636,Middle-income countries
+Europe,2015,17606310,Middle-income countries
+South America,2015,5124242,Middle-income countries
+North America,2015,1199222,Middle-income countries
+Oceania,2015,105359,Middle-income countries
+Africa,2015,8209844,Low-income countries
+Asia,2015,1197622,Low-income countries
+Europe,2015,286096,Low-income countries
+South America,2015,27722,Low-income countries
+North America,2015,8758,Low-income countries
+Oceania,2015,2140,Low-income countries
+Africa,2020,18928986,High-income countries
+Asia,2020,72537027,High-income countries
+Europe,2020,44341619,High-income countries
+South America,2020,33714977,High-income countries
+North America,2020,2992298,High-income countries
+Oceania,2020,1850956,High-income countries
+Africa,2020,11198245,Middle-income countries
+Asia,2020,41307367,Middle-income countries
+Europe,2020,18406391,Middle-income countries
+South America,2020,9015116,Middle-income countries
+North America,2020,1324959,Middle-income countries
+Oceania,2020,111255,Middle-income countries
+Africa,2020,10306328,Low-income countries
+Asia,2020,1063461,Low-income countries
+Europe,2020,289706,Low-income countries
+South America,2020,28692,Low-income countries
+North America,2020,8811,Low-income countries
+Oceania,2020,2200,Low-income countries

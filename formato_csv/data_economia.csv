@@ -1,0 +1,1597 @@
+origen,destino,year,num_migrantes
+Eastern Africa,Developed regions,1990,863906
+Middle Africa,Developed regions,1990,410433
+Northern Africa,Developed regions,1990,3161800
+Southern Africa,Developed regions,1990,229362
+Western Africa,Developed regions,1990,726622
+Central Asia,Developed regions,1990,5115880
+Eastern Asia,Developed regions,1990,3844369
+South-Eastern Asia,Developed regions,1990,3779787
+Southern Asia,Developed regions,1990,2747367
+Western Asia,Developed regions,1990,6077240
+Eastern Europe,Developed regions,1990,17711583
+Northern Europe,Developed regions,1990,5815798
+Southern Europe,Developed regions,1990,8940781
+Western Europe,Developed regions,1990,5172328
+Caribbean,Developed regions,1990,3611619
+Central America,Developed regions,1990,5567240
+South America,Developed regions,1990,2054000
+NORTHERN AMERICA,Developed regions,1990,1908980
+OCEANIA,Developed regions,1990,831371
+Eastern Africa,Less developed regions,1990,6920837
+Middle Africa,Less developed regions,1990,1511810
+Northern Africa,Less developed regions,1990,2124857
+Southern Africa,Less developed regions,1990,347390
+Western Africa,Less developed regions,1990,4324447
+Central Asia,Less developed regions,1990,604012
+Eastern Asia,Less developed regions,1990,3204655
+South-Eastern Asia,Less developed regions,1990,3945608
+Southern Asia,Less developed regions,1990,22636761
+Western Asia,Less developed regions,1990,5001321
+Eastern Europe,Less developed regions,1990,7068090
+Northern Europe,Less developed regions,1990,411453
+Southern Europe,Less developed regions,1990,1682045
+Western Europe,Less developed regions,1990,928200
+Caribbean,Less developed regions,1990,528156
+Central America,Less developed regions,1990,1255796
+South America,Less developed regions,1990,2256588
+NORTHERN AMERICA,Less developed regions,1990,893155
+OCEANIA,Less developed regions,1990,130176
+Eastern Africa,"Less developed regions, excluding least developed countries",1990,1488353
+Middle Africa,"Less developed regions, excluding least developed countries",1990,344496
+Northern Africa,"Less developed regions, excluding least developed countries",1990,1836357
+Southern Africa,"Less developed regions, excluding least developed countries",1990,319561
+Western Africa,"Less developed regions, excluding least developed countries",1990,2453577
+Central Asia,"Less developed regions, excluding least developed countries",1990,561448
+Eastern Asia,"Less developed regions, excluding least developed countries",1990,2948517
+South-Eastern Asia,"Less developed regions, excluding least developed countries",1990,3362871
+Southern Asia,"Less developed regions, excluding least developed countries",1990,22127985
+Western Asia,"Less developed regions, excluding least developed countries",1990,4981194
+Eastern Europe,"Less developed regions, excluding least developed countries",1990,7066531
+Northern Europe,"Less developed regions, excluding least developed countries",1990,390084
+Southern Europe,"Less developed regions, excluding least developed countries",1990,1669617
+Western Europe,"Less developed regions, excluding least developed countries",1990,882486
+Caribbean,"Less developed regions, excluding least developed countries",1990,522711
+Central America,"Less developed regions, excluding least developed countries",1990,1255216
+South America,"Less developed regions, excluding least developed countries",1990,2250123
+NORTHERN AMERICA,"Less developed regions, excluding least developed countries",1990,852963
+OCEANIA,"Less developed regions, excluding least developed countries",1990,123555
+Eastern Africa,"Less developed regions, excluding China",1990,6920837
+Middle Africa,"Less developed regions, excluding China",1990,1511810
+Northern Africa,"Less developed regions, excluding China",1990,2124857
+Southern Africa,"Less developed regions, excluding China",1990,347390
+Western Africa,"Less developed regions, excluding China",1990,4324447
+Central Asia,"Less developed regions, excluding China",1990,604012
+Eastern Asia,"Less developed regions, excluding China",1990,1249131
+South-Eastern Asia,"Less developed regions, excluding China",1990,3434984
+Southern Asia,"Less developed regions, excluding China",1990,22609728
+Western Asia,"Less developed regions, excluding China",1990,5001321
+Eastern Europe,"Less developed regions, excluding China",1990,7067757
+Northern Europe,"Less developed regions, excluding China",1990,397951
+Southern Europe,"Less developed regions, excluding China",1990,1677784
+Western Europe,"Less developed regions, excluding China",1990,924237
+Caribbean,"Less developed regions, excluding China",1990,528156
+Central America,"Less developed regions, excluding China",1990,1255796
+South America,"Less developed regions, excluding China",1990,2252974
+NORTHERN AMERICA,"Less developed regions, excluding China",1990,871904
+OCEANIA,"Less developed regions, excluding China",1990,121967
+Eastern Africa,Least developed countries,1990,5432484
+Middle Africa,Least developed countries,1990,1167314
+Northern Africa,Least developed countries,1990,288500
+Southern Africa,Least developed countries,1990,27829
+Western Africa,Least developed countries,1990,1870870
+Central Asia,Least developed countries,1990,42564
+Eastern Asia,Least developed countries,1990,256138
+South-Eastern Asia,Least developed countries,1990,582737
+Southern Asia,Least developed countries,1990,508776
+Western Asia,Least developed countries,1990,20127
+Eastern Europe,Least developed countries,1990,1559
+Northern Europe,Least developed countries,1990,21369
+Southern Europe,Least developed countries,1990,12428
+Western Europe,Least developed countries,1990,45714
+Caribbean,Least developed countries,1990,5445
+Central America,Least developed countries,1990,580
+South America,Least developed countries,1990,6465
+NORTHERN AMERICA,Least developed countries,1990,40192
+OCEANIA,Least developed countries,1990,6621
+Eastern Africa,Land-locked Developing Countries (LLDC),1990,3533388
+Middle Africa,Land-locked Developing Countries (LLDC),1990,393874
+Northern Africa,Land-locked Developing Countries (LLDC),1990,214450
+Southern Africa,Land-locked Developing Countries (LLDC),1990,55819
+Western Africa,Land-locked Developing Countries (LLDC),1990,578754
+Central Asia,Land-locked Developing Countries (LLDC),1990,537701
+Eastern Asia,Land-locked Developing Countries (LLDC),1990,108403
+South-Eastern Asia,Land-locked Developing Countries (LLDC),1990,18489
+Southern Asia,Land-locked Developing Countries (LLDC),1990,455476
+Western Asia,Land-locked Developing Countries (LLDC),1990,925901
+Eastern Europe,Land-locked Developing Countries (LLDC),1990,5999104
+Northern Europe,Land-locked Developing Countries (LLDC),1990,45686
+Southern Europe,Land-locked Developing Countries (LLDC),1990,91017
+Western Europe,Land-locked Developing Countries (LLDC),1990,63361
+Caribbean,Land-locked Developing Countries (LLDC),1990,567
+Central America,Land-locked Developing Countries (LLDC),1990,12870
+South America,Land-locked Developing Countries (LLDC),1990,215693
+NORTHERN AMERICA,Land-locked Developing Countries (LLDC),1990,11782
+OCEANIA,Land-locked Developing Countries (LLDC),1990,542
+Eastern Africa,Small island developing States (SIDS),1990,15039
+Middle Africa,Small island developing States (SIDS),1990,5228
+Northern Africa,Small island developing States (SIDS),1990,29046
+Southern Africa,Small island developing States (SIDS),1990,597
+Western Africa,Small island developing States (SIDS),1990,19899
+Central Asia,Small island developing States (SIDS),1990,3
+Eastern Asia,Small island developing States (SIDS),1990,207621
+South-Eastern Asia,Small island developing States (SIDS),1990,294110
+Southern Asia,Small island developing States (SIDS),1990,167463
+Western Asia,Small island developing States (SIDS),1990,19706
+Eastern Europe,Small island developing States (SIDS),1990,8746
+Northern Europe,Small island developing States (SIDS),1990,30051
+Southern Europe,Small island developing States (SIDS),1990,39755
+Western Europe,Small island developing States (SIDS),1990,125046
+Caribbean,Small island developing States (SIDS),1990,441417
+Central America,Small island developing States (SIDS),1990,41653
+South America,Small island developing States (SIDS),1990,75083
+NORTHERN AMERICA,Small island developing States (SIDS),1990,331961
+OCEANIA,Small island developing States (SIDS),1990,83948
+Eastern Africa,High-income countries,1990,987807
+Middle Africa,High-income countries,1990,421086
+Northern Africa,High-income countries,1990,4373600
+Southern Africa,High-income countries,1990,238882
+Western Africa,High-income countries,1990,726588
+Central Asia,High-income countries,1990,187172
+Eastern Asia,High-income countries,1990,5881506
+South-Eastern Asia,High-income countries,1990,5599207
+Southern Asia,High-income countries,1990,7231399
+Western Asia,High-income countries,1990,4975410
+Eastern Europe,High-income countries,1990,6728213
+Northern Europe,High-income countries,1990,5585092
+Southern Europe,High-income countries,1990,8750149
+Western Europe,High-income countries,1990,5140451
+Caribbean,High-income countries,1990,3792515
+Central America,High-income countries,1990,5590653
+South America,High-income countries,1990,2223779
+NORTHERN AMERICA,High-income countries,1990,2289490
+OCEANIA,High-income countries,1990,871441
+Eastern Africa,Middle-income countries,1990,2099627
+Middle Africa,Middle-income countries,1990,538525
+Northern Africa,Middle-income countries,1990,633511
+Southern Africa,Middle-income countries,1990,325873
+Western Africa,Middle-income countries,1990,2845406
+Central Asia,Middle-income countries,1990,5449081
+Eastern Asia,Middle-income countries,1990,1135152
+South-Eastern Asia,Middle-income countries,1990,2121488
+Southern Asia,Middle-income countries,1990,18123683
+Western Asia,Middle-income countries,1990,5834744
+Eastern Europe,Middle-income countries,1990,17679351
+Northern Europe,Middle-income countries,1990,634935
+Southern Europe,Middle-income countries,1990,1866037
+Western Europe,Middle-income countries,1990,810773
+Caribbean,Middle-income countries,1990,288516
+Central America,Middle-income countries,1990,1231803
+South America,Middle-income countries,1990,2054624
+NORTHERN AMERICA,Middle-income countries,1990,501565
+OCEANIA,Middle-income countries,1990,85705
+Eastern Africa,Upper-middle-income countries,1990,513716
+Middle Africa,Upper-middle-income countries,1990,113303
+Northern Africa,Upper-middle-income countries,1990,361412
+Southern Africa,Upper-middle-income countries,1990,273245
+Western Africa,Upper-middle-income countries,1990,104812
+Central Asia,Upper-middle-income countries,1990,4749803
+Eastern Asia,Upper-middle-income countries,1990,784043
+South-Eastern Asia,Upper-middle-income countries,1990,1312783
+Southern Asia,Upper-middle-income countries,1990,4251104
+Western Asia,Upper-middle-income countries,1990,5132933
+Eastern Europe,Upper-middle-income countries,1990,9592159
+Northern Europe,Upper-middle-income countries,1990,508627
+Southern Europe,Upper-middle-income countries,1990,1833905
+Western Europe,Upper-middle-income countries,1990,670317
+Caribbean,Upper-middle-income countries,1990,285515
+Central America,Upper-middle-income countries,1990,895249
+South America,Upper-middle-income countries,1990,1999176
+NORTHERN AMERICA,Upper-middle-income countries,1990,391109
+OCEANIA,Upper-middle-income countries,1990,53986
+Eastern Africa,Lower-middle-income countries,1990,1585911
+Middle Africa,Lower-middle-income countries,1990,425222
+Northern Africa,Lower-middle-income countries,1990,272099
+Southern Africa,Lower-middle-income countries,1990,52628
+Western Africa,Lower-middle-income countries,1990,2740594
+Central Asia,Lower-middle-income countries,1990,699278
+Eastern Asia,Lower-middle-income countries,1990,351109
+South-Eastern Asia,Lower-middle-income countries,1990,808705
+Southern Asia,Lower-middle-income countries,1990,13872579
+Western Asia,Lower-middle-income countries,1990,701811
+Eastern Europe,Lower-middle-income countries,1990,8087192
+Northern Europe,Lower-middle-income countries,1990,126308
+Southern Europe,Lower-middle-income countries,1990,32132
+Western Europe,Lower-middle-income countries,1990,140456
+Caribbean,Lower-middle-income countries,1990,3001
+Central America,Lower-middle-income countries,1990,336554
+South America,Lower-middle-income countries,1990,55448
+NORTHERN AMERICA,Lower-middle-income countries,1990,110456
+OCEANIA,Lower-middle-income countries,1990,31719
+Eastern Africa,Low-income countries,1990,4678450
+Middle Africa,Low-income countries,1990,962632
+Northern Africa,Low-income countries,1990,279291
+Southern Africa,Low-income countries,1990,11965
+Western Africa,Low-income countries,1990,1476645
+Central Asia,Low-income countries,1990,83639
+Eastern Asia,Low-income countries,1990,31337
+South-Eastern Asia,Low-income countries,1990,3780
+Southern Asia,Low-income countries,1990,28966
+Western Asia,Low-income countries,1990,268101
+Eastern Europe,Low-income countries,1990,372109
+Northern Europe,Low-income countries,1990,5798
+Southern Europe,Low-income countries,1990,6166
+Western Europe,Low-income countries,1990,31602
+Caribbean,Low-income countries,1990,5397
+Central America,Low-income countries,1990,580
+South America,Low-income countries,1990,5588
+NORTHERN AMERICA,Low-income countries,1990,9894
+OCEANIA,Low-income countries,1990,271
+Eastern Africa,Developed regions,1995,1023533
+Middle Africa,Developed regions,1995,476996
+Northern Africa,Developed regions,1995,3418150
+Southern Africa,Developed regions,1995,304581
+Western Africa,Developed regions,1995,965984
+Central Asia,Developed regions,1995,5576141
+Eastern Asia,Developed regions,1995,4746136
+South-Eastern Asia,Developed regions,1995,4623070
+Southern Asia,Developed regions,1995,3681341
+Western Asia,Developed regions,1995,6537373
+Eastern Europe,Developed regions,1995,17870566
+Northern Europe,Developed regions,1995,5791289
+Southern Europe,Developed regions,1995,10401477
+Western Europe,Developed regions,1995,5422085
+Caribbean,Developed regions,1995,4451551
+Central America,Developed regions,1995,8604622
+South America,Developed regions,1995,2860518
+NORTHERN AMERICA,Developed regions,1995,1950736
+OCEANIA,Developed regions,1995,934229
+Eastern Africa,Less developed regions,1995,6711241
+Middle Africa,Less developed regions,1995,1380606
+Northern Africa,Less developed regions,1995,2434271
+Southern Africa,Less developed regions,1995,299875
+Western Africa,Less developed regions,1995,5326157
+Central Asia,Less developed regions,1995,583718
+Eastern Asia,Less developed regions,1995,3420539
+South-Eastern Asia,Less developed regions,1995,5071178
+Southern Asia,Less developed regions,1995,19228783
+Western Asia,Less developed regions,1995,5679643
+Eastern Europe,Less developed regions,1995,6298022
+Northern Europe,Less developed regions,1995,410958
+Southern Europe,Less developed regions,1995,1488479
+Western Europe,Less developed regions,1995,953127
+Caribbean,Less developed regions,1995,584302
+Central America,Less developed regions,1995,683842
+South America,Less developed regions,1995,2484869
+NORTHERN AMERICA,Less developed regions,1995,995425
+OCEANIA,Less developed regions,1995,137066
+Eastern Africa,"Less developed regions, excluding least developed countries",1995,1608250
+Middle Africa,"Less developed regions, excluding least developed countries",1995,416622
+Northern Africa,"Less developed regions, excluding least developed countries",1995,2005458
+Southern Africa,"Less developed regions, excluding least developed countries",1995,265508
+Western Africa,"Less developed regions, excluding least developed countries",1995,2858143
+Central Asia,"Less developed regions, excluding least developed countries",1995,545149
+Eastern Asia,"Less developed regions, excluding least developed countries",1995,3185257
+South-Eastern Asia,"Less developed regions, excluding least developed countries",1995,4403286
+Southern Asia,"Less developed regions, excluding least developed countries",1995,18463844
+Western Asia,"Less developed regions, excluding least developed countries",1995,5648056
+Eastern Europe,"Less developed regions, excluding least developed countries",1995,6296485
+Northern Europe,"Less developed regions, excluding least developed countries",1995,379473
+Southern Europe,"Less developed regions, excluding least developed countries",1995,1474418
+Western Europe,"Less developed regions, excluding least developed countries",1995,905444
+Caribbean,"Less developed regions, excluding least developed countries",1995,579109
+Central America,"Less developed regions, excluding least developed countries",1995,683292
+South America,"Less developed regions, excluding least developed countries",1995,2473724
+NORTHERN AMERICA,"Less developed regions, excluding least developed countries",1995,952950
+OCEANIA,"Less developed regions, excluding least developed countries",1995,130349
+Eastern Africa,"Less developed regions, excluding China",1995,6711241
+Middle Africa,"Less developed regions, excluding China",1995,1380606
+Northern Africa,"Less developed regions, excluding China",1995,2434271
+Southern Africa,"Less developed regions, excluding China",1995,299875
+Western Africa,"Less developed regions, excluding China",1995,5326157
+Central Asia,"Less developed regions, excluding China",1995,583718
+Eastern Asia,"Less developed regions, excluding China",1995,1314876
+South-Eastern Asia,"Less developed regions, excluding China",1995,4519132
+Southern Asia,"Less developed regions, excluding China",1995,19196790
+Western Asia,"Less developed regions, excluding China",1995,5679643
+Eastern Europe,"Less developed regions, excluding China",1995,6297376
+Northern Europe,"Less developed regions, excluding China",1995,395190
+Southern Europe,"Less developed regions, excluding China",1995,1483790
+Western Europe,"Less developed regions, excluding China",1995,948703
+Caribbean,"Less developed regions, excluding China",1995,584302
+Central America,"Less developed regions, excluding China",1995,683842
+South America,"Less developed regions, excluding China",1995,2470903
+NORTHERN AMERICA,"Less developed regions, excluding China",1995,964554
+OCEANIA,"Less developed regions, excluding China",1995,127472
+Eastern Africa,Least developed countries,1995,5102991
+Middle Africa,Least developed countries,1995,963984
+Northern Africa,Least developed countries,1995,428813
+Southern Africa,Least developed countries,1995,34367
+Western Africa,Least developed countries,1995,2468014
+Central Asia,Least developed countries,1995,38569
+Eastern Asia,Least developed countries,1995,235282
+South-Eastern Asia,Least developed countries,1995,667892
+Southern Asia,Least developed countries,1995,764939
+Western Asia,Least developed countries,1995,31587
+Eastern Europe,Least developed countries,1995,1537
+Northern Europe,Least developed countries,1995,31485
+Southern Europe,Least developed countries,1995,14061
+Western Europe,Least developed countries,1995,47683
+Caribbean,Least developed countries,1995,5193
+Central America,Least developed countries,1995,550
+South America,Least developed countries,1995,11145
+NORTHERN AMERICA,Least developed countries,1995,42475
+OCEANIA,Least developed countries,1995,6717
+Eastern Africa,Land-locked Developing Countries (LLDC),1995,1866800
+Middle Africa,Land-locked Developing Countries (LLDC),1995,472470
+Northern Africa,Land-locked Developing Countries (LLDC),1995,352810
+Southern Africa,Land-locked Developing Countries (LLDC),1995,53604
+Western Africa,Land-locked Developing Countries (LLDC),1995,734211
+Central Asia,Land-locked Developing Countries (LLDC),1995,520598
+Eastern Asia,Land-locked Developing Countries (LLDC),1995,113642
+South-Eastern Asia,Land-locked Developing Countries (LLDC),1995,17649
+Southern Asia,Land-locked Developing Countries (LLDC),1995,712989
+Western Asia,Land-locked Developing Countries (LLDC),1995,1035825
+Eastern Europe,Land-locked Developing Countries (LLDC),1995,5198735
+Northern Europe,Land-locked Developing Countries (LLDC),1995,41830
+Southern Europe,Land-locked Developing Countries (LLDC),1995,101139
+Western Europe,Land-locked Developing Countries (LLDC),1995,55472
+Caribbean,Land-locked Developing Countries (LLDC),1995,772
+Central America,Land-locked Developing Countries (LLDC),1995,12907
+South America,Land-locked Developing Countries (LLDC),1995,217133
+NORTHERN AMERICA,Land-locked Developing Countries (LLDC),1995,12496
+OCEANIA,Land-locked Developing Countries (LLDC),1995,593
+Eastern Africa,Small island developing States (SIDS),1995,15974
+Middle Africa,Small island developing States (SIDS),1995,6421
+Northern Africa,Small island developing States (SIDS),1995,31669
+Southern Africa,Small island developing States (SIDS),1995,856
+Western Africa,Small island developing States (SIDS),1995,31675
+Central Asia,Small island developing States (SIDS),1995,4
+Eastern Asia,Small island developing States (SIDS),1995,274231
+South-Eastern Asia,Small island developing States (SIDS),1995,556822
+Southern Asia,Small island developing States (SIDS),1995,239423
+Western Asia,Small island developing States (SIDS),1995,22499
+Eastern Europe,Small island developing States (SIDS),1995,7201
+Northern Europe,Small island developing States (SIDS),1995,30697
+Southern Europe,Small island developing States (SIDS),1995,38676
+Western Europe,Small island developing States (SIDS),1995,146498
+Caribbean,Small island developing States (SIDS),1995,494330
+Central America,Small island developing States (SIDS),1995,45355
+South America,Small island developing States (SIDS),1995,88686
+NORTHERN AMERICA,Small island developing States (SIDS),1995,337195
+OCEANIA,Small island developing States (SIDS),1995,92507
+Eastern Africa,High-income countries,1995,1162407
+Middle Africa,High-income countries,1995,486852
+Northern Africa,High-income countries,1995,4694022
+Southern Africa,High-income countries,1995,316021
+Western Africa,High-income countries,1995,966527
+Central Asia,High-income countries,1995,454968
+Eastern Asia,High-income countries,1995,7017514
+South-Eastern Asia,High-income countries,1995,6888567
+Southern Asia,High-income countries,1995,8761448
+Western Asia,High-income countries,1995,5544570
+Eastern Europe,High-income countries,1995,7564119
+Northern Europe,High-income countries,1995,5548653
+Southern Europe,High-income countries,1995,9637948
+Western Europe,High-income countries,1995,5393705
+Caribbean,High-income countries,1995,4663118
+Central America,High-income countries,1995,8630101
+South America,High-income countries,1995,3081437
+NORTHERN AMERICA,High-income countries,1995,2355943
+OCEANIA,High-income countries,1995,981681
+Eastern Africa,Middle-income countries,1995,2630977
+Middle Africa,Middle-income countries,1995,646866
+Northern Africa,Middle-income countries,1995,738851
+Southern Africa,Middle-income countries,1995,264645
+Western Africa,Middle-income countries,1995,3266609
+Central Asia,Middle-income countries,1995,5636506
+Eastern Asia,Middle-income countries,1995,1117516
+South-Eastern Asia,Middle-income countries,1995,2801254
+Southern Asia,Middle-income countries,1995,14105455
+Western Asia,Middle-income countries,1995,6359328
+Eastern Europe,Middle-income countries,1995,16303794
+Northern Europe,Middle-income countries,1995,645675
+Southern Europe,Middle-income countries,1995,2244599
+Western Europe,Middle-income countries,1995,798735
+Caribbean,Middle-income countries,1995,312039
+Central America,Middle-income countries,1995,657813
+South America,Middle-income countries,1995,2229557
+NORTHERN AMERICA,Middle-income countries,1995,578704
+OCEANIA,Middle-income countries,1995,84963
+Eastern Africa,Upper-middle-income countries,1995,556176
+Middle Africa,Upper-middle-income countries,1995,137418
+Northern Africa,Upper-middle-income countries,1995,434947
+Southern Africa,Upper-middle-income countries,1995,225501
+Western Africa,Upper-middle-income countries,1995,115494
+Central Asia,Upper-middle-income countries,1995,4936501
+Eastern Asia,Upper-middle-income countries,1995,686655
+South-Eastern Asia,Upper-middle-income countries,1995,1884109
+Southern Asia,Upper-middle-income countries,1995,3028265
+Western Asia,Upper-middle-income countries,1995,5648960
+Eastern Europe,Upper-middle-income countries,1995,9336890
+Northern Europe,Upper-middle-income countries,1995,507537
+Southern Europe,Upper-middle-income countries,1995,2214391
+Western Europe,Upper-middle-income countries,1995,682999
+Caribbean,Upper-middle-income countries,1995,309025
+Central America,Upper-middle-income countries,1995,460377
+South America,Upper-middle-income countries,1995,2161531
+NORTHERN AMERICA,Upper-middle-income countries,1995,467524
+OCEANIA,Upper-middle-income countries,1995,54584
+Eastern Africa,Lower-middle-income countries,1995,2074801
+Middle Africa,Lower-middle-income countries,1995,509448
+Northern Africa,Lower-middle-income countries,1995,303904
+Southern Africa,Lower-middle-income countries,1995,39144
+Western Africa,Lower-middle-income countries,1995,3151115
+Central Asia,Lower-middle-income countries,1995,700005
+Eastern Asia,Lower-middle-income countries,1995,430861
+South-Eastern Asia,Lower-middle-income countries,1995,917145
+Southern Asia,Lower-middle-income countries,1995,11077190
+Western Asia,Lower-middle-income countries,1995,710368
+Eastern Europe,Lower-middle-income countries,1995,6966904
+Northern Europe,Lower-middle-income countries,1995,138138
+Southern Europe,Lower-middle-income countries,1995,30208
+Western Europe,Lower-middle-income countries,1995,115736
+Caribbean,Lower-middle-income countries,1995,3014
+Central America,Lower-middle-income countries,1995,197436
+South America,Lower-middle-income countries,1995,68026
+NORTHERN AMERICA,Lower-middle-income countries,1995,111180
+OCEANIA,Lower-middle-income countries,1995,30379
+Eastern Africa,Low-income countries,1995,3903903
+Middle Africa,Low-income countries,1995,723884
+Northern Africa,Low-income countries,1995,419242
+Southern Africa,Low-income countries,1995,23769
+Western Africa,Low-income countries,1995,2056308
+Central Asia,Low-income countries,1995,68385
+Eastern Asia,Low-income countries,1995,30341
+South-Eastern Asia,Low-income countries,1995,3517
+Southern Asia,Low-income countries,1995,43114
+Western Asia,Low-income countries,1995,312697
+Eastern Europe,Low-income countries,1995,300675
+Northern Europe,Low-income countries,1995,6439
+Southern Europe,Low-income countries,1995,6794
+Western Europe,Low-income countries,1995,32453
+Caribbean,Low-income countries,1995,5131
+Central America,Low-income countries,1995,550
+South America,Low-income countries,1995,6164
+NORTHERN AMERICA,Low-income countries,1995,10139
+OCEANIA,Low-income countries,1995,260
+Eastern Africa,Developed regions,2000,1203241
+Middle Africa,Developed regions,2000,555050
+Northern Africa,Developed regions,2000,3751335
+Southern Africa,Developed regions,2000,411006
+Western Africa,Developed regions,2000,1223065
+Central Asia,Developed regions,2000,5894237
+Eastern Asia,Developed regions,2000,5734323
+South-Eastern Asia,Developed regions,2000,5542550
+Southern Asia,Developed regions,2000,4656760
+Western Asia,Developed regions,2000,6772438
+Eastern Europe,Developed regions,2000,18238874
+Northern Europe,Developed regions,2000,5938923
+Southern Europe,Developed regions,2000,11341484
+Western Europe,Developed regions,2000,5823252
+Caribbean,Developed regions,2000,5322354
+Central America,Developed regions,2000,11713406
+South America,Developed regions,2000,3702061
+NORTHERN AMERICA,Developed regions,2000,2015659
+OCEANIA,Developed regions,2000,1100642
+Eastern Africa,Less developed regions,2000,4876751
+Middle Africa,Less developed regions,2000,1884310
+Northern Africa,Less developed regions,2000,2690654
+Southern Africa,Less developed regions,2000,321306
+Western Africa,Less developed regions,2000,5163285
+Central Asia,Less developed regions,2000,568108
+Eastern Asia,Less developed regions,2000,3618365
+South-Eastern Asia,Less developed regions,2000,6545616
+Southern Asia,Less developed regions,2000,19778589
+Western Asia,Less developed regions,2000,6222627
+Eastern Europe,Less developed regions,2000,5581785
+Northern Europe,Less developed regions,2000,483617
+Southern Europe,Less developed regions,2000,1309861
+Western Europe,Less developed regions,2000,1009988
+Caribbean,Less developed regions,2000,644133
+Central America,Less developed regions,2000,515297
+South America,Less developed regions,2000,2731449
+NORTHERN AMERICA,Less developed regions,2000,1134260
+OCEANIA,Less developed regions,2000,146194
+Eastern Africa,"Less developed regions, excluding least developed countries",2000,1759038
+Middle Africa,"Less developed regions, excluding least developed countries",2000,562190
+Northern Africa,"Less developed regions, excluding least developed countries",2000,2189425
+Southern Africa,"Less developed regions, excluding least developed countries",2000,286113
+Western Africa,"Less developed regions, excluding least developed countries",2000,2958214
+Central Asia,"Less developed regions, excluding least developed countries",2000,533533
+Eastern Asia,"Less developed regions, excluding least developed countries",2000,3403075
+South-Eastern Asia,"Less developed regions, excluding least developed countries",2000,5793418
+Southern Asia,"Less developed regions, excluding least developed countries",2000,18963740
+Western Asia,"Less developed regions, excluding least developed countries",2000,6181359
+Eastern Europe,"Less developed regions, excluding least developed countries",2000,5580308
+Northern Europe,"Less developed regions, excluding least developed countries",2000,442711
+Southern Europe,"Less developed regions, excluding least developed countries",2000,1294377
+Western Europe,"Less developed regions, excluding least developed countries",2000,962432
+Caribbean,"Less developed regions, excluding least developed countries",2000,639292
+Central America,"Less developed regions, excluding least developed countries",2000,514776
+South America,"Less developed regions, excluding least developed countries",2000,2715817
+NORTHERN AMERICA,"Less developed regions, excluding least developed countries",2000,1089448
+OCEANIA,"Less developed regions, excluding least developed countries",2000,139472
+Eastern Africa,"Less developed regions, excluding China",2000,4876751
+Middle Africa,"Less developed regions, excluding China",2000,1884310
+Northern Africa,"Less developed regions, excluding China",2000,2690654
+Southern Africa,"Less developed regions, excluding China",2000,321306
+Western Africa,"Less developed regions, excluding China",2000,5163285
+Central Asia,"Less developed regions, excluding China",2000,568108
+Eastern Asia,"Less developed regions, excluding China",2000,1369562
+South-Eastern Asia,"Less developed regions, excluding China",2000,5949154
+Southern Asia,"Less developed regions, excluding China",2000,19741543
+Western Asia,"Less developed regions, excluding China",2000,6222627
+Eastern Europe,"Less developed regions, excluding China",2000,5580774
+Northern Europe,"Less developed regions, excluding China",2000,465575
+Southern Europe,"Less developed regions, excluding China",2000,1307316
+Western Europe,"Less developed regions, excluding China",2000,1005106
+Caribbean,"Less developed regions, excluding China",2000,644133
+Central America,"Less developed regions, excluding China",2000,515297
+South America,"Less developed regions, excluding China",2000,2703673
+NORTHERN AMERICA,"Less developed regions, excluding China",2000,1093986
+OCEANIA,"Less developed regions, excluding China",2000,135177
+Eastern Africa,Least developed countries,2000,3117713
+Middle Africa,Least developed countries,2000,1322120
+Northern Africa,Least developed countries,2000,501229
+Southern Africa,Least developed countries,2000,35193
+Western Africa,Least developed countries,2000,2205071
+Central Asia,Least developed countries,2000,34575
+Eastern Asia,Least developed countries,2000,215290
+South-Eastern Asia,Least developed countries,2000,752198
+Southern Asia,Least developed countries,2000,814849
+Western Asia,Least developed countries,2000,41268
+Eastern Europe,Least developed countries,2000,1477
+Northern Europe,Least developed countries,2000,40906
+Southern Europe,Least developed countries,2000,15484
+Western Europe,Least developed countries,2000,47556
+Caribbean,Least developed countries,2000,4841
+Central America,Least developed countries,2000,521
+South America,Least developed countries,2000,15632
+NORTHERN AMERICA,Least developed countries,2000,44812
+OCEANIA,Least developed countries,2000,6722
+Eastern Africa,Land-locked Developing Countries (LLDC),2000,1471956
+Middle Africa,Land-locked Developing Countries (LLDC),2000,692962
+Northern Africa,Land-locked Developing Countries (LLDC),2000,423148
+Southern Africa,Land-locked Developing Countries (LLDC),2000,62788
+Western Africa,Land-locked Developing Countries (LLDC),2000,743974
+Central Asia,Land-locked Developing Countries (LLDC),2000,503553
+Eastern Asia,Land-locked Developing Countries (LLDC),2000,113380
+South-Eastern Asia,Land-locked Developing Countries (LLDC),2000,15175
+Southern Asia,Land-locked Developing Countries (LLDC),2000,763783
+Western Asia,Land-locked Developing Countries (LLDC),2000,1001877
+Eastern Europe,Land-locked Developing Countries (LLDC),2000,4499220
+Northern Europe,Land-locked Developing Countries (LLDC),2000,44125
+Southern Europe,Land-locked Developing Countries (LLDC),2000,110840
+Western Europe,Land-locked Developing Countries (LLDC),2000,45557
+Caribbean,Land-locked Developing Countries (LLDC),2000,1013
+Central America,Land-locked Developing Countries (LLDC),2000,12826
+South America,Land-locked Developing Countries (LLDC),2000,217436
+NORTHERN AMERICA,Land-locked Developing Countries (LLDC),2000,13950
+OCEANIA,Land-locked Developing Countries (LLDC),2000,679
+Eastern Africa,Small island developing States (SIDS),2000,17084
+Middle Africa,Small island developing States (SIDS),2000,7621
+Northern Africa,Small island developing States (SIDS),2000,34367
+Southern Africa,Small island developing States (SIDS),2000,1218
+Western Africa,Small island developing States (SIDS),2000,23434
+Central Asia,Small island developing States (SIDS),2000,4
+Eastern Asia,Small island developing States (SIDS),2000,366477
+South-Eastern Asia,Small island developing States (SIDS),2000,865025
+Southern Asia,Small island developing States (SIDS),2000,319165
+Western Asia,Small island developing States (SIDS),2000,25347
+Eastern Europe,Small island developing States (SIDS),2000,5676
+Northern Europe,Small island developing States (SIDS),2000,30988
+Southern Europe,Small island developing States (SIDS),2000,37849
+Western Europe,Small island developing States (SIDS),2000,167992
+Caribbean,Small island developing States (SIDS),2000,546700
+Central America,Small island developing States (SIDS),2000,49456
+South America,Small island developing States (SIDS),2000,104299
+NORTHERN AMERICA,Small island developing States (SIDS),2000,344436
+OCEANIA,Small island developing States (SIDS),2000,96709
+Eastern Africa,High-income countries,2000,1357702
+Middle Africa,High-income countries,2000,563150
+Northern Africa,High-income countries,2000,5133633
+Southern Africa,High-income countries,2000,424011
+Western Africa,High-income countries,2000,1224839
+Central Asia,High-income countries,2000,731380
+Eastern Asia,High-income countries,2000,8287543
+South-Eastern Asia,High-income countries,2000,8312988
+Southern Asia,High-income countries,2000,10535270
+Western Asia,High-income countries,2000,5955933
+Eastern Europe,High-income countries,2000,8638562
+Northern Europe,High-income countries,2000,5694327
+Southern Europe,High-income countries,2000,10314486
+Western Europe,High-income countries,2000,5796696
+Caribbean,High-income countries,2000,5563828
+Central America,High-income countries,2000,11742187
+South America,High-income countries,2000,3975182
+NORTHERN AMERICA,High-income countries,2000,2452752
+OCEANIA,High-income countries,2000,1156594
+Eastern Africa,Middle-income countries,2000,2470178
+Middle Africa,Middle-income countries,2000,1017528
+Northern Africa,Middle-income countries,2000,815656
+Southern Africa,Middle-income countries,2000,282512
+Western Africa,Middle-income countries,2000,3308014
+Central Asia,Middle-income countries,2000,5675100
+Eastern Asia,Middle-income countries,2000,1033318
+South-Eastern Asia,Middle-income countries,2000,3770309
+Southern Asia,Middle-income countries,2000,13839846
+Western Asia,Middle-income countries,2000,6632109
+Eastern Europe,Middle-income countries,2000,14925695
+Northern Europe,Middle-income countries,2000,720167
+Southern Europe,Middle-income countries,2000,2328817
+Western Europe,Middle-income countries,2000,817393
+Caribbean,Middle-income countries,2000,340109
+Central America,Middle-income countries,2000,485995
+South America,Middle-income countries,2000,2421821
+NORTHERN AMERICA,Middle-income countries,2000,684860
+OCEANIA,Middle-income countries,2000,85282
+Eastern Africa,Upper-middle-income countries,2000,587104
+Middle Africa,Upper-middle-income countries,2000,192658
+Northern Africa,Upper-middle-income countries,2000,506639
+Southern Africa,Upper-middle-income countries,2000,238127
+Western Africa,Upper-middle-income countries,2000,131192
+Central Asia,Upper-middle-income countries,2000,4955343
+Eastern Asia,Upper-middle-income countries,2000,603312
+South-Eastern Asia,Upper-middle-income countries,2000,2817880
+Southern Asia,Upper-middle-income countries,2000,2723440
+Western Asia,Upper-middle-income countries,2000,5882259
+Eastern Europe,Upper-middle-income countries,2000,8963285
+Northern Europe,Upper-middle-income countries,2000,536236
+Southern Europe,Upper-middle-income countries,2000,2298730
+Western Europe,Upper-middle-income countries,2000,719756
+Caribbean,Upper-middle-income countries,2000,336459
+Central America,Upper-middle-income countries,2000,411741
+South America,Upper-middle-income countries,2000,2335777
+NORTHERN AMERICA,Upper-middle-income countries,2000,564501
+OCEANIA,Upper-middle-income countries,2000,57881
+Eastern Africa,Lower-middle-income countries,2000,1883074
+Middle Africa,Lower-middle-income countries,2000,824870
+Northern Africa,Lower-middle-income countries,2000,309017
+Southern Africa,Lower-middle-income countries,2000,44385
+Western Africa,Lower-middle-income countries,2000,3176822
+Central Asia,Lower-middle-income countries,2000,719757
+Eastern Asia,Lower-middle-income countries,2000,430006
+South-Eastern Asia,Lower-middle-income countries,2000,952429
+Southern Asia,Lower-middle-income countries,2000,11116406
+Western Asia,Lower-middle-income countries,2000,749850
+Eastern Europe,Lower-middle-income countries,2000,5962410
+Northern Europe,Lower-middle-income countries,2000,183931
+Southern Europe,Lower-middle-income countries,2000,30087
+Western Europe,Lower-middle-income countries,2000,97637
+Caribbean,Lower-middle-income countries,2000,3650
+Central America,Lower-middle-income countries,2000,74254
+South America,Lower-middle-income countries,2000,86044
+NORTHERN AMERICA,Lower-middle-income countries,2000,120359
+OCEANIA,Lower-middle-income countries,2000,27401
+Eastern Africa,Low-income countries,2000,2188525
+Middle Africa,Low-income countries,2000,858682
+Northern Africa,Low-income countries,2000,492342
+Southern Africa,Low-income countries,2000,25769
+Western Africa,Low-income countries,2000,1850428
+Central Asia,Low-income countries,2000,55865
+Eastern Asia,Low-income countries,2000,30248
+South-Eastern Asia,Low-income countries,2000,3969
+Southern Asia,Low-income countries,2000,60100
+Western Asia,Low-income countries,2000,406488
+Eastern Europe,Low-income countries,2000,256402
+Northern Europe,Low-income countries,2000,6395
+Southern Europe,Low-income countries,2000,7286
+Western Europe,Low-income countries,2000,33127
+Caribbean,Low-income countries,2000,4766
+Central America,Low-income countries,2000,521
+South America,Low-income countries,2000,6629
+NORTHERN AMERICA,Low-income countries,2000,10766
+OCEANIA,Low-income countries,2000,260
+Eastern Africa,Developed regions,2005,1619839
+Middle Africa,Developed regions,2005,714426
+Northern Africa,Developed regions,2005,4920180
+Southern Africa,Developed regions,2005,511527
+Western Africa,Developed regions,2005,1709963
+Central Asia,Developed regions,2005,6314840
+Eastern Asia,Developed regions,2005,6829480
+South-Eastern Asia,Developed regions,2005,6400368
+Southern Asia,Developed regions,2005,6053543
+Western Asia,Developed regions,2005,6735738
+Eastern Europe,Developed regions,2005,20087244
+Northern Europe,Developed regions,2005,6235819
+Southern Europe,Developed regions,2005,10331708
+Western Europe,Developed regions,2005,6399881
+Caribbean,Developed regions,2005,5796495
+Central America,Developed regions,2005,13411141
+South America,Developed regions,2005,5637868
+NORTHERN AMERICA,Developed regions,2005,2147035
+OCEANIA,Developed regions,2005,1230865
+Eastern Africa,Less developed regions,2005,4572908
+Middle Africa,Less developed regions,2005,2012130
+Northern Africa,Less developed regions,2005,3046241
+Southern Africa,Less developed regions,2005,393087
+Western Africa,Less developed regions,2005,5741105
+Central Asia,Less developed regions,2005,604059
+Eastern Asia,Less developed regions,2005,4190494
+South-Eastern Asia,Less developed regions,2005,8136641
+Southern Asia,Less developed regions,2005,20375248
+Western Asia,Less developed regions,2005,7165632
+Eastern Europe,Less developed regions,2005,5467542
+Northern Europe,Less developed regions,2005,544275
+Southern Europe,Less developed regions,2005,1203510
+Western Europe,Less developed regions,2005,1067005
+Caribbean,Less developed regions,2005,710176
+Central America,Less developed regions,2005,567509
+South America,Less developed regions,2005,3215017
+NORTHERN AMERICA,Less developed regions,2005,1365071
+OCEANIA,Less developed regions,2005,160553
+Eastern Africa,"Less developed regions, excluding least developed countries",2005,2038447
+Middle Africa,"Less developed regions, excluding least developed countries",2005,640814
+Northern Africa,"Less developed regions, excluding least developed countries",2005,2275660
+Southern Africa,"Less developed regions, excluding least developed countries",2005,349989
+Western Africa,"Less developed regions, excluding least developed countries",2005,3625798
+Central Asia,"Less developed regions, excluding least developed countries",2005,574177
+Eastern Asia,"Less developed regions, excluding least developed countries",2005,3960353
+South-Eastern Asia,"Less developed regions, excluding least developed countries",2005,7440546
+Southern Asia,"Less developed regions, excluding least developed countries",2005,19562063
+Western Asia,"Less developed regions, excluding least developed countries",2005,7122082
+Eastern Europe,"Less developed regions, excluding least developed countries",2005,5466215
+Northern Europe,"Less developed regions, excluding least developed countries",2005,498584
+Southern Europe,"Less developed regions, excluding least developed countries",2005,1187376
+Western Europe,"Less developed regions, excluding least developed countries",2005,1015429
+Caribbean,"Less developed regions, excluding least developed countries",2005,705264
+Central America,"Less developed regions, excluding least developed countries",2005,567015
+South America,"Less developed regions, excluding least developed countries",2005,3197667
+NORTHERN AMERICA,"Less developed regions, excluding least developed countries",2005,1315826
+OCEANIA,"Less developed regions, excluding least developed countries",2005,153889
+Eastern Africa,"Less developed regions, excluding China",2005,4572908
+Middle Africa,"Less developed regions, excluding China",2005,2012130
+Northern Africa,"Less developed regions, excluding China",2005,3046241
+Southern Africa,"Less developed regions, excluding China",2005,393087
+Western Africa,"Less developed regions, excluding China",2005,5741105
+Central Asia,"Less developed regions, excluding China",2005,604059
+Eastern Asia,"Less developed regions, excluding China",2005,1617507
+South-Eastern Asia,"Less developed regions, excluding China",2005,7489756
+Southern Asia,"Less developed regions, excluding China",2005,20332249
+Western Asia,"Less developed regions, excluding China",2005,7165632
+Eastern Europe,"Less developed regions, excluding China",2005,5466107
+Northern Europe,"Less developed regions, excluding China",2005,523556
+Southern Europe,"Less developed regions, excluding China",2005,1200623
+Western Europe,"Less developed regions, excluding China",2005,1061675
+Caribbean,"Less developed regions, excluding China",2005,710176
+Central America,"Less developed regions, excluding China",2005,567509
+South America,"Less developed regions, excluding China",2005,3174863
+NORTHERN AMERICA,"Less developed regions, excluding China",2005,1320705
+OCEANIA,"Less developed regions, excluding China",2005,147940
+Eastern Africa,Least developed countries,2005,2534461
+Middle Africa,Least developed countries,2005,1371316
+Northern Africa,Least developed countries,2005,770581
+Southern Africa,Least developed countries,2005,43098
+Western Africa,Least developed countries,2005,2115307
+Central Asia,Least developed countries,2005,29882
+Eastern Asia,Least developed countries,2005,230141
+South-Eastern Asia,Least developed countries,2005,696095
+Southern Asia,Least developed countries,2005,813185
+Western Asia,Least developed countries,2005,43550
+Eastern Europe,Least developed countries,2005,1327
+Northern Europe,Least developed countries,2005,45691
+Southern Europe,Least developed countries,2005,16134
+Western Europe,Least developed countries,2005,51576
+Caribbean,Least developed countries,2005,4912
+Central America,Least developed countries,2005,494
+South America,Least developed countries,2005,17350
+NORTHERN AMERICA,Least developed countries,2005,49245
+OCEANIA,Least developed countries,2005,6664
+Eastern Africa,Land-locked Developing Countries (LLDC),2005,1364807
+Middle Africa,Land-locked Developing Countries (LLDC),2005,736648
+Northern Africa,Land-locked Developing Countries (LLDC),2005,688657
+Southern Africa,Land-locked Developing Countries (LLDC),2005,62466
+Western Africa,Land-locked Developing Countries (LLDC),2005,844058
+Central Asia,Land-locked Developing Countries (LLDC),2005,530856
+Eastern Asia,Land-locked Developing Countries (LLDC),2005,126039
+South-Eastern Asia,Land-locked Developing Countries (LLDC),2005,14180
+Southern Asia,Land-locked Developing Countries (LLDC),2005,742037
+Western Asia,Land-locked Developing Countries (LLDC),2005,819258
+Eastern Europe,Land-locked Developing Countries (LLDC),2005,4395896
+Northern Europe,Land-locked Developing Countries (LLDC),2005,39764
+Southern Europe,Land-locked Developing Countries (LLDC),2005,116044
+Western Europe,Land-locked Developing Countries (LLDC),2005,47566
+Caribbean,Land-locked Developing Countries (LLDC),2005,1368
+Central America,Land-locked Developing Countries (LLDC),2005,12094
+South America,Land-locked Developing Countries (LLDC),2005,219039
+NORTHERN AMERICA,Land-locked Developing Countries (LLDC),2005,15215
+OCEANIA,Land-locked Developing Countries (LLDC),2005,954
+Eastern Africa,Small island developing States (SIDS),2005,18130
+Middle Africa,Small island developing States (SIDS),2005,5485
+Northern Africa,Small island developing States (SIDS),2005,52684
+Southern Africa,Small island developing States (SIDS),2005,1191
+Western Africa,Small island developing States (SIDS),2005,26749
+Central Asia,Small island developing States (SIDS),2005,7
+Eastern Asia,Small island developing States (SIDS),2005,412894
+South-Eastern Asia,Small island developing States (SIDS),2005,1047170
+Southern Asia,Small island developing States (SIDS),2005,540109
+Western Asia,Small island developing States (SIDS),2005,36847
+Eastern Europe,Small island developing States (SIDS),2005,4428
+Northern Europe,Small island developing States (SIDS),2005,30656
+Southern Europe,Small island developing States (SIDS),2005,31064
+Western Europe,Small island developing States (SIDS),2005,176580
+Caribbean,Small island developing States (SIDS),2005,609284
+Central America,Small island developing States (SIDS),2005,51669
+South America,Small island developing States (SIDS),2005,104624
+NORTHERN AMERICA,Small island developing States (SIDS),2005,349892
+OCEANIA,Small island developing States (SIDS),2005,99537
+Eastern Africa,High-income countries,2005,1804683
+Middle Africa,High-income countries,2005,719051
+Northern Africa,High-income countries,2005,6591334
+Southern Africa,High-income countries,2005,526640
+Western Africa,High-income countries,2005,1716603
+Central Asia,High-income countries,2005,984547
+Eastern Asia,High-income countries,2005,9816796
+South-Eastern Asia,High-income countries,2005,9745758
+Southern Asia,High-income countries,2005,13836388
+Western Asia,High-income countries,2005,6237895
+Eastern Europe,High-income countries,2005,11174637
+Northern Europe,High-income countries,2005,6021011
+Southern Europe,High-income countries,2005,9414783
+Western Europe,High-income countries,2005,6386626
+Caribbean,High-income countries,2005,6062832
+Central America,High-income countries,2005,13445463
+South America,High-income countries,2005,6016319
+NORTHERN AMERICA,High-income countries,2005,2607445
+OCEANIA,High-income countries,2005,1293419
+Eastern Africa,Middle-income countries,2005,2482097
+Middle Africa,Middle-income countries,2005,1025575
+Northern Africa,Middle-income countries,2005,613439
+Southern Africa,Middle-income countries,2005,346644
+Western Africa,Middle-income countries,2005,4074446
+Central Asia,Middle-income countries,2005,5883967
+Eastern Asia,Middle-income countries,2005,1167566
+South-Eastern Asia,Middle-income countries,2005,4785753
+Southern Asia,Middle-income countries,2005,12524668
+Western Asia,Middle-income countries,2005,6864472
+Eastern Europe,Middle-income countries,2005,14137359
+Northern Europe,Middle-income countries,2005,752484
+Southern Europe,Middle-income countries,2005,2111404
+Western Europe,Middle-income countries,2005,841515
+Caribbean,Middle-income countries,2005,377094
+Central America,Middle-income countries,2005,532693
+South America,Middle-income countries,2005,2790232
+NORTHERN AMERICA,Middle-income countries,2005,893780
+OCEANIA,Middle-income countries,2005,92740
+Eastern Africa,Upper-middle-income countries,2005,771310
+Middle Africa,Upper-middle-income countries,2005,210050
+Northern Africa,Upper-middle-income countries,2005,302917
+Southern Africa,Upper-middle-income countries,2005,297641
+Western Africa,Upper-middle-income countries,2005,146052
+Central Asia,Upper-middle-income countries,2005,5227523
+Eastern Asia,Upper-middle-income countries,2005,732111
+South-Eastern Asia,Upper-middle-income countries,2005,3895421
+Southern Asia,Upper-middle-income countries,2005,3119356
+Western Asia,Upper-middle-income countries,2005,6065128
+Eastern Europe,Upper-middle-income countries,2005,8748046
+Northern Europe,Upper-middle-income countries,2005,575323
+Southern Europe,Upper-middle-income countries,2005,2074454
+Western Europe,Upper-middle-income countries,2005,749198
+Caribbean,Upper-middle-income countries,2005,373029
+Central America,Upper-middle-income countries,2005,452344
+South America,Upper-middle-income countries,2005,2694033
+NORTHERN AMERICA,Upper-middle-income countries,2005,750024
+OCEANIA,Upper-middle-income countries,2005,63528
+Eastern Africa,Lower-middle-income countries,2005,1710787
+Middle Africa,Lower-middle-income countries,2005,815525
+Northern Africa,Lower-middle-income countries,2005,310522
+Southern Africa,Lower-middle-income countries,2005,49003
+Western Africa,Lower-middle-income countries,2005,3928394
+Central Asia,Lower-middle-income countries,2005,656444
+Eastern Asia,Lower-middle-income countries,2005,435455
+South-Eastern Asia,Lower-middle-income countries,2005,890332
+Southern Asia,Lower-middle-income countries,2005,9405312
+Western Asia,Lower-middle-income countries,2005,799344
+Eastern Europe,Lower-middle-income countries,2005,5389313
+Northern Europe,Lower-middle-income countries,2005,177161
+Southern Europe,Lower-middle-income countries,2005,36950
+Western Europe,Lower-middle-income countries,2005,92317
+Caribbean,Lower-middle-income countries,2005,4065
+Central America,Lower-middle-income countries,2005,80349
+South America,Lower-middle-income countries,2005,96199
+NORTHERN AMERICA,Lower-middle-income countries,2005,143756
+OCEANIA,Lower-middle-income countries,2005,29212
+Eastern Africa,Low-income countries,2005,1823688
+Middle Africa,Low-income countries,2005,981930
+Northern Africa,Low-income countries,2005,761269
+Southern Africa,Low-income countries,2005,31301
+Western Africa,Low-income countries,2005,1656393
+Central Asia,Low-income countries,2005,50385
+Eastern Asia,Low-income countries,2005,34231
+South-Eastern Asia,Low-income countries,2005,4650
+Southern Asia,Low-income countries,2005,67572
+Western Asia,Low-income countries,2005,798395
+Eastern Europe,Low-income countries,2005,242790
+Northern Europe,Low-income countries,2005,4832
+Southern Europe,Low-income countries,2005,8155
+Western Europe,Low-income countries,2005,35866
+Caribbean,Low-income countries,2005,4829
+Central America,Low-income countries,2005,494
+South America,Low-income countries,2005,6787
+NORTHERN AMERICA,Low-income countries,2005,9131
+OCEANIA,Low-income countries,2005,280
+Eastern Africa,Developed regions,2010,2070685
+Middle Africa,Developed regions,2010,803446
+Northern Africa,Developed regions,2010,5511004
+Southern Africa,Developed regions,2010,650439
+Western Africa,Developed regions,2010,2135593
+Central Asia,Developed regions,2010,6617738
+Eastern Asia,Developed regions,2010,7934898
+South-Eastern Asia,Developed regions,2010,7384973
+Southern Asia,Developed regions,2010,7672817
+Western Asia,Developed regions,2010,7057172
+Eastern Europe,Developed regions,2010,22172713
+Northern Europe,Developed regions,2010,6652635
+Southern Europe,Developed regions,2010,10606878
+Western Europe,Developed regions,2010,7071601
+Caribbean,Developed regions,2010,6479310
+Central America,Developed regions,2010,15565014
+South America,Developed regions,2010,7089096
+NORTHERN AMERICA,Developed regions,2010,2291342
+OCEANIA,Developed regions,2010,1413360
+Eastern Africa,Less developed regions,2010,5453507
+Middle Africa,Less developed regions,2010,2204097
+Northern Africa,Less developed regions,2010,3740124
+Southern Africa,Less developed regions,2010,549374
+Western Africa,Less developed regions,2010,6075583
+Central Asia,Less developed regions,2010,614557
+Eastern Asia,Less developed regions,2010,4928396
+South-Eastern Asia,Less developed regions,2010,10728939
+Southern Asia,Less developed regions,2010,26177276
+Western Asia,Less developed regions,2010,9005411
+Eastern Europe,Less developed regions,2010,5405429
+Northern Europe,Less developed regions,2010,526145
+Southern Europe,Less developed regions,2010,1121247
+Western Europe,Less developed regions,2010,1154653
+Caribbean,Less developed regions,2010,794192
+Central America,Less developed regions,2010,639437
+South America,Less developed regions,2010,4070601
+NORTHERN AMERICA,Less developed regions,2010,1678461
+OCEANIA,Less developed regions,2010,177808
+Eastern Africa,"Less developed regions, excluding least developed countries",2010,2775363
+Middle Africa,"Less developed regions, excluding least developed countries",2010,819253
+Northern Africa,"Less developed regions, excluding least developed countries",2010,3142846
+Southern Africa,"Less developed regions, excluding least developed countries",2010,499817
+Western Africa,"Less developed regions, excluding least developed countries",2010,3807712
+Central Asia,"Less developed regions, excluding least developed countries",2010,587879
+Eastern Asia,"Less developed regions, excluding least developed countries",2010,4674529
+South-Eastern Asia,"Less developed regions, excluding least developed countries",2010,9893048
+Southern Asia,"Less developed regions, excluding least developed countries",2010,25420573
+Western Asia,"Less developed regions, excluding least developed countries",2010,8950055
+Eastern Europe,"Less developed regions, excluding least developed countries",2010,5404370
+Northern Europe,"Less developed regions, excluding least developed countries",2010,474846
+Southern Europe,"Less developed regions, excluding least developed countries",2010,1101993
+Western Europe,"Less developed regions, excluding least developed countries",2010,1106394
+Caribbean,"Less developed regions, excluding least developed countries",2010,785179
+Central America,"Less developed regions, excluding least developed countries",2010,638919
+South America,"Less developed regions, excluding least developed countries",2010,4049523
+NORTHERN AMERICA,"Less developed regions, excluding least developed countries",2010,1623785
+OCEANIA,"Less developed regions, excluding least developed countries",2010,170394
+Eastern Africa,"Less developed regions, excluding China",2010,5453507
+Middle Africa,"Less developed regions, excluding China",2010,2204097
+Northern Africa,"Less developed regions, excluding China",2010,3740124
+Southern Africa,"Less developed regions, excluding China",2010,549374
+Western Africa,"Less developed regions, excluding China",2010,6075583
+Central Asia,"Less developed regions, excluding China",2010,614557
+Eastern Asia,"Less developed regions, excluding China",2010,2027650
+South-Eastern Asia,"Less developed regions, excluding China",2010,10033634
+Southern Asia,"Less developed regions, excluding China",2010,26128710
+Western Asia,"Less developed regions, excluding China",2010,9005411
+Eastern Europe,"Less developed regions, excluding China",2010,5403630
+Northern Europe,"Less developed regions, excluding China",2010,502899
+Southern Europe,"Less developed regions, excluding China",2010,1118328
+Western Europe,"Less developed regions, excluding China",2010,1148862
+Caribbean,"Less developed regions, excluding China",2010,794192
+Central America,"Less developed regions, excluding China",2010,639437
+South America,"Less developed regions, excluding China",2010,4019878
+NORTHERN AMERICA,"Less developed regions, excluding China",2010,1630666
+OCEANIA,"Less developed regions, excluding China",2010,163683
+Eastern Africa,Least developed countries,2010,2678144
+Middle Africa,Least developed countries,2010,1384844
+Northern Africa,Least developed countries,2010,597278
+Southern Africa,Least developed countries,2010,49557
+Western Africa,Least developed countries,2010,2267871
+Central Asia,Least developed countries,2010,26678
+Eastern Asia,Least developed countries,2010,253867
+South-Eastern Asia,Least developed countries,2010,835891
+Southern Asia,Least developed countries,2010,756703
+Western Asia,Least developed countries,2010,55356
+Eastern Europe,Least developed countries,2010,1059
+Northern Europe,Least developed countries,2010,51299
+Southern Europe,Least developed countries,2010,19254
+Western Europe,Least developed countries,2010,48259
+Caribbean,Least developed countries,2010,9013
+Central America,Least developed countries,2010,518
+South America,Least developed countries,2010,21078
+NORTHERN AMERICA,Least developed countries,2010,54676
+OCEANIA,Least developed countries,2010,7414
+Eastern Africa,Land-locked Developing Countries (LLDC),2010,1647152
+Middle Africa,Land-locked Developing Countries (LLDC),2010,825591
+Northern Africa,Land-locked Developing Countries (LLDC),2010,510805
+Southern Africa,Land-locked Developing Countries (LLDC),2010,57787
+Western Africa,Land-locked Developing Countries (LLDC),2010,1014363
+Central Asia,Land-locked Developing Countries (LLDC),2010,520843
+Eastern Asia,Land-locked Developing Countries (LLDC),2010,153014
+South-Eastern Asia,Land-locked Developing Countries (LLDC),2010,22792
+Southern Asia,Land-locked Developing Countries (LLDC),2010,673890
+Western Asia,Land-locked Developing Countries (LLDC),2010,558909
+Eastern Europe,Land-locked Developing Countries (LLDC),2010,4345986
+Northern Europe,Land-locked Developing Countries (LLDC),2010,32583
+Southern Europe,Land-locked Developing Countries (LLDC),2010,126472
+Western Europe,Land-locked Developing Countries (LLDC),2010,39946
+Caribbean,Land-locked Developing Countries (LLDC),2010,4311
+Central America,Land-locked Developing Countries (LLDC),2010,11344
+South America,Land-locked Developing Countries (LLDC),2010,222506
+NORTHERN AMERICA,Land-locked Developing Countries (LLDC),2010,16148
+OCEANIA,Land-locked Developing Countries (LLDC),2010,1992
+Eastern Africa,Small island developing States (SIDS),2010,19887
+Middle Africa,Small island developing States (SIDS),2010,3470
+Northern Africa,Small island developing States (SIDS),2010,81856
+Southern Africa,Small island developing States (SIDS),2010,1196
+Western Africa,Small island developing States (SIDS),2010,30529
+Central Asia,Small island developing States (SIDS),2010,11
+Eastern Asia,Small island developing States (SIDS),2010,477160
+South-Eastern Asia,Small island developing States (SIDS),2010,1285147
+Southern Asia,Small island developing States (SIDS),2010,824094
+Western Asia,Small island developing States (SIDS),2010,56112
+Eastern Europe,Small island developing States (SIDS),2010,3500
+Northern Europe,Small island developing States (SIDS),2010,30229
+Southern Europe,Small island developing States (SIDS),2010,25998
+Western Europe,Small island developing States (SIDS),2010,192617
+Caribbean,Small island developing States (SIDS),2010,672646
+Central America,Small island developing States (SIDS),2010,53301
+South America,Small island developing States (SIDS),2010,112952
+NORTHERN AMERICA,Small island developing States (SIDS),2010,330536
+OCEANIA,Small island developing States (SIDS),2010,98165
+Eastern Africa,High-income countries,2010,2323548
+Middle Africa,High-income countries,2010,809140
+Northern Africa,High-income countries,2010,8047830
+Southern Africa,High-income countries,2010,668902
+Western Africa,High-income countries,2010,2153903
+Central Asia,High-income countries,2010,1204553
+Eastern Asia,High-income countries,2010,11471241
+South-Eastern Asia,High-income countries,2010,12010416
+Southern Asia,High-income countries,2010,20464906
+Western Asia,High-income countries,2010,7367573
+Eastern Europe,High-income countries,2010,13834338
+Northern Europe,High-income countries,2010,6494075
+Southern Europe,High-income countries,2010,9656788
+Western Europe,High-income countries,2010,7104194
+Caribbean,High-income countries,2010,6771383
+Central America,High-income countries,2010,15608208
+South America,High-income countries,2010,7587603
+NORTHERN AMERICA,High-income countries,2010,2760852
+OCEANIA,High-income countries,2010,1481900
+Eastern Africa,Middle-income countries,2010,2786362
+Middle Africa,Middle-income countries,2010,1013381
+Northern Africa,Middle-income countries,2010,640724
+Southern Africa,Middle-income countries,2010,496167
+Western Africa,Middle-income countries,2010,4294125
+Central Asia,Middle-income countries,2010,5980592
+Eastern Asia,Middle-income countries,2010,1349006
+South-Eastern Asia,Middle-income countries,2010,6096309
+Southern Asia,Middle-income countries,2010,13302815
+Western Asia,Middle-income countries,2010,7062368
+Eastern Europe,Middle-income countries,2010,13501785
+Northern Europe,Middle-income countries,2010,678396
+Southern Europe,Middle-income countries,2010,2058615
+Western Europe,Middle-income countries,2010,876739
+Caribbean,Middle-income countries,2010,427246
+Central America,Middle-income countries,2010,595725
+South America,Middle-income countries,2010,3513926
+NORTHERN AMERICA,Middle-income countries,2010,1198462
+OCEANIA,Middle-income countries,2010,103169
+Eastern Africa,Upper-middle-income countries,2010,1188434
+Middle Africa,Upper-middle-income countries,2010,257736
+Northern Africa,Upper-middle-income countries,2010,311013
+Southern Africa,Upper-middle-income countries,2010,444473
+Western Africa,Upper-middle-income countries,2010,187396
+Central Asia,Upper-middle-income countries,2010,5393171
+Eastern Asia,Upper-middle-income countries,2010,903224
+South-Eastern Asia,Upper-middle-income countries,2010,5057382
+Southern Asia,Upper-middle-income countries,2010,3724894
+Western Asia,Upper-middle-income countries,2010,6259459
+Eastern Europe,Upper-middle-income countries,2010,8459677
+Northern Europe,Upper-middle-income countries,2010,527684
+Southern Europe,Upper-middle-income countries,2010,2009462
+Western Europe,Upper-middle-income countries,2010,762007
+Caribbean,Upper-middle-income countries,2010,422250
+Central America,Upper-middle-income countries,2010,511080
+South America,Upper-middle-income countries,2010,3410805
+NORTHERN AMERICA,Upper-middle-income countries,2010,1019674
+OCEANIA,Upper-middle-income countries,2010,72309
+Eastern Africa,Lower-middle-income countries,2010,1597928
+Middle Africa,Lower-middle-income countries,2010,755645
+Northern Africa,Lower-middle-income countries,2010,329711
+Southern Africa,Lower-middle-income countries,2010,51694
+Western Africa,Lower-middle-income countries,2010,4106729
+Central Asia,Lower-middle-income countries,2010,587421
+Eastern Asia,Lower-middle-income countries,2010,445782
+South-Eastern Asia,Lower-middle-income countries,2010,1038927
+Southern Asia,Lower-middle-income countries,2010,9577921
+Western Asia,Lower-middle-income countries,2010,802909
+Eastern Europe,Lower-middle-income countries,2010,5042108
+Northern Europe,Lower-middle-income countries,2010,150712
+Southern Europe,Lower-middle-income countries,2010,49153
+Western Europe,Lower-middle-income countries,2010,114732
+Caribbean,Lower-middle-income countries,2010,4996
+Central America,Lower-middle-income countries,2010,84645
+South America,Lower-middle-income countries,2010,103121
+NORTHERN AMERICA,Lower-middle-income countries,2010,178788
+OCEANIA,Lower-middle-income countries,2010,30860
+Eastern Africa,Low-income countries,2010,2321817
+Middle Africa,Low-income countries,2010,1185022
+Northern Africa,Low-income countries,2010,562174
+Southern Africa,Low-income countries,2010,34700
+Western Africa,Low-income countries,2010,1758842
+Central Asia,Low-income countries,2010,47150
+Eastern Asia,Low-income countries,2010,41864
+South-Eastern Asia,Low-income countries,2010,6391
+Southern Asia,Low-income countries,2010,82179
+Western Asia,Low-income countries,2010,1631962
+Eastern Europe,Low-income countries,2010,242019
+Northern Europe,Low-income countries,2010,4222
+Southern Europe,Low-income countries,2010,11726
+Western Europe,Low-income countries,2010,30768
+Caribbean,Low-income countries,2010,8926
+Central America,Low-income countries,2010,518
+South America,Low-income countries,2010,9031
+NORTHERN AMERICA,Low-income countries,2010,8596
+OCEANIA,Low-income countries,2010,907
+Eastern Africa,Developed regions,2015,2553057
+Middle Africa,Developed regions,2015,934929
+Northern Africa,Developed regions,2015,6038468
+Southern Africa,Developed regions,2015,693485
+Western Africa,Developed regions,2015,2489892
+Central Asia,Developed regions,2015,6798371
+Eastern Asia,Developed regions,2015,8906321
+South-Eastern Asia,Developed regions,2015,8321216
+Southern Asia,Developed regions,2015,9630786
+Western Asia,Developed regions,2015,8272537
+Eastern Europe,Developed regions,2015,23295169
+Northern Europe,Developed regions,2015,6820416
+Southern Europe,Developed regions,2015,10826524
+Western Europe,Developed regions,2015,7174157
+Caribbean,Developed regions,2015,7123437
+Central America,Developed regions,2015,15594486
+South America,Developed regions,2015,7135987
+NORTHERN AMERICA,Developed regions,2015,2324284
+OCEANIA,Developed regions,2015,1565999
+Eastern Africa,Less developed regions,2015,7271233
+Middle Africa,Less developed regions,2015,2882061
+Northern Africa,Less developed regions,2015,4876280
+Southern Africa,Less developed regions,2015,436466
+Western Africa,Less developed regions,2015,6936088
+Central Asia,Less developed regions,2015,629661
+Eastern Asia,Less developed regions,2015,5511404
+South-Eastern Asia,Less developed regions,2015,12466649
+Southern Asia,Less developed regions,2015,29422312
+Western Asia,Less developed regions,2015,13418762
+Eastern Europe,Less developed regions,2015,5527446
+Northern Europe,Less developed regions,2015,494731
+Southern Europe,Less developed regions,2015,1218729
+Western Europe,Less developed regions,2015,1220581
+Caribbean,Less developed regions,2015,1011870
+Central America,Less developed regions,2015,696736
+South America,Less developed regions,2015,4643484
+NORTHERN AMERICA,Less developed regions,2015,1690365
+OCEANIA,Less developed regions,2015,185423
+Eastern Africa,"Less developed regions, excluding least developed countries",2015,3321724
+Middle Africa,"Less developed regions, excluding least developed countries",2015,1054558
+Northern Africa,"Less developed regions, excluding least developed countries",2015,3753654
+Southern Africa,"Less developed regions, excluding least developed countries",2015,384132
+Western Africa,"Less developed regions, excluding least developed countries",2015,4316993
+Central Asia,"Less developed regions, excluding least developed countries",2015,612047
+Eastern Asia,"Less developed regions, excluding least developed countries",2015,5248982
+South-Eastern Asia,"Less developed regions, excluding least developed countries",2015,11614061
+Southern Asia,"Less developed regions, excluding least developed countries",2015,28497143
+Western Asia,"Less developed regions, excluding least developed countries",2015,13346386
+Eastern Europe,"Less developed regions, excluding least developed countries",2015,5526432
+Northern Europe,"Less developed regions, excluding least developed countries",2015,441002
+Southern Europe,"Less developed regions, excluding least developed countries",2015,1198894
+Western Europe,"Less developed regions, excluding least developed countries",2015,1170815
+Caribbean,"Less developed regions, excluding least developed countries",2015,997705
+Central America,"Less developed regions, excluding least developed countries",2015,695766
+South America,"Less developed regions, excluding least developed countries",2015,4618332
+NORTHERN AMERICA,"Less developed regions, excluding least developed countries",2015,1633058
+OCEANIA,"Less developed regions, excluding least developed countries",2015,176783
+Eastern Africa,"Less developed regions, excluding China",2015,7271233
+Middle Africa,"Less developed regions, excluding China",2015,2882061
+Northern Africa,"Less developed regions, excluding China",2015,4876280
+Southern Africa,"Less developed regions, excluding China",2015,436466
+Western Africa,"Less developed regions, excluding China",2015,6936088
+Central Asia,"Less developed regions, excluding China",2015,629661
+Eastern Asia,"Less developed regions, excluding China",2015,2462074
+South-Eastern Asia,"Less developed regions, excluding China",2015,11732455
+Southern Asia,"Less developed regions, excluding China",2015,29369892
+Western Asia,"Less developed regions, excluding China",2015,13418762
+Eastern Europe,"Less developed regions, excluding China",2015,5525246
+Northern Europe,"Less developed regions, excluding China",2015,469862
+Southern Europe,"Less developed regions, excluding China",2015,1215617
+Western Europe,"Less developed regions, excluding China",2015,1214665
+Caribbean,"Less developed regions, excluding China",2015,1011870
+Central America,"Less developed regions, excluding China",2015,696736
+South America,"Less developed regions, excluding China",2015,4580916
+NORTHERN AMERICA,"Less developed regions, excluding China",2015,1637193
+OCEANIA,"Less developed regions, excluding China",2015,170350
+Eastern Africa,Least developed countries,2015,3949509
+Middle Africa,Least developed countries,2015,1827503
+Northern Africa,Least developed countries,2015,1122626
+Southern Africa,Least developed countries,2015,52334
+Western Africa,Least developed countries,2015,2619095
+Central Asia,Least developed countries,2015,17614
+Eastern Asia,Least developed countries,2015,262422
+South-Eastern Asia,Least developed countries,2015,852588
+Southern Asia,Least developed countries,2015,925169
+Western Asia,Least developed countries,2015,72376
+Eastern Europe,Least developed countries,2015,1014
+Northern Europe,Least developed countries,2015,53729
+Southern Europe,Least developed countries,2015,19835
+Western Europe,Least developed countries,2015,49766
+Caribbean,Least developed countries,2015,14165
+Central America,Least developed countries,2015,970
+South America,Least developed countries,2015,25152
+NORTHERN AMERICA,Least developed countries,2015,57307
+OCEANIA,Least developed countries,2015,8640
+Eastern Africa,Land-locked Developing Countries (LLDC),2015,2585516
+Middle Africa,Land-locked Developing Countries (LLDC),2015,1051277
+Northern Africa,Land-locked Developing Countries (LLDC),2015,1022996
+Southern Africa,Land-locked Developing Countries (LLDC),2015,58278
+Western Africa,Land-locked Developing Countries (LLDC),2015,1233190
+Central Asia,Land-locked Developing Countries (LLDC),2015,521034
+Eastern Asia,Land-locked Developing Countries (LLDC),2015,167393
+South-Eastern Asia,Land-locked Developing Countries (LLDC),2015,30560
+Southern Asia,Land-locked Developing Countries (LLDC),2015,836969
+Western Asia,Land-locked Developing Countries (LLDC),2015,530671
+Eastern Europe,Land-locked Developing Countries (LLDC),2015,4427626
+Northern Europe,Land-locked Developing Countries (LLDC),2015,32557
+Southern Europe,Land-locked Developing Countries (LLDC),2015,131559
+Western Europe,Land-locked Developing Countries (LLDC),2015,39941
+Caribbean,Land-locked Developing Countries (LLDC),2015,5164
+Central America,Land-locked Developing Countries (LLDC),2015,12907
+South America,Land-locked Developing Countries (LLDC),2015,232793
+NORTHERN AMERICA,Land-locked Developing Countries (LLDC),2015,17283
+OCEANIA,Land-locked Developing Countries (LLDC),2015,2323
+Eastern Africa,Small island developing States (SIDS),2015,20743
+Middle Africa,Small island developing States (SIDS),2015,3470
+Northern Africa,Small island developing States (SIDS),2015,87894
+Southern Africa,Small island developing States (SIDS),2015,1332
+Western Africa,Small island developing States (SIDS),2015,31959
+Central Asia,Small island developing States (SIDS),2015,10
+Eastern Asia,Small island developing States (SIDS),2015,544816
+South-Eastern Asia,Small island developing States (SIDS),2015,1455141
+Southern Asia,Small island developing States (SIDS),2015,917910
+Western Asia,Small island developing States (SIDS),2015,60682
+Eastern Europe,Small island developing States (SIDS),2015,3008
+Northern Europe,Small island developing States (SIDS),2015,31497
+Southern Europe,Small island developing States (SIDS),2015,25595
+Western Europe,Small island developing States (SIDS),2015,209853
+Caribbean,Small island developing States (SIDS),2015,841699
+Central America,Small island developing States (SIDS),2015,59937
+South America,Small island developing States (SIDS),2015,115052
+NORTHERN AMERICA,Small island developing States (SIDS),2015,305238
+OCEANIA,Small island developing States (SIDS),2015,102476
+Eastern Africa,High-income countries,2015,2844081
+Middle Africa,High-income countries,2015,940982
+Northern Africa,High-income countries,2015,9217559
+Southern Africa,High-income countries,2015,711599
+Western Africa,High-income countries,2015,2513935
+Central Asia,High-income countries,2015,1306417
+Eastern Asia,High-income countries,2015,12865906
+South-Eastern Asia,High-income countries,2015,14002750
+Southern Asia,High-income countries,2015,25806333
+Western Asia,High-income countries,2015,9011999
+Eastern Europe,High-income countries,2015,14672136
+Northern Europe,High-income countries,2015,6659211
+Southern Europe,High-income countries,2015,9901505
+Western Europe,High-income countries,2015,7225454
+Caribbean,High-income countries,2015,7462258
+Central America,High-income countries,2015,15643964
+South America,High-income countries,2015,7825301
+NORTHERN AMERICA,High-income countries,2015,2804783
+OCEANIA,High-income countries,2015,1638467
+Eastern Africa,Middle-income countries,2015,3326876
+Middle Africa,Middle-income countries,2015,1287491
+Northern Africa,Middle-income countries,2015,612612
+Southern Africa,Middle-income countries,2015,382346
+Western Africa,Middle-income countries,2015,4958088
+Central Asia,Middle-income countries,2015,6083876
+Eastern Asia,Middle-income countries,2015,1502623
+South-Eastern Asia,Middle-income countries,2015,6777045
+Southern Asia,Middle-income countries,2015,12944420
+Western Asia,Middle-income countries,2015,11875672
+Eastern Europe,Middle-income countries,2015,13912543
+Northern Europe,Middle-income countries,2015,649495
+Southern Europe,Middle-income countries,2015,2129896
+Western Europe,Middle-income countries,2015,914376
+Caribbean,Middle-income countries,2015,590912
+Central America,Middle-income countries,2015,646288
+South America,Middle-income countries,2015,3887042
+NORTHERN AMERICA,Middle-income countries,2015,1199222
+OCEANIA,Middle-income countries,2015,105359
+Eastern Africa,Upper-middle-income countries,2015,1526203
+Middle Africa,Upper-middle-income countries,2015,370648
+Northern Africa,Upper-middle-income countries,2015,282462
+Southern Africa,Upper-middle-income countries,2015,328854
+Western Africa,Upper-middle-income countries,2015,272945
+Central Asia,Upper-middle-income countries,2015,5501211
+Eastern Asia,Upper-middle-income countries,2015,1035674
+South-Eastern Asia,Upper-middle-income countries,2015,5726087
+Southern Asia,Upper-middle-income countries,2015,4263463
+Western Asia,Upper-middle-income countries,2015,10988269
+Eastern Europe,Upper-middle-income countries,2015,8948087
+Northern Europe,Upper-middle-income countries,2015,497443
+Southern Europe,Upper-middle-income countries,2015,2076338
+Western Europe,Upper-middle-income countries,2015,788020
+Caribbean,Upper-middle-income countries,2015,585155
+Central America,Upper-middle-income countries,2015,549706
+South America,Upper-middle-income countries,2015,3768969
+NORTHERN AMERICA,Upper-middle-income countries,2015,1016530
+OCEANIA,Upper-middle-income countries,2015,74667
+Eastern Africa,Lower-middle-income countries,2015,1800673
+Middle Africa,Lower-middle-income countries,2015,916843
+Northern Africa,Lower-middle-income countries,2015,330150
+Southern Africa,Lower-middle-income countries,2015,53492
+Western Africa,Lower-middle-income countries,2015,4685143
+Central Asia,Lower-middle-income countries,2015,582665
+Eastern Asia,Lower-middle-income countries,2015,466949
+South-Eastern Asia,Lower-middle-income countries,2015,1050958
+Southern Asia,Lower-middle-income countries,2015,8680957
+Western Asia,Lower-middle-income countries,2015,887403
+Eastern Europe,Lower-middle-income countries,2015,4964456
+Northern Europe,Lower-middle-income countries,2015,152052
+Southern Europe,Lower-middle-income countries,2015,53558
+Western Europe,Lower-middle-income countries,2015,126356
+Caribbean,Lower-middle-income countries,2015,5757
+Central America,Lower-middle-income countries,2015,96582
+South America,Lower-middle-income countries,2015,118073
+NORTHERN AMERICA,Lower-middle-income countries,2015,182692
+OCEANIA,Lower-middle-income countries,2015,30692
+Eastern Africa,Low-income countries,2015,3552492
+Middle Africa,Low-income countries,2015,1588517
+Northern Africa,Low-income countries,2015,1083882
+Southern Africa,Low-income countries,2015,35940
+Western Africa,Low-income countries,2015,1949013
+Central Asia,Low-income countries,2015,37739
+Eastern Asia,Low-income countries,2015,47555
+South-Eastern Asia,Low-income countries,2015,7220
+Southern Asia,Low-income countries,2015,302161
+Western Asia,Low-income countries,2015,802947
+Eastern Europe,Low-income countries,2015,237936
+Northern Europe,Low-income countries,2015,4154
+Southern Europe,Low-income countries,2015,12833
+Western Europe,Low-income countries,2015,31173
+Caribbean,Low-income countries,2015,14158
+Central America,Low-income countries,2015,970
+South America,Low-income countries,2015,12594
+NORTHERN AMERICA,Low-income countries,2015,8758
+OCEANIA,Low-income countries,2015,2140
+Eastern Africa,Developed regions,2020,3082132
+Middle Africa,Developed regions,2020,1095017
+Northern Africa,Developed regions,2020,6778192
+Southern Africa,Developed regions,2020,818376
+Western Africa,Developed regions,2020,3111790
+Central Asia,Developed regions,2020,7182034
+Eastern Asia,Developed regions,2020,9017654
+South-Eastern Asia,Developed regions,2020,9242662
+Southern Asia,Developed regions,2020,11382542
+Western Asia,Developed regions,2020,9960382
+Eastern Europe,Developed regions,2020,26322046
+Northern Europe,Developed regions,2020,7342483
+Southern Europe,Developed regions,2020,12661572
+Western Europe,Developed regions,2020,7767497
+Caribbean,Developed regions,2020,7723732
+Central America,Developed regions,2020,15365881
+South America,Developed regions,2020,8311665
+NORTHERN AMERICA,Developed regions,2020,2485082
+OCEANIA,Developed regions,2020,1772336
+Eastern Africa,Less developed regions,2020,8945157
+Middle Africa,Less developed regions,2020,3325645
+Northern Africa,Less developed regions,2020,5504433
+Southern Africa,Less developed regions,2020,460059
+Western Africa,Less developed regions,2020,7446362
+Central Asia,Less developed regions,2020,653470
+Eastern Asia,Less developed regions,2020,5802350
+South-Eastern Asia,Less developed regions,2020,14338074
+Southern Asia,Less developed regions,2020,32011503
+Western Asia,Less developed regions,2020,15320813
+Eastern Europe,Less developed regions,2020,5872306
+Northern Europe,Less developed regions,2020,542297
+Southern Europe,Less developed regions,2020,1355539
+Western Europe,Less developed regions,2020,1409923
+Caribbean,Less developed regions,2020,1355040
+Central America,Less developed regions,2020,833093
+South America,Less developed regions,2020,9301070
+NORTHERN AMERICA,Less developed regions,2020,1842876
+OCEANIA,Less developed regions,2020,197869
+Eastern Africa,"Less developed regions, excluding least developed countries",2020,3395068
+Middle Africa,"Less developed regions, excluding least developed countries",2020,1143000
+Northern Africa,"Less developed regions, excluding least developed countries",2020,4294021
+Southern Africa,"Less developed regions, excluding least developed countries",2020,404360
+Western Africa,"Less developed regions, excluding least developed countries",2020,4594614
+Central Asia,"Less developed regions, excluding least developed countries",2020,646683
+Eastern Asia,"Less developed regions, excluding least developed countries",2020,5539720
+South-Eastern Asia,"Less developed regions, excluding least developed countries",2020,12818286
+Southern Asia,"Less developed regions, excluding least developed countries",2020,31269401
+Western Asia,"Less developed regions, excluding least developed countries",2020,15240166
+Eastern Europe,"Less developed regions, excluding least developed countries",2020,5871248
+Northern Europe,"Less developed regions, excluding least developed countries",2020,489606
+Southern Europe,"Less developed regions, excluding least developed countries",2020,1335811
+Western Europe,"Less developed regions, excluding least developed countries",2020,1356906
+Caribbean,"Less developed regions, excluding least developed countries",2020,1340417
+Central America,"Less developed regions, excluding least developed countries",2020,832125
+South America,"Less developed regions, excluding least developed countries",2020,9275730
+NORTHERN AMERICA,"Less developed regions, excluding least developed countries",2020,1786114
+OCEANIA,"Less developed regions, excluding least developed countries",2020,188896
+Eastern Africa,"Less developed regions, excluding China",2020,8945157
+Middle Africa,"Less developed regions, excluding China",2020,3325645
+Northern Africa,"Less developed regions, excluding China",2020,5504433
+Southern Africa,"Less developed regions, excluding China",2020,460059
+Western Africa,"Less developed regions, excluding China",2020,7446362
+Central Asia,"Less developed regions, excluding China",2020,653470
+Eastern Asia,"Less developed regions, excluding China",2020,2597969
+South-Eastern Asia,"Less developed regions, excluding China",2020,13577977
+Southern Asia,"Less developed regions, excluding China",2020,31956119
+Western Asia,"Less developed regions, excluding China",2020,15320813
+Eastern Europe,"Less developed regions, excluding China",2020,5869919
+Northern Europe,"Less developed regions, excluding China",2020,516076
+Southern Europe,"Less developed regions, excluding China",2020,1352238
+Western Europe,"Less developed regions, excluding China",2020,1403756
+Caribbean,"Less developed regions, excluding China",2020,1355040
+Central America,"Less developed regions, excluding China",2020,833093
+South America,"Less developed regions, excluding China",2020,9233013
+NORTHERN AMERICA,"Less developed regions, excluding China",2020,1786298
+OCEANIA,"Less developed regions, excluding China",2020,181986
+Eastern Africa,Least developed countries,2020,5550089
+Middle Africa,Least developed countries,2020,2182645
+Northern Africa,Least developed countries,2020,1210412
+Southern Africa,Least developed countries,2020,55699
+Western Africa,Least developed countries,2020,2851748
+Central Asia,Least developed countries,2020,6787
+Eastern Asia,Least developed countries,2020,262630
+South-Eastern Asia,Least developed countries,2020,1519788
+Southern Asia,Least developed countries,2020,742102
+Western Asia,Least developed countries,2020,80647
+Eastern Europe,Least developed countries,2020,1058
+Northern Europe,Least developed countries,2020,52691
+Southern Europe,Least developed countries,2020,19728
+Western Europe,Least developed countries,2020,53017
+Caribbean,Least developed countries,2020,14623
+Central America,Least developed countries,2020,968
+South America,Least developed countries,2020,25340
+NORTHERN AMERICA,Least developed countries,2020,56762
+OCEANIA,Least developed countries,2020,8973
+Eastern Africa,Land-locked Developing Countries (LLDC),2020,3354850
+Middle Africa,Land-locked Developing Countries (LLDC),2020,1269379
+Northern Africa,Land-locked Developing Countries (LLDC),2020,1101760
+Southern Africa,Land-locked Developing Countries (LLDC),2020,61692
+Western Africa,Land-locked Developing Countries (LLDC),2020,1411961
+Central Asia,Land-locked Developing Countries (LLDC),2020,523493
+Eastern Asia,Land-locked Developing Countries (LLDC),2020,175988
+South-Eastern Asia,Land-locked Developing Countries (LLDC),2020,32794
+Southern Asia,Land-locked Developing Countries (LLDC),2020,654621
+Western Asia,Land-locked Developing Countries (LLDC),2020,527723
+Eastern Europe,Land-locked Developing Countries (LLDC),2020,4558639
+Northern Europe,Land-locked Developing Countries (LLDC),2020,33756
+Southern Europe,Land-locked Developing Countries (LLDC),2020,134243
+Western Europe,Land-locked Developing Countries (LLDC),2020,42480
+Caribbean,Land-locked Developing Countries (LLDC),2020,5890
+Central America,Land-locked Developing Countries (LLDC),2020,14312
+South America,Land-locked Developing Countries (LLDC),2020,260162
+NORTHERN AMERICA,Land-locked Developing Countries (LLDC),2020,19110
+OCEANIA,Land-locked Developing Countries (LLDC),2020,2611
+Eastern Africa,Small island developing States (SIDS),2020,22062
+Middle Africa,Small island developing States (SIDS),2020,3622
+Northern Africa,Small island developing States (SIDS),2020,113112
+Southern Africa,Small island developing States (SIDS),2020,1405
+Western Africa,Small island developing States (SIDS),2020,28199
+Central Asia,Small island developing States (SIDS),2020,10
+Eastern Asia,Small island developing States (SIDS),2020,554857
+South-Eastern Asia,Small island developing States (SIDS),2020,1500846
+Southern Asia,Small island developing States (SIDS),2020,1067263
+Western Asia,Small island developing States (SIDS),2020,77862
+Eastern Europe,Small island developing States (SIDS),2020,2734
+Northern Europe,Small island developing States (SIDS),2020,33146
+Southern Europe,Small island developing States (SIDS),2020,26427
+Western Europe,Small island developing States (SIDS),2020,214278
+Caribbean,Small island developing States (SIDS),2020,868835
+Central America,Small island developing States (SIDS),2020,64703
+South America,Small island developing States (SIDS),2020,223995
+NORTHERN AMERICA,Small island developing States (SIDS),2020,305653
+OCEANIA,Small island developing States (SIDS),2020,105179
+Eastern Africa,High-income countries,2020,3414902
+Middle Africa,High-income countries,2020,1103589
+Northern Africa,High-income countries,2020,10434689
+Southern Africa,High-income countries,2020,837126
+Western Africa,High-income countries,2020,3138680
+Central Asia,High-income countries,2020,1696981
+Eastern Asia,High-income countries,2020,13177667
+South-Eastern Asia,High-income countries,2020,15840754
+Southern Asia,High-income countries,2020,30613445
+Western Asia,High-income countries,2020,11208180
+Eastern Europe,High-income countries,2020,17626463
+Northern Europe,High-income countries,2020,7187799
+Southern Europe,High-income countries,2020,11722099
+Western Europe,High-income countries,2020,7805258
+Caribbean,High-income countries,2020,8323845
+Central America,High-income countries,2020,15426093
+South America,High-income countries,2020,9965039
+NORTHERN AMERICA,High-income countries,2020,2992298
+OCEANIA,High-income countries,2020,1850956
+Eastern Africa,Middle-income countries,2020,3393242
+Middle Africa,Middle-income countries,2020,1430229
+Northern Africa,Middle-income countries,2020,678733
+Southern Africa,Middle-income countries,2020,405004
+Western Africa,Middle-income countries,2020,5291037
+Central Asia,Middle-income countries,2020,6111536
+Eastern Asia,Middle-income countries,2020,1590681
+South-Eastern Asia,Middle-income countries,2020,7731484
+Southern Asia,Middle-income countries,2020,12644159
+Western Asia,Middle-income countries,2020,13229507
+Eastern Europe,Middle-income countries,2020,14329066
+Northern Europe,Middle-income countries,2020,690709
+Southern Europe,Middle-income countries,2020,2280608
+Western Europe,Middle-income countries,2020,1106008
+Caribbean,Middle-income countries,2020,669410
+Central America,Middle-income countries,2020,771913
+South America,Middle-income countries,2020,7573793
+NORTHERN AMERICA,Middle-income countries,2020,1324959
+OCEANIA,Middle-income countries,2020,111255
+Eastern Africa,Upper-middle-income countries,2020,1564151
+Middle Africa,Upper-middle-income countries,2020,383173
+Northern Africa,Upper-middle-income countries,2020,310599
+Southern Africa,Upper-middle-income countries,2020,347176
+Western Africa,Upper-middle-income countries,2020,290422
+Central Asia,Upper-middle-income countries,2020,5520986
+Eastern Asia,Upper-middle-income countries,2020,1120415
+South-Eastern Asia,Upper-middle-income countries,2020,6014999
+Southern Asia,Upper-middle-income countries,2020,4497009
+Western Asia,Upper-middle-income countries,2020,12256067
+Eastern Europe,Upper-middle-income countries,2020,9312943
+Northern Europe,Upper-middle-income countries,2020,536174
+Southern Europe,Upper-middle-income countries,2020,2222654
+Western Europe,Upper-middle-income countries,2020,967955
+Caribbean,Upper-middle-income countries,2020,663344
+Central America,Upper-middle-income countries,2020,671416
+South America,Upper-middle-income countries,2020,7440022
+NORTHERN AMERICA,Upper-middle-income countries,2020,1138072
+OCEANIA,Upper-middle-income countries,2020,79980
+Eastern Africa,Lower-middle-income countries,2020,1829091
+Middle Africa,Lower-middle-income countries,2020,1047056
+Northern Africa,Lower-middle-income countries,2020,368134
+Southern Africa,Lower-middle-income countries,2020,57828
+Western Africa,Lower-middle-income countries,2020,5000615
+Central Asia,Lower-middle-income countries,2020,590550
+Eastern Asia,Lower-middle-income countries,2020,470266
+South-Eastern Asia,Lower-middle-income countries,2020,1716485
+Southern Asia,Lower-middle-income countries,2020,8147150
+Western Asia,Lower-middle-income countries,2020,973440
+Eastern Europe,Lower-middle-income countries,2020,5016123
+Northern Europe,Lower-middle-income countries,2020,154535
+Southern Europe,Lower-middle-income countries,2020,57954
+Western Europe,Lower-middle-income countries,2020,138053
+Caribbean,Lower-middle-income countries,2020,6066
+Central America,Lower-middle-income countries,2020,100497
+South America,Lower-middle-income countries,2020,133771
+NORTHERN AMERICA,Lower-middle-income countries,2020,186887
+OCEANIA,Lower-middle-income countries,2020,31275
+Eastern Africa,Low-income countries,2020,5091593
+Middle Africa,Low-income countries,2020,1886844
+Northern Africa,Low-income countries,2020,1168465
+Southern Africa,Low-income countries,2020,36229
+Western Africa,Low-income countries,2020,2123197
+Central Asia,Low-income countries,2020,26987
+Eastern Asia,Low-income countries,2020,49836
+South-Eastern Asia,Low-income countries,2020,7543
+Southern Asia,Low-income countries,2020,136260
+Western Asia,Low-income countries,2020,842835
+Eastern Europe,Low-income countries,2020,238823
+Northern Europe,Low-income countries,2020,3709
+Southern Europe,Low-income countries,2020,13376
+Western Europe,Low-income countries,2020,33798
+Caribbean,Low-income countries,2020,14616
+Central America,Low-income countries,2020,968
+South America,Low-income countries,2020,13108
+NORTHERN AMERICA,Low-income countries,2020,8811
+OCEANIA,Low-income countries,2020,2200

@@ -1,0 +1,2528 @@
+origen,lon_origen,lat_origen,destino,lon_destino,lat_destino,year,num_migrantes,genero
+Eastern Africa,39.0,-6.5,Eastern Africa,39.0,-6.5,1990,2524242,male
+Middle Africa,17.0,1.0,Eastern Africa,39.0,-6.5,1990,184794,male
+Northern Africa,18.0,28.0,Eastern Africa,39.0,-6.5,1990,90526,male
+Southern Africa,24.0,-29.0,Eastern Africa,39.0,-6.5,1990,19714,male
+Western Africa,-2.0,16.0,Eastern Africa,39.0,-6.5,1990,3439,male
+Central Asia,63.0,48.0,Eastern Africa,39.0,-6.5,1990,0,male
+Eastern Asia,116.0,39.0,Eastern Africa,39.0,-6.5,1990,1573,male
+South-Eastern Asia,108.0,4.0,Eastern Africa,39.0,-6.5,1990,44,male
+Southern Asia,78.0,23.0,Eastern Africa,39.0,-6.5,1990,10030,male
+Western Asia,40.0,33.0,Eastern Africa,39.0,-6.5,1990,175,male
+Eastern Europe,30.0,50.0,Eastern Africa,39.0,-6.5,1990,184,male
+Northern Europe,15.0,60.0,Eastern Africa,39.0,-6.5,1990,13934,male
+Southern Europe,15.0,41.0,Eastern Africa,39.0,-6.5,1990,1789,male
+Western Europe,2.0,48.0,Eastern Africa,39.0,-6.5,1990,27577,male
+Caribbean,-75.0,18.0,Eastern Africa,39.0,-6.5,1990,124,male
+Central America,-86.0,15.0,Eastern Africa,39.0,-6.5,1990,0,male
+South America,-60.0,-10.0,Eastern Africa,39.0,-6.5,1990,0,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Africa,39.0,-6.5,1990,1250,male
+OCEANIA,140.0,-25.0,Eastern Africa,39.0,-6.5,1990,69,male
+Eastern Africa,39.0,-6.5,Middle Africa,17.0,1.0,1990,84647,male
+Middle Africa,17.0,1.0,Middle Africa,17.0,1.0,1990,390605,male
+Northern Africa,18.0,28.0,Middle Africa,17.0,1.0,1990,25080,male
+Southern Africa,24.0,-29.0,Middle Africa,17.0,1.0,1990,1521,male
+Western Africa,-2.0,16.0,Middle Africa,17.0,1.0,1990,122925,male
+Central Asia,63.0,48.0,Middle Africa,17.0,1.0,1990,0,male
+Eastern Asia,116.0,39.0,Middle Africa,17.0,1.0,1990,408,male
+South-Eastern Asia,108.0,4.0,Middle Africa,17.0,1.0,1990,0,male
+Southern Asia,78.0,23.0,Middle Africa,17.0,1.0,1990,0,male
+Western Asia,40.0,33.0,Middle Africa,17.0,1.0,1990,768,male
+Eastern Europe,30.0,50.0,Middle Africa,17.0,1.0,1990,385,male
+Northern Europe,15.0,60.0,Middle Africa,17.0,1.0,1990,6,male
+Southern Europe,15.0,41.0,Middle Africa,17.0,1.0,1990,3941,male
+Western Europe,2.0,48.0,Middle Africa,17.0,1.0,1990,20355,male
+Caribbean,-75.0,18.0,Middle Africa,17.0,1.0,1990,49,male
+Central America,-86.0,15.0,Middle Africa,17.0,1.0,1990,0,male
+South America,-60.0,-10.0,Middle Africa,17.0,1.0,1990,0,male
+NORTHERN AMERICA,-100.0,45.0,Middle Africa,17.0,1.0,1990,591,male
+OCEANIA,140.0,-25.0,Middle Africa,17.0,1.0,1990,9,male
+Eastern Africa,39.0,-6.5,Northern Africa,18.0,28.0,1990,547917,male
+Middle Africa,17.0,1.0,Northern Africa,18.0,28.0,1990,116906,male
+Northern Africa,18.0,28.0,Northern Africa,18.0,28.0,1990,167033,male
+Southern Africa,24.0,-29.0,Northern Africa,18.0,28.0,1990,549,male
+Western Africa,-2.0,16.0,Northern Africa,18.0,28.0,1990,22619,male
+Central Asia,63.0,48.0,Northern Africa,18.0,28.0,1990,709,male
+Eastern Asia,116.0,39.0,Northern Africa,18.0,28.0,1990,6130,male
+South-Eastern Asia,108.0,4.0,Northern Africa,18.0,28.0,1990,16939,male
+Southern Asia,78.0,23.0,Northern Africa,18.0,28.0,1990,6057,male
+Western Asia,40.0,33.0,Northern Africa,18.0,28.0,1990,189299,male
+Eastern Europe,30.0,50.0,Northern Africa,18.0,28.0,1990,17141,male
+Northern Europe,15.0,60.0,Northern Africa,18.0,28.0,1990,10195,male
+Southern Europe,15.0,41.0,Northern Africa,18.0,28.0,1990,18200,male
+Western Europe,2.0,48.0,Northern Africa,18.0,28.0,1990,51685,male
+Caribbean,-75.0,18.0,Northern Africa,18.0,28.0,1990,8,male
+Central America,-86.0,15.0,Northern Africa,18.0,28.0,1990,280,male
+South America,-60.0,-10.0,Northern Africa,18.0,28.0,1990,484,male
+NORTHERN AMERICA,-100.0,45.0,Northern Africa,18.0,28.0,1990,17697,male
+OCEANIA,140.0,-25.0,Northern Africa,18.0,28.0,1990,1165,male
+Eastern Africa,39.0,-6.5,Southern Africa,24.0,-29.0,1990,356997,male
+Middle Africa,17.0,1.0,Southern Africa,24.0,-29.0,1990,29845,male
+Northern Africa,18.0,28.0,Southern Africa,24.0,-29.0,1990,3288,male
+Southern Africa,24.0,-29.0,Southern Africa,24.0,-29.0,1990,213376,male
+Western Africa,-2.0,16.0,Southern Africa,24.0,-29.0,1990,21635,male
+Central Asia,63.0,48.0,Southern Africa,24.0,-29.0,1990,0,male
+Eastern Asia,116.0,39.0,Southern Africa,24.0,-29.0,1990,10317,male
+South-Eastern Asia,108.0,4.0,Southern Africa,24.0,-29.0,1990,2128,male
+Southern Asia,78.0,23.0,Southern Africa,24.0,-29.0,1990,10747,male
+Western Asia,40.0,33.0,Southern Africa,24.0,-29.0,1990,3380,male
+Eastern Europe,30.0,50.0,Southern Africa,24.0,-29.0,1990,5884,male
+Northern Europe,15.0,60.0,Southern Africa,24.0,-29.0,1990,54515,male
+Southern Europe,15.0,41.0,Southern Africa,24.0,-29.0,1990,18178,male
+Western Europe,2.0,48.0,Southern Africa,24.0,-29.0,1990,38441,male
+Caribbean,-75.0,18.0,Southern Africa,24.0,-29.0,1990,1060,male
+Central America,-86.0,15.0,Southern Africa,24.0,-29.0,1990,151,male
+South America,-60.0,-10.0,Southern Africa,24.0,-29.0,1990,1770,male
+NORTHERN AMERICA,-100.0,45.0,Southern Africa,24.0,-29.0,1990,6809,male
+OCEANIA,140.0,-25.0,Southern Africa,24.0,-29.0,1990,2804,male
+Eastern Africa,39.0,-6.5,Western Africa,-2.0,16.0,1990,565,male
+Middle Africa,17.0,1.0,Western Africa,-2.0,16.0,1990,21802,male
+Northern Africa,18.0,28.0,Western Africa,-2.0,16.0,1990,7921,male
+Southern Africa,24.0,-29.0,Western Africa,-2.0,16.0,1990,70,male
+Western Africa,-2.0,16.0,Western Africa,-2.0,16.0,1990,2161347,male
+Central Asia,63.0,48.0,Western Africa,-2.0,16.0,1990,0,male
+Eastern Asia,116.0,39.0,Western Africa,-2.0,16.0,1990,1097,male
+South-Eastern Asia,108.0,4.0,Western Africa,-2.0,16.0,1990,16,male
+Southern Asia,78.0,23.0,Western Africa,-2.0,16.0,1990,1028,male
+Western Asia,40.0,33.0,Western Africa,-2.0,16.0,1990,5962,male
+Eastern Europe,30.0,50.0,Western Africa,-2.0,16.0,1990,659,male
+Northern Europe,15.0,60.0,Western Africa,-2.0,16.0,1990,2097,male
+Southern Europe,15.0,41.0,Western Africa,-2.0,16.0,1990,1644,male
+Western Europe,2.0,48.0,Western Africa,-2.0,16.0,1990,11341,male
+Caribbean,-75.0,18.0,Western Africa,-2.0,16.0,1990,72,male
+Central America,-86.0,15.0,Western Africa,-2.0,16.0,1990,2,male
+South America,-60.0,-10.0,Western Africa,-2.0,16.0,1990,558,male
+NORTHERN AMERICA,-100.0,45.0,Western Africa,-2.0,16.0,1990,3337,male
+OCEANIA,140.0,-25.0,Western Africa,-2.0,16.0,1990,5,male
+Eastern Africa,39.0,-6.5,Central Asia,63.0,48.0,1990,18,male
+Middle Africa,17.0,1.0,Central Asia,63.0,48.0,1990,0,male
+Northern Africa,18.0,28.0,Central Asia,63.0,48.0,1990,88,male
+Southern Africa,24.0,-29.0,Central Asia,63.0,48.0,1990,0,male
+Western Africa,-2.0,16.0,Central Asia,63.0,48.0,1990,17,male
+Central Asia,63.0,48.0,Central Asia,63.0,48.0,1990,200225,male
+Eastern Asia,116.0,39.0,Central Asia,63.0,48.0,1990,30788,male
+South-Eastern Asia,108.0,4.0,Central Asia,63.0,48.0,1990,176,male
+Southern Asia,78.0,23.0,Central Asia,63.0,48.0,1990,6409,male
+Western Asia,40.0,33.0,Central Asia,63.0,48.0,1990,78054,male
+Eastern Europe,30.0,50.0,Central Asia,63.0,48.0,1990,2390433,male
+Northern Europe,15.0,60.0,Central Asia,63.0,48.0,1990,7823,male
+Southern Europe,15.0,41.0,Central Asia,63.0,48.0,1990,0,male
+Western Europe,2.0,48.0,Central Asia,63.0,48.0,1990,15922,male
+Caribbean,-75.0,18.0,Central Asia,63.0,48.0,1990,17,male
+Central America,-86.0,15.0,Central Asia,63.0,48.0,1990,0,male
+South America,-60.0,-10.0,Central Asia,63.0,48.0,1990,0,male
+NORTHERN AMERICA,-100.0,45.0,Central Asia,63.0,48.0,1990,219,male
+OCEANIA,140.0,-25.0,Central Asia,63.0,48.0,1990,74,male
+Eastern Africa,39.0,-6.5,Eastern Asia,116.0,39.0,1990,0,male
+Middle Africa,17.0,1.0,Eastern Asia,116.0,39.0,1990,0,male
+Northern Africa,18.0,28.0,Eastern Asia,116.0,39.0,1990,187,male
+Southern Africa,24.0,-29.0,Eastern Asia,116.0,39.0,1990,0,male
+Western Africa,-2.0,16.0,Eastern Asia,116.0,39.0,1990,403,male
+Central Asia,63.0,48.0,Eastern Asia,116.0,39.0,1990,339,male
+Eastern Asia,116.0,39.0,Eastern Asia,116.0,39.0,1990,1513079,male
+South-Eastern Asia,108.0,4.0,Eastern Asia,116.0,39.0,1990,230994,male
+Southern Asia,78.0,23.0,Eastern Asia,116.0,39.0,1990,20649,male
+Western Asia,40.0,33.0,Eastern Asia,116.0,39.0,1990,62,male
+Eastern Europe,30.0,50.0,Eastern Asia,116.0,39.0,1990,1907,male
+Northern Europe,15.0,60.0,Eastern Asia,116.0,39.0,1990,15631,male
+Southern Europe,15.0,41.0,Eastern Asia,116.0,39.0,1990,3396,male
+Western Europe,2.0,48.0,Eastern Asia,116.0,39.0,1990,8214,male
+Caribbean,-75.0,18.0,Eastern Asia,116.0,39.0,1990,0,male
+Central America,-86.0,15.0,Eastern Asia,116.0,39.0,1990,400,male
+South America,-60.0,-10.0,Eastern Asia,116.0,39.0,1990,37658,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Asia,116.0,39.0,1990,41629,male
+OCEANIA,140.0,-25.0,Eastern Asia,116.0,39.0,1990,7813,male
+Eastern Africa,39.0,-6.5,South-Eastern Asia,108.0,4.0,1990,36,male
+Middle Africa,17.0,1.0,South-Eastern Asia,108.0,4.0,1990,389,male
+Northern Africa,18.0,28.0,South-Eastern Asia,108.0,4.0,1990,7171,male
+Southern Africa,24.0,-29.0,South-Eastern Asia,108.0,4.0,1990,102,male
+Western Africa,-2.0,16.0,South-Eastern Asia,108.0,4.0,1990,45,male
+Central Asia,63.0,48.0,South-Eastern Asia,108.0,4.0,1990,0,male
+Eastern Asia,116.0,39.0,South-Eastern Asia,108.0,4.0,1990,349353,male
+South-Eastern Asia,108.0,4.0,South-Eastern Asia,108.0,4.0,1990,724169,male
+Southern Asia,78.0,23.0,South-Eastern Asia,108.0,4.0,1990,115278,male
+Western Asia,40.0,33.0,South-Eastern Asia,108.0,4.0,1990,7413,male
+Eastern Europe,30.0,50.0,South-Eastern Asia,108.0,4.0,1990,29,male
+Northern Europe,15.0,60.0,South-Eastern Asia,108.0,4.0,1990,19373,male
+Southern Europe,15.0,41.0,South-Eastern Asia,108.0,4.0,1990,1135,male
+Western Europe,2.0,48.0,South-Eastern Asia,108.0,4.0,1990,5400,male
+Caribbean,-75.0,18.0,South-Eastern Asia,108.0,4.0,1990,53,male
+Central America,-86.0,15.0,South-Eastern Asia,108.0,4.0,1990,42,male
+South America,-60.0,-10.0,South-Eastern Asia,108.0,4.0,1990,357,male
+NORTHERN AMERICA,-100.0,45.0,South-Eastern Asia,108.0,4.0,1990,19815,male
+OCEANIA,140.0,-25.0,South-Eastern Asia,108.0,4.0,1990,9638,male
+Eastern Africa,39.0,-6.5,Southern Asia,78.0,23.0,1990,6517,male
+Middle Africa,17.0,1.0,Southern Asia,78.0,23.0,1990,0,male
+Northern Africa,18.0,28.0,Southern Asia,78.0,23.0,1990,9,male
+Southern Africa,24.0,-29.0,Southern Asia,78.0,23.0,1990,2,male
+Western Africa,-2.0,16.0,Southern Asia,78.0,23.0,1990,734,male
+Central Asia,63.0,48.0,Southern Asia,78.0,23.0,1990,24203,male
+Eastern Asia,116.0,39.0,Southern Asia,78.0,23.0,1990,101844,male
+South-Eastern Asia,108.0,4.0,Southern Asia,78.0,23.0,1990,336831,male
+Southern Asia,78.0,23.0,Southern Asia,78.0,23.0,1990,9376870,male
+Western Asia,40.0,33.0,Southern Asia,78.0,23.0,1990,166908,male
+Eastern Europe,30.0,50.0,Southern Asia,78.0,23.0,1990,1692,male
+Northern Europe,15.0,60.0,Southern Asia,78.0,23.0,1990,9727,male
+Southern Europe,15.0,41.0,Southern Asia,78.0,23.0,1990,360,male
+Western Europe,2.0,48.0,Southern Asia,78.0,23.0,1990,5703,male
+Caribbean,-75.0,18.0,Southern Asia,78.0,23.0,1990,0,male
+Central America,-86.0,15.0,Southern Asia,78.0,23.0,1990,0,male
+South America,-60.0,-10.0,Southern Asia,78.0,23.0,1990,299,male
+NORTHERN AMERICA,-100.0,45.0,Southern Asia,78.0,23.0,1990,21218,male
+OCEANIA,140.0,-25.0,Southern Asia,78.0,23.0,1990,2402,male
+Eastern Africa,39.0,-6.5,Western Asia,40.0,33.0,1990,109127,male
+Middle Africa,17.0,1.0,Western Asia,40.0,33.0,1990,4634,male
+Northern Africa,18.0,28.0,Western Asia,40.0,33.0,1990,940143,male
+Southern Africa,24.0,-29.0,Western Asia,40.0,33.0,1990,4727,male
+Western Africa,-2.0,16.0,Western Asia,40.0,33.0,1990,2369,male
+Central Asia,63.0,48.0,Western Asia,40.0,33.0,1990,56112,male
+Eastern Asia,116.0,39.0,Western Asia,40.0,33.0,1990,2076,male
+South-Eastern Asia,108.0,4.0,Western Asia,40.0,33.0,1990,826839,male
+Southern Asia,78.0,23.0,Western Asia,40.0,33.0,1990,3232002,male
+Western Asia,40.0,33.0,Western Asia,40.0,33.0,1990,2081204,male
+Eastern Europe,30.0,50.0,Western Asia,40.0,33.0,1990,674194,male
+Northern Europe,15.0,60.0,Western Asia,40.0,33.0,1990,48474,male
+Southern Europe,15.0,41.0,Western Asia,40.0,33.0,1990,83399,male
+Western Europe,2.0,48.0,Western Asia,40.0,33.0,1990,143545,male
+Caribbean,-75.0,18.0,Western Asia,40.0,33.0,1990,31,male
+Central America,-86.0,15.0,Western Asia,40.0,33.0,1990,704,male
+South America,-60.0,-10.0,Western Asia,40.0,33.0,1990,19379,male
+NORTHERN AMERICA,-100.0,45.0,Western Asia,40.0,33.0,1990,44348,male
+OCEANIA,140.0,-25.0,Western Asia,40.0,33.0,1990,2894,male
+Eastern Africa,39.0,-6.5,Eastern Europe,30.0,50.0,1990,1870,male
+Middle Africa,17.0,1.0,Eastern Europe,30.0,50.0,1990,1272,male
+Northern Africa,18.0,28.0,Eastern Europe,30.0,50.0,1990,6976,male
+Southern Africa,24.0,-29.0,Eastern Europe,30.0,50.0,1990,526,male
+Western Africa,-2.0,16.0,Eastern Europe,30.0,50.0,1990,2468,male
+Central Asia,63.0,48.0,Eastern Europe,30.0,50.0,1990,2406003,male
+Eastern Asia,116.0,39.0,Eastern Europe,30.0,50.0,1990,57631,male
+South-Eastern Asia,108.0,4.0,Eastern Europe,30.0,50.0,1990,30122,male
+Southern Asia,78.0,23.0,Eastern Europe,30.0,50.0,1990,30070,male
+Western Asia,40.0,33.0,Eastern Europe,30.0,50.0,1990,1194616,male
+Eastern Europe,30.0,50.0,Eastern Europe,30.0,50.0,1990,5793768,male
+Northern Europe,15.0,60.0,Eastern Europe,30.0,50.0,1990,215124,male
+Southern Europe,15.0,41.0,Eastern Europe,30.0,50.0,1990,46913,male
+Western Europe,2.0,48.0,Eastern Europe,30.0,50.0,1990,186553,male
+Caribbean,-75.0,18.0,Eastern Europe,30.0,50.0,1990,1949,male
+Central America,-86.0,15.0,Eastern Europe,30.0,50.0,1990,388,male
+South America,-60.0,-10.0,Eastern Europe,30.0,50.0,1990,3382,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Europe,30.0,50.0,1990,12446,male
+OCEANIA,140.0,-25.0,Eastern Europe,30.0,50.0,1990,2090,male
+Eastern Africa,39.0,-6.5,Northern Europe,15.0,60.0,1990,159394,male
+Middle Africa,17.0,1.0,Northern Europe,15.0,60.0,1990,3106,male
+Northern Africa,18.0,28.0,Northern Europe,15.0,60.0,1990,38791,male
+Southern Africa,24.0,-29.0,Northern Europe,15.0,60.0,1990,34023,male
+Western Africa,-2.0,16.0,Northern Europe,15.0,60.0,1990,49310,male
+Central Asia,63.0,48.0,Northern Europe,15.0,60.0,1990,19398,male
+Eastern Asia,116.0,39.0,Northern Europe,15.0,60.0,1990,76624,male
+South-Eastern Asia,108.0,4.0,Northern Europe,15.0,60.0,1990,79935,male
+Southern Asia,78.0,23.0,Northern Europe,15.0,60.0,1990,472463,male
+Western Asia,40.0,33.0,Northern Europe,15.0,60.0,1990,169627,male
+Eastern Europe,30.0,50.0,Northern Europe,15.0,60.0,1990,665913,male
+Northern Europe,15.0,60.0,Northern Europe,15.0,60.0,1990,645174,male
+Southern Europe,15.0,41.0,Northern Europe,15.0,60.0,1990,160832,male
+Western Europe,2.0,48.0,Northern Europe,15.0,60.0,1990,187820,male
+Caribbean,-75.0,18.0,Northern Europe,15.0,60.0,1990,91134,male
+Central America,-86.0,15.0,Northern Europe,15.0,60.0,1990,3710,male
+South America,-60.0,-10.0,Northern Europe,15.0,60.0,1990,45075,male
+NORTHERN AMERICA,-100.0,45.0,Northern Europe,15.0,60.0,1990,163748,male
+OCEANIA,140.0,-25.0,Northern Europe,15.0,60.0,1990,55318,male
+Eastern Africa,39.0,-6.5,Southern Europe,15.0,41.0,1990,51168,male
+Middle Africa,17.0,1.0,Southern Europe,15.0,41.0,1990,74439,male
+Northern Africa,18.0,28.0,Southern Europe,15.0,41.0,1990,311001,male
+Southern Africa,24.0,-29.0,Southern Europe,15.0,41.0,1990,4594,male
+Western Africa,-2.0,16.0,Southern Europe,15.0,41.0,1990,96219,male
+Central Asia,63.0,48.0,Southern Europe,15.0,41.0,1990,25120,male
+Eastern Asia,116.0,39.0,Southern Europe,15.0,41.0,1990,28000,male
+South-Eastern Asia,108.0,4.0,Southern Europe,15.0,41.0,1990,19546,male
+Southern Asia,78.0,23.0,Southern Europe,15.0,41.0,1990,57416,male
+Western Asia,40.0,33.0,Southern Europe,15.0,41.0,1990,115098,male
+Eastern Europe,30.0,50.0,Southern Europe,15.0,41.0,1990,78328,male
+Northern Europe,15.0,60.0,Southern Europe,15.0,41.0,1990,83851,male
+Southern Europe,15.0,41.0,Southern Europe,15.0,41.0,1990,566734,male
+Western Europe,2.0,48.0,Southern Europe,15.0,41.0,1990,262793,male
+Caribbean,-75.0,18.0,Southern Europe,15.0,41.0,1990,17500,male
+Central America,-86.0,15.0,Southern Europe,15.0,41.0,1990,7734,male
+South America,-60.0,-10.0,Southern Europe,15.0,41.0,1990,111640,male
+NORTHERN AMERICA,-100.0,45.0,Southern Europe,15.0,41.0,1990,72344,male
+OCEANIA,140.0,-25.0,Southern Europe,15.0,41.0,1990,17617,male
+Eastern Africa,39.0,-6.5,Western Europe,2.0,48.0,1990,91213,male
+Middle Africa,17.0,1.0,Western Europe,2.0,48.0,1990,121781,male
+Northern Africa,18.0,28.0,Western Europe,2.0,48.0,1990,1371705,male
+Southern Africa,24.0,-29.0,Western Europe,2.0,48.0,1990,10190,male
+Western Africa,-2.0,16.0,Western Europe,2.0,48.0,1990,209594,male
+Central Asia,63.0,48.0,Western Europe,2.0,48.0,1990,10582,male
+Eastern Asia,116.0,39.0,Western Europe,2.0,48.0,1990,104150,male
+South-Eastern Asia,108.0,4.0,Western Europe,2.0,48.0,1990,293544,male
+Southern Asia,78.0,23.0,Western Europe,2.0,48.0,1990,286266,male
+Western Asia,40.0,33.0,Western Europe,2.0,48.0,1990,1310008,male
+Eastern Europe,30.0,50.0,Western Europe,2.0,48.0,1990,737717,male
+Northern Europe,15.0,60.0,Western Europe,2.0,48.0,1990,215234,male
+Southern Europe,15.0,41.0,Western Europe,2.0,48.0,1990,2597955,male
+Western Europe,2.0,48.0,Western Europe,2.0,48.0,1990,835654,male
+Caribbean,-75.0,18.0,Western Europe,2.0,48.0,1990,23169,male
+Central America,-86.0,15.0,Western Europe,2.0,48.0,1990,14394,male
+South America,-60.0,-10.0,Western Europe,2.0,48.0,1990,159369,male
+NORTHERN AMERICA,-100.0,45.0,Western Europe,2.0,48.0,1990,122108,male
+OCEANIA,140.0,-25.0,Western Europe,2.0,48.0,1990,15136,male
+Eastern Africa,39.0,-6.5,Caribbean,-75.0,18.0,1990,207,male
+Middle Africa,17.0,1.0,Caribbean,-75.0,18.0,1990,138,male
+Northern Africa,18.0,28.0,Caribbean,-75.0,18.0,1990,168,male
+Southern Africa,24.0,-29.0,Caribbean,-75.0,18.0,1990,173,male
+Western Africa,-2.0,16.0,Caribbean,-75.0,18.0,1990,327,male
+Central Asia,63.0,48.0,Caribbean,-75.0,18.0,1990,3,male
+Eastern Asia,116.0,39.0,Caribbean,-75.0,18.0,1990,4729,male
+South-Eastern Asia,108.0,4.0,Caribbean,-75.0,18.0,1990,692,male
+Southern Asia,78.0,23.0,Caribbean,-75.0,18.0,1990,1720,male
+Western Asia,40.0,33.0,Caribbean,-75.0,18.0,1990,1432,male
+Eastern Europe,30.0,50.0,Caribbean,-75.0,18.0,1990,3196,male
+Northern Europe,15.0,60.0,Caribbean,-75.0,18.0,1990,9216,male
+Southern Europe,15.0,41.0,Caribbean,-75.0,18.0,1990,20448,male
+Western Europe,2.0,48.0,Caribbean,-75.0,18.0,1990,43397,male
+Caribbean,-75.0,18.0,Caribbean,-75.0,18.0,1990,241569,male
+Central America,-86.0,15.0,Caribbean,-75.0,18.0,1990,7773,male
+South America,-60.0,-10.0,Caribbean,-75.0,18.0,1990,32731,male
+NORTHERN AMERICA,-100.0,45.0,Caribbean,-75.0,18.0,1990,136772,male
+OCEANIA,140.0,-25.0,Caribbean,-75.0,18.0,1990,125,male
+Eastern Africa,39.0,-6.5,Central America,-86.0,15.0,1990,53,male
+Middle Africa,17.0,1.0,Central America,-86.0,15.0,1990,64,male
+Northern Africa,18.0,28.0,Central America,-86.0,15.0,1990,308,male
+Southern Africa,24.0,-29.0,Central America,-86.0,15.0,1990,69,male
+Western Africa,-2.0,16.0,Central America,-86.0,15.0,1990,232,male
+Central Asia,63.0,48.0,Central America,-86.0,15.0,1990,0,male
+Eastern Asia,116.0,39.0,Central America,-86.0,15.0,1990,11538,male
+South-Eastern Asia,108.0,4.0,Central America,-86.0,15.0,1990,633,male
+Southern Asia,78.0,23.0,Central America,-86.0,15.0,1990,1434,male
+Western Asia,40.0,33.0,Central America,-86.0,15.0,1990,3285,male
+Eastern Europe,30.0,50.0,Central America,-86.0,15.0,1990,2917,male
+Northern Europe,15.0,60.0,Central America,-86.0,15.0,1990,2934,male
+Southern Europe,15.0,41.0,Central America,-86.0,15.0,1990,22295,male
+Western Europe,2.0,48.0,Central America,-86.0,15.0,1990,9939,male
+Caribbean,-75.0,18.0,Central America,-86.0,15.0,1990,10142,male
+Central America,-86.0,15.0,Central America,-86.0,15.0,1990,580584,male
+South America,-60.0,-10.0,Central America,-86.0,15.0,1990,30816,male
+NORTHERN AMERICA,-100.0,45.0,Central America,-86.0,15.0,1990,117354,male
+OCEANIA,140.0,-25.0,Central America,-86.0,15.0,1990,181,male
+Eastern Africa,39.0,-6.5,South America,-60.0,-10.0,1990,1042,male
+Middle Africa,17.0,1.0,South America,-60.0,-10.0,1990,2615,male
+Northern Africa,18.0,28.0,South America,-60.0,-10.0,1990,4365,male
+Southern Africa,24.0,-29.0,South America,-60.0,-10.0,1990,244,male
+Western Africa,-2.0,16.0,South America,-60.0,-10.0,1990,208,male
+Central Asia,63.0,48.0,South America,-60.0,-10.0,1990,0,male
+Eastern Asia,116.0,39.0,South America,-60.0,-10.0,1990,78416,male
+South-Eastern Asia,108.0,4.0,South America,-60.0,-10.0,1990,1286,male
+Southern Asia,78.0,23.0,South America,-60.0,-10.0,1990,1435,male
+Western Asia,40.0,33.0,South America,-60.0,-10.0,1990,37744,male
+Eastern Europe,30.0,50.0,South America,-60.0,-10.0,1990,47029,male
+Northern Europe,15.0,60.0,South America,-60.0,-10.0,1990,10295,male
+Southern Europe,15.0,41.0,South America,-60.0,-10.0,1990,686745,male
+Western Europe,2.0,48.0,South America,-60.0,-10.0,1990,71661,male
+Caribbean,-75.0,18.0,South America,-60.0,-10.0,1990,31609,male
+Central America,-86.0,15.0,South America,-60.0,-10.0,1990,20276,male
+South America,-60.0,-10.0,South America,-60.0,-10.0,1990,1020015,male
+NORTHERN AMERICA,-100.0,45.0,South America,-60.0,-10.0,1990,42586,male
+OCEANIA,140.0,-25.0,South America,-60.0,-10.0,1990,984,male
+Eastern Africa,39.0,-6.5,NORTHERN AMERICA,-100.0,45.0,1990,98484,male
+Middle Africa,17.0,1.0,NORTHERN AMERICA,-100.0,45.0,1990,5880,male
+Northern Africa,18.0,28.0,NORTHERN AMERICA,-100.0,45.0,1990,79204,male
+Southern Africa,24.0,-29.0,NORTHERN AMERICA,-100.0,45.0,1990,28434,male
+Western Africa,-2.0,16.0,NORTHERN AMERICA,-100.0,45.0,1990,75452,male
+Central Asia,63.0,48.0,NORTHERN AMERICA,-100.0,45.0,1990,14731,male
+Eastern Asia,116.0,39.0,NORTHERN AMERICA,-100.0,45.0,1990,1091510,male
+South-Eastern Asia,108.0,4.0,NORTHERN AMERICA,-100.0,45.0,1990,1014902,male
+Southern Asia,78.0,23.0,NORTHERN AMERICA,-100.0,45.0,1990,581258,male
+Western Asia,40.0,33.0,NORTHERN AMERICA,-100.0,45.0,1990,297687,male
+Eastern Europe,30.0,50.0,NORTHERN AMERICA,-100.0,45.0,1990,722463,male
+Northern Europe,15.0,60.0,NORTHERN AMERICA,-100.0,45.0,1990,861708,male
+Southern Europe,15.0,41.0,NORTHERN AMERICA,-100.0,45.0,1990,833939,male
+Western Europe,2.0,48.0,NORTHERN AMERICA,-100.0,45.0,1990,712774,male
+Caribbean,-75.0,18.0,NORTHERN AMERICA,-100.0,45.0,1990,1553063,male
+Central America,-86.0,15.0,NORTHERN AMERICA,-100.0,45.0,1990,2897400,male
+South America,-60.0,-10.0,NORTHERN AMERICA,-100.0,45.0,1990,534983,male
+NORTHERN AMERICA,-100.0,45.0,NORTHERN AMERICA,-100.0,45.0,1990,369913,male
+OCEANIA,140.0,-25.0,NORTHERN AMERICA,-100.0,45.0,1990,58007,male
+Eastern Africa,39.0,-6.5,OCEANIA,140.0,-25.0,1990,23489,male
+Middle Africa,17.0,1.0,OCEANIA,140.0,-25.0,1990,457,male
+Northern Africa,18.0,28.0,OCEANIA,140.0,-25.0,1990,25038,male
+Southern Africa,24.0,-29.0,OCEANIA,140.0,-25.0,1990,31919,male
+Western Africa,-2.0,16.0,OCEANIA,140.0,-25.0,1990,1555,male
+Central Asia,63.0,48.0,OCEANIA,140.0,-25.0,1990,322,male
+Eastern Asia,116.0,39.0,OCEANIA,140.0,-25.0,1990,119210,male
+South-Eastern Asia,108.0,4.0,OCEANIA,140.0,-25.0,1990,247482,male
+Southern Asia,78.0,23.0,OCEANIA,140.0,-25.0,1990,85793,male
+Western Asia,40.0,33.0,OCEANIA,140.0,-25.0,1990,88289,male
+Eastern Europe,30.0,50.0,OCEANIA,140.0,-25.0,1990,84891,male
+Northern Europe,15.0,60.0,OCEANIA,140.0,-25.0,1990,733872,male
+Southern Europe,15.0,41.0,OCEANIA,140.0,-25.0,1990,357880,male
+Western Europe,2.0,48.0,OCEANIA,140.0,-25.0,1990,186428,male
+Caribbean,-75.0,18.0,OCEANIA,140.0,-25.0,1990,1975,male
+Central America,-86.0,15.0,OCEANIA,140.0,-25.0,1990,5383,male
+South America,-60.0,-10.0,OCEANIA,140.0,-25.0,1990,33428,male
+NORTHERN AMERICA,-100.0,45.0,OCEANIA,140.0,-25.0,1990,71452,male
+OCEANIA,140.0,-25.0,OCEANIA,140.0,-25.0,1990,292643,male
+Eastern Africa,39.0,-6.5,Eastern Africa,39.0,-6.5,1995,1868791,male
+Middle Africa,17.0,1.0,Eastern Africa,39.0,-6.5,1995,224164,male
+Northern Africa,18.0,28.0,Eastern Africa,39.0,-6.5,1995,173463,male
+Southern Africa,24.0,-29.0,Eastern Africa,39.0,-6.5,1995,25147,male
+Western Africa,-2.0,16.0,Eastern Africa,39.0,-6.5,1995,4215,male
+Central Asia,63.0,48.0,Eastern Africa,39.0,-6.5,1995,0,male
+Eastern Asia,116.0,39.0,Eastern Africa,39.0,-6.5,1995,1880,male
+South-Eastern Asia,108.0,4.0,Eastern Africa,39.0,-6.5,1995,244,male
+Southern Asia,78.0,23.0,Eastern Africa,39.0,-6.5,1995,13045,male
+Western Asia,40.0,33.0,Eastern Africa,39.0,-6.5,1995,167,male
+Eastern Europe,30.0,50.0,Eastern Africa,39.0,-6.5,1995,159,male
+Northern Europe,15.0,60.0,Eastern Africa,39.0,-6.5,1995,13451,male
+Southern Europe,15.0,41.0,Eastern Africa,39.0,-6.5,1995,2262,male
+Western Europe,2.0,48.0,Eastern Africa,39.0,-6.5,1995,35117,male
+Caribbean,-75.0,18.0,Eastern Africa,39.0,-6.5,1995,122,male
+Central America,-86.0,15.0,Eastern Africa,39.0,-6.5,1995,0,male
+South America,-60.0,-10.0,Eastern Africa,39.0,-6.5,1995,0,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Africa,39.0,-6.5,1995,1361,male
+OCEANIA,140.0,-25.0,Eastern Africa,39.0,-6.5,1995,70,male
+Eastern Africa,39.0,-6.5,Middle Africa,17.0,1.0,1995,707100,male
+Middle Africa,17.0,1.0,Middle Africa,17.0,1.0,1995,343863,male
+Northern Africa,18.0,28.0,Middle Africa,17.0,1.0,1995,33066,male
+Southern Africa,24.0,-29.0,Middle Africa,17.0,1.0,1995,1702,male
+Western Africa,-2.0,16.0,Middle Africa,17.0,1.0,1995,137273,male
+Central Asia,63.0,48.0,Middle Africa,17.0,1.0,1995,0,male
+Eastern Asia,116.0,39.0,Middle Africa,17.0,1.0,1995,499,male
+South-Eastern Asia,108.0,4.0,Middle Africa,17.0,1.0,1995,0,male
+Southern Asia,78.0,23.0,Middle Africa,17.0,1.0,1995,0,male
+Western Asia,40.0,33.0,Middle Africa,17.0,1.0,1995,980,male
+Eastern Europe,30.0,50.0,Middle Africa,17.0,1.0,1995,427,male
+Northern Europe,15.0,60.0,Middle Africa,17.0,1.0,1995,13,male
+Southern Europe,15.0,41.0,Middle Africa,17.0,1.0,1995,4531,male
+Western Europe,2.0,48.0,Middle Africa,17.0,1.0,1995,21069,male
+Caribbean,-75.0,18.0,Middle Africa,17.0,1.0,1995,51,male
+Central America,-86.0,15.0,Middle Africa,17.0,1.0,1995,0,male
+South America,-60.0,-10.0,Middle Africa,17.0,1.0,1995,0,male
+NORTHERN AMERICA,-100.0,45.0,Middle Africa,17.0,1.0,1995,892,male
+OCEANIA,140.0,-25.0,Middle Africa,17.0,1.0,1995,9,male
+Eastern Africa,39.0,-6.5,Northern Africa,18.0,28.0,1995,461978,male
+Middle Africa,17.0,1.0,Northern Africa,18.0,28.0,1995,61138,male
+Northern Africa,18.0,28.0,Northern Africa,18.0,28.0,1995,158545,male
+Southern Africa,24.0,-29.0,Northern Africa,18.0,28.0,1995,494,male
+Western Africa,-2.0,16.0,Northern Africa,18.0,28.0,1995,22203,male
+Central Asia,63.0,48.0,Northern Africa,18.0,28.0,1995,1059,male
+Eastern Asia,116.0,39.0,Northern Africa,18.0,28.0,1995,5046,male
+South-Eastern Asia,108.0,4.0,Northern Africa,18.0,28.0,1995,18793,male
+Southern Asia,78.0,23.0,Northern Africa,18.0,28.0,1995,6794,male
+Western Asia,40.0,33.0,Northern Africa,18.0,28.0,1995,248309,male
+Eastern Europe,30.0,50.0,Northern Africa,18.0,28.0,1995,11670,male
+Northern Europe,15.0,60.0,Northern Africa,18.0,28.0,1995,8169,male
+Southern Europe,15.0,41.0,Northern Africa,18.0,28.0,1995,13550,male
+Western Europe,2.0,48.0,Northern Africa,18.0,28.0,1995,36219,male
+Caribbean,-75.0,18.0,Northern Africa,18.0,28.0,1995,8,male
+Central America,-86.0,15.0,Northern Africa,18.0,28.0,1995,323,male
+South America,-60.0,-10.0,Northern Africa,18.0,28.0,1995,378,male
+NORTHERN AMERICA,-100.0,45.0,Northern Africa,18.0,28.0,1995,13288,male
+OCEANIA,140.0,-25.0,Northern Africa,18.0,28.0,1995,850,male
+Eastern Africa,39.0,-6.5,Southern Africa,24.0,-29.0,1995,333679,male
+Middle Africa,17.0,1.0,Southern Africa,24.0,-29.0,1995,33043,male
+Northern Africa,18.0,28.0,Southern Africa,24.0,-29.0,1995,2784,male
+Southern Africa,24.0,-29.0,Southern Africa,24.0,-29.0,1995,153758,male
+Western Africa,-2.0,16.0,Southern Africa,24.0,-29.0,1995,14450,male
+Central Asia,63.0,48.0,Southern Africa,24.0,-29.0,1995,0,male
+Eastern Asia,116.0,39.0,Southern Africa,24.0,-29.0,1995,10038,male
+South-Eastern Asia,108.0,4.0,Southern Africa,24.0,-29.0,1995,1519,male
+Southern Asia,78.0,23.0,Southern Africa,24.0,-29.0,1995,12492,male
+Western Asia,40.0,33.0,Southern Africa,24.0,-29.0,1995,2957,male
+Eastern Europe,30.0,50.0,Southern Africa,24.0,-29.0,1995,5502,male
+Northern Europe,15.0,60.0,Southern Africa,24.0,-29.0,1995,54607,male
+Southern Europe,15.0,41.0,Southern Africa,24.0,-29.0,1995,17395,male
+Western Europe,2.0,48.0,Southern Africa,24.0,-29.0,1995,30816,male
+Caribbean,-75.0,18.0,Southern Africa,24.0,-29.0,1995,1027,male
+Central America,-86.0,15.0,Southern Africa,24.0,-29.0,1995,119,male
+South America,-60.0,-10.0,Southern Africa,24.0,-29.0,1995,1670,male
+NORTHERN AMERICA,-100.0,45.0,Southern Africa,24.0,-29.0,1995,5510,male
+OCEANIA,140.0,-25.0,Southern Africa,24.0,-29.0,1995,2399,male
+Eastern Africa,39.0,-6.5,Western Africa,-2.0,16.0,1995,722,male
+Middle Africa,17.0,1.0,Western Africa,-2.0,16.0,1995,22758,male
+Northern Africa,18.0,28.0,Western Africa,-2.0,16.0,1995,8322,male
+Southern Africa,24.0,-29.0,Western Africa,-2.0,16.0,1995,57,male
+Western Africa,-2.0,16.0,Western Africa,-2.0,16.0,1995,2660356,male
+Central Asia,63.0,48.0,Western Africa,-2.0,16.0,1995,0,male
+Eastern Asia,116.0,39.0,Western Africa,-2.0,16.0,1995,1087,male
+South-Eastern Asia,108.0,4.0,Western Africa,-2.0,16.0,1995,20,male
+Southern Asia,78.0,23.0,Western Africa,-2.0,16.0,1995,1021,male
+Western Asia,40.0,33.0,Western Africa,-2.0,16.0,1995,5950,male
+Eastern Europe,30.0,50.0,Western Africa,-2.0,16.0,1995,694,male
+Northern Europe,15.0,60.0,Western Africa,-2.0,16.0,1995,2053,male
+Southern Europe,15.0,41.0,Western Africa,-2.0,16.0,1995,1693,male
+Western Europe,2.0,48.0,Western Africa,-2.0,16.0,1995,11332,male
+Caribbean,-75.0,18.0,Western Africa,-2.0,16.0,1995,100,male
+Central America,-86.0,15.0,Western Africa,-2.0,16.0,1995,3,male
+South America,-60.0,-10.0,Western Africa,-2.0,16.0,1995,637,male
+NORTHERN AMERICA,-100.0,45.0,Western Africa,-2.0,16.0,1995,3489,male
+OCEANIA,140.0,-25.0,Western Africa,-2.0,16.0,1995,6,male
+Eastern Africa,39.0,-6.5,Central Asia,63.0,48.0,1995,15,male
+Middle Africa,17.0,1.0,Central Asia,63.0,48.0,1995,0,male
+Northern Africa,18.0,28.0,Central Asia,63.0,48.0,1995,71,male
+Southern Africa,24.0,-29.0,Central Asia,63.0,48.0,1995,0,male
+Western Africa,-2.0,16.0,Central Asia,63.0,48.0,1995,14,male
+Central Asia,63.0,48.0,Central Asia,63.0,48.0,1995,206072,male
+Eastern Asia,116.0,39.0,Central Asia,63.0,48.0,1995,33116,male
+South-Eastern Asia,108.0,4.0,Central Asia,63.0,48.0,1995,154,male
+Southern Asia,78.0,23.0,Central Asia,63.0,48.0,1995,9292,male
+Western Asia,40.0,33.0,Central Asia,63.0,48.0,1995,77176,male
+Eastern Europe,30.0,50.0,Central Asia,63.0,48.0,1995,2120025,male
+Northern Europe,15.0,60.0,Central Asia,63.0,48.0,1995,7016,male
+Southern Europe,15.0,41.0,Central Asia,63.0,48.0,1995,0,male
+Western Europe,2.0,48.0,Central Asia,63.0,48.0,1995,11696,male
+Caribbean,-75.0,18.0,Central Asia,63.0,48.0,1995,14,male
+Central America,-86.0,15.0,Central Asia,63.0,48.0,1995,0,male
+South America,-60.0,-10.0,Central Asia,63.0,48.0,1995,0,male
+NORTHERN AMERICA,-100.0,45.0,Central Asia,63.0,48.0,1995,206,male
+OCEANIA,140.0,-25.0,Central Asia,63.0,48.0,1995,63,male
+Eastern Africa,39.0,-6.5,Eastern Asia,116.0,39.0,1995,0,male
+Middle Africa,17.0,1.0,Eastern Asia,116.0,39.0,1995,0,male
+Northern Africa,18.0,28.0,Eastern Asia,116.0,39.0,1995,309,male
+Southern Africa,24.0,-29.0,Eastern Asia,116.0,39.0,1995,83,male
+Western Africa,-2.0,16.0,Eastern Asia,116.0,39.0,1995,1294,male
+Central Asia,63.0,48.0,Eastern Asia,116.0,39.0,1995,2109,male
+Eastern Asia,116.0,39.0,Eastern Asia,116.0,39.0,1995,1604987,male
+South-Eastern Asia,108.0,4.0,Eastern Asia,116.0,39.0,1995,276105,male
+Southern Asia,78.0,23.0,Eastern Asia,116.0,39.0,1995,38227,male
+Western Asia,40.0,33.0,Eastern Asia,116.0,39.0,1995,72,male
+Eastern Europe,30.0,50.0,Eastern Asia,116.0,39.0,1995,3452,male
+Northern Europe,15.0,60.0,Eastern Asia,116.0,39.0,1995,18386,male
+Southern Europe,15.0,41.0,Eastern Asia,116.0,39.0,1995,3848,male
+Western Europe,2.0,48.0,Eastern Asia,116.0,39.0,1995,9265,male
+Caribbean,-75.0,18.0,Eastern Asia,116.0,39.0,1995,0,male
+Central America,-86.0,15.0,Eastern Asia,116.0,39.0,1995,602,male
+South America,-60.0,-10.0,Eastern Asia,116.0,39.0,1995,113139,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Asia,116.0,39.0,1995,52385,male
+OCEANIA,140.0,-25.0,Eastern Asia,116.0,39.0,1995,10334,male
+Eastern Africa,39.0,-6.5,South-Eastern Asia,108.0,4.0,1995,81,male
+Middle Africa,17.0,1.0,South-Eastern Asia,108.0,4.0,1995,514,male
+Northern Africa,18.0,28.0,South-Eastern Asia,108.0,4.0,1995,5211,male
+Southern Africa,24.0,-29.0,South-Eastern Asia,108.0,4.0,1995,135,male
+Western Africa,-2.0,16.0,South-Eastern Asia,108.0,4.0,1995,60,male
+Central Asia,63.0,48.0,South-Eastern Asia,108.0,4.0,1995,0,male
+Eastern Asia,116.0,39.0,South-Eastern Asia,108.0,4.0,1995,319385,male
+South-Eastern Asia,108.0,4.0,South-Eastern Asia,108.0,4.0,1995,1149085,male
+Southern Asia,78.0,23.0,South-Eastern Asia,108.0,4.0,1995,168890,male
+Western Asia,40.0,33.0,South-Eastern Asia,108.0,4.0,1995,5564,male
+Eastern Europe,30.0,50.0,South-Eastern Asia,108.0,4.0,1995,46,male
+Northern Europe,15.0,60.0,South-Eastern Asia,108.0,4.0,1995,17776,male
+Southern Europe,15.0,41.0,South-Eastern Asia,108.0,4.0,1995,1284,male
+Western Europe,2.0,48.0,South-Eastern Asia,108.0,4.0,1995,5710,male
+Caribbean,-75.0,18.0,South-Eastern Asia,108.0,4.0,1995,60,male
+Central America,-86.0,15.0,South-Eastern Asia,108.0,4.0,1995,57,male
+South America,-60.0,-10.0,South-Eastern Asia,108.0,4.0,1995,462,male
+NORTHERN AMERICA,-100.0,45.0,South-Eastern Asia,108.0,4.0,1995,23394,male
+OCEANIA,140.0,-25.0,South-Eastern Asia,108.0,4.0,1995,9784,male
+Eastern Africa,39.0,-6.5,Southern Asia,78.0,23.0,1995,4444,male
+Middle Africa,17.0,1.0,Southern Asia,78.0,23.0,1995,0,male
+Northern Africa,18.0,28.0,Southern Asia,78.0,23.0,1995,29,male
+Southern Africa,24.0,-29.0,Southern Asia,78.0,23.0,1995,25,male
+Western Africa,-2.0,16.0,Southern Asia,78.0,23.0,1995,570,male
+Central Asia,63.0,48.0,Southern Asia,78.0,23.0,1995,21966,male
+Eastern Asia,116.0,39.0,Southern Asia,78.0,23.0,1995,140681,male
+South-Eastern Asia,108.0,4.0,Southern Asia,78.0,23.0,1995,351721,male
+Southern Asia,78.0,23.0,Southern Asia,78.0,23.0,1995,7131572,male
+Western Asia,40.0,33.0,Southern Asia,78.0,23.0,1995,153389,male
+Eastern Europe,30.0,50.0,Southern Asia,78.0,23.0,1995,1258,male
+Northern Europe,15.0,60.0,Southern Asia,78.0,23.0,1995,15345,male
+Southern Europe,15.0,41.0,Southern Asia,78.0,23.0,1995,845,male
+Western Europe,2.0,48.0,Southern Asia,78.0,23.0,1995,3881,male
+Caribbean,-75.0,18.0,Southern Asia,78.0,23.0,1995,3,male
+Central America,-86.0,15.0,Southern Asia,78.0,23.0,1995,0,male
+South America,-60.0,-10.0,Southern Asia,78.0,23.0,1995,2909,male
+NORTHERN AMERICA,-100.0,45.0,Southern Asia,78.0,23.0,1995,20599,male
+OCEANIA,140.0,-25.0,Southern Asia,78.0,23.0,1995,1534,male
+Eastern Africa,39.0,-6.5,Western Asia,40.0,33.0,1995,124804,male
+Middle Africa,17.0,1.0,Western Asia,40.0,33.0,1995,5441,male
+Northern Africa,18.0,28.0,Western Asia,40.0,33.0,1995,1060876,male
+Southern Africa,24.0,-29.0,Western Asia,40.0,33.0,1995,5432,male
+Western Africa,-2.0,16.0,Western Asia,40.0,33.0,1995,2747,male
+Central Asia,63.0,48.0,Western Asia,40.0,33.0,1995,49743,male
+Eastern Asia,116.0,39.0,Western Asia,40.0,33.0,1995,3227,male
+South-Eastern Asia,108.0,4.0,Western Asia,40.0,33.0,1995,911302,male
+Southern Asia,78.0,23.0,Western Asia,40.0,33.0,1995,3675085,male
+Western Asia,40.0,33.0,Western Asia,40.0,33.0,1995,2406198,male
+Eastern Europe,30.0,50.0,Western Asia,40.0,33.0,1995,613717,male
+Northern Europe,15.0,60.0,Western Asia,40.0,33.0,1995,53562,male
+Southern Europe,15.0,41.0,Western Asia,40.0,33.0,1995,95702,male
+Western Europe,2.0,48.0,Western Asia,40.0,33.0,1995,169301,male
+Caribbean,-75.0,18.0,Western Asia,40.0,33.0,1995,61,male
+Central America,-86.0,15.0,Western Asia,40.0,33.0,1995,881,male
+South America,-60.0,-10.0,Western Asia,40.0,33.0,1995,22219,male
+NORTHERN AMERICA,-100.0,45.0,Western Asia,40.0,33.0,1995,49724,male
+OCEANIA,140.0,-25.0,Western Asia,40.0,33.0,1995,3182,male
+Eastern Africa,39.0,-6.5,Eastern Europe,30.0,50.0,1995,2116,male
+Middle Africa,17.0,1.0,Eastern Europe,30.0,50.0,1995,1416,male
+Northern Africa,18.0,28.0,Eastern Europe,30.0,50.0,1995,7432,male
+Southern Africa,24.0,-29.0,Eastern Europe,30.0,50.0,1995,606,male
+Western Africa,-2.0,16.0,Eastern Europe,30.0,50.0,1995,2814,male
+Central Asia,63.0,48.0,Eastern Europe,30.0,50.0,1995,2518612,male
+Eastern Asia,116.0,39.0,Eastern Europe,30.0,50.0,1995,62519,male
+South-Eastern Asia,108.0,4.0,Eastern Europe,30.0,50.0,1995,32583,male
+Southern Asia,78.0,23.0,Eastern Europe,30.0,50.0,1995,31021,male
+Western Asia,40.0,33.0,Eastern Europe,30.0,50.0,1995,1266911,male
+Eastern Europe,30.0,50.0,Eastern Europe,30.0,50.0,1995,5421090,male
+Northern Europe,15.0,60.0,Eastern Europe,30.0,50.0,1995,216438,male
+Southern Europe,15.0,41.0,Eastern Europe,30.0,50.0,1995,44454,male
+Western Europe,2.0,48.0,Eastern Europe,30.0,50.0,1995,181519,male
+Caribbean,-75.0,18.0,Eastern Europe,30.0,50.0,1995,2180,male
+Central America,-86.0,15.0,Eastern Europe,30.0,50.0,1995,488,male
+South America,-60.0,-10.0,Eastern Europe,30.0,50.0,1995,3711,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Europe,30.0,50.0,1995,13163,male
+OCEANIA,140.0,-25.0,Eastern Europe,30.0,50.0,1995,2146,male
+Eastern Africa,39.0,-6.5,Northern Europe,15.0,60.0,1995,191348,male
+Middle Africa,17.0,1.0,Northern Europe,15.0,60.0,1995,8061,male
+Northern Africa,18.0,28.0,Northern Europe,15.0,60.0,1995,48930,male
+Southern Africa,24.0,-29.0,Northern Europe,15.0,60.0,1995,52055,male
+Western Africa,-2.0,16.0,Northern Europe,15.0,60.0,1995,72563,male
+Central Asia,63.0,48.0,Northern Europe,15.0,60.0,1995,15445,male
+Eastern Asia,116.0,39.0,Northern Europe,15.0,60.0,1995,113475,male
+South-Eastern Asia,108.0,4.0,Northern Europe,15.0,60.0,1995,94346,male
+Southern Asia,78.0,23.0,Northern Europe,15.0,60.0,1995,541244,male
+Western Asia,40.0,33.0,Northern Europe,15.0,60.0,1995,209622,male
+Eastern Europe,30.0,50.0,Northern Europe,15.0,60.0,1995,554767,male
+Northern Europe,15.0,60.0,Northern Europe,15.0,60.0,1995,622658,male
+Southern Europe,15.0,41.0,Northern Europe,15.0,60.0,1995,193314,male
+Western Europe,2.0,48.0,Northern Europe,15.0,60.0,1995,221959,male
+Caribbean,-75.0,18.0,Northern Europe,15.0,60.0,1995,100611,male
+Central America,-86.0,15.0,Northern Europe,15.0,60.0,1995,5604,male
+South America,-60.0,-10.0,Northern Europe,15.0,60.0,1995,57264,male
+NORTHERN AMERICA,-100.0,45.0,Northern Europe,15.0,60.0,1995,152561,male
+OCEANIA,140.0,-25.0,Northern Europe,15.0,60.0,1995,68647,male
+Eastern Africa,39.0,-6.5,Southern Europe,15.0,41.0,1995,50363,male
+Middle Africa,17.0,1.0,Southern Europe,15.0,41.0,1995,86720,male
+Northern Africa,18.0,28.0,Southern Europe,15.0,41.0,1995,357551,male
+Southern Africa,24.0,-29.0,Southern Europe,15.0,41.0,1995,6611,male
+Western Africa,-2.0,16.0,Southern Europe,15.0,41.0,1995,118077,male
+Central Asia,63.0,48.0,Southern Europe,15.0,41.0,1995,19678,male
+Eastern Asia,116.0,39.0,Southern Europe,15.0,41.0,1995,37320,male
+South-Eastern Asia,108.0,4.0,Southern Europe,15.0,41.0,1995,29520,male
+Southern Asia,78.0,23.0,Southern Europe,15.0,41.0,1995,88170,male
+Western Asia,40.0,33.0,Southern Europe,15.0,41.0,1995,118962,male
+Eastern Europe,30.0,50.0,Southern Europe,15.0,41.0,1995,131651,male
+Northern Europe,15.0,60.0,Southern Europe,15.0,41.0,1995,86911,male
+Southern Europe,15.0,41.0,Southern Europe,15.0,41.0,1995,1105795,male
+Western Europe,2.0,48.0,Southern Europe,15.0,41.0,1995,308186,male
+Caribbean,-75.0,18.0,Southern Europe,15.0,41.0,1995,23403,male
+Central America,-86.0,15.0,Southern Europe,15.0,41.0,1995,10131,male
+South America,-60.0,-10.0,Southern Europe,15.0,41.0,1995,150828,male
+NORTHERN AMERICA,-100.0,45.0,Southern Europe,15.0,41.0,1995,61730,male
+OCEANIA,140.0,-25.0,Southern Europe,15.0,41.0,1995,17334,male
+Eastern Africa,39.0,-6.5,Western Europe,2.0,48.0,1995,99022,male
+Middle Africa,17.0,1.0,Western Europe,2.0,48.0,1995,130585,male
+Northern Africa,18.0,28.0,Western Europe,2.0,48.0,1995,1391838,male
+Southern Africa,24.0,-29.0,Western Europe,2.0,48.0,1995,11666,male
+Western Africa,-2.0,16.0,Western Europe,2.0,48.0,1995,225000,male
+Central Asia,63.0,48.0,Western Europe,2.0,48.0,1995,125111,male
+Eastern Asia,116.0,39.0,Western Europe,2.0,48.0,1995,116479,male
+South-Eastern Asia,108.0,4.0,Western Europe,2.0,48.0,1995,294715,male
+Southern Asia,78.0,23.0,Western Europe,2.0,48.0,1995,310008,male
+Western Asia,40.0,33.0,Western Europe,2.0,48.0,1995,1422006,male
+Eastern Europe,30.0,50.0,Western Europe,2.0,48.0,1995,1030016,male
+Northern Europe,15.0,60.0,Western Europe,2.0,48.0,1995,237760,male
+Southern Europe,15.0,41.0,Western Europe,2.0,48.0,1995,2719272,male
+Western Europe,2.0,48.0,Western Europe,2.0,48.0,1995,895814,male
+Caribbean,-75.0,18.0,Western Europe,2.0,48.0,1995,26508,male
+Central America,-86.0,15.0,Western Europe,2.0,48.0,1995,15675,male
+South America,-60.0,-10.0,Western Europe,2.0,48.0,1995,172142,male
+NORTHERN AMERICA,-100.0,45.0,Western Europe,2.0,48.0,1995,130718,male
+OCEANIA,140.0,-25.0,Western Europe,2.0,48.0,1995,16411,male
+Eastern Africa,39.0,-6.5,Caribbean,-75.0,18.0,1995,269,male
+Middle Africa,17.0,1.0,Caribbean,-75.0,18.0,1995,105,male
+Northern Africa,18.0,28.0,Caribbean,-75.0,18.0,1995,176,male
+Southern Africa,24.0,-29.0,Caribbean,-75.0,18.0,1995,218,male
+Western Africa,-2.0,16.0,Caribbean,-75.0,18.0,1995,373,male
+Central Asia,63.0,48.0,Caribbean,-75.0,18.0,1995,4,male
+Eastern Asia,116.0,39.0,Caribbean,-75.0,18.0,1995,5226,male
+South-Eastern Asia,108.0,4.0,Caribbean,-75.0,18.0,1995,885,male
+Southern Asia,78.0,23.0,Caribbean,-75.0,18.0,1995,2059,male
+Western Asia,40.0,33.0,Caribbean,-75.0,18.0,1995,1527,male
+Eastern Europe,30.0,50.0,Caribbean,-75.0,18.0,1995,2459,male
+Northern Europe,15.0,60.0,Caribbean,-75.0,18.0,1995,9751,male
+Southern Europe,15.0,41.0,Caribbean,-75.0,18.0,1995,19660,male
+Western Europe,2.0,48.0,Caribbean,-75.0,18.0,1995,50898,male
+Caribbean,-75.0,18.0,Caribbean,-75.0,18.0,1995,268017,male
+Central America,-86.0,15.0,Caribbean,-75.0,18.0,1995,8163,male
+South America,-60.0,-10.0,Caribbean,-75.0,18.0,1995,37369,male
+NORTHERN AMERICA,-100.0,45.0,Caribbean,-75.0,18.0,1995,139835,male
+OCEANIA,140.0,-25.0,Caribbean,-75.0,18.0,1995,167,male
+Eastern Africa,39.0,-6.5,Central America,-86.0,15.0,1995,42,male
+Middle Africa,17.0,1.0,Central America,-86.0,15.0,1995,57,male
+Northern Africa,18.0,28.0,Central America,-86.0,15.0,1995,342,male
+Southern Africa,24.0,-29.0,Central America,-86.0,15.0,1995,71,male
+Western Africa,-2.0,16.0,Central America,-86.0,15.0,1995,171,male
+Central Asia,63.0,48.0,Central America,-86.0,15.0,1995,0,male
+Eastern Asia,116.0,39.0,Central America,-86.0,15.0,1995,12934,male
+South-Eastern Asia,108.0,4.0,Central America,-86.0,15.0,1995,806,male
+Southern Asia,78.0,23.0,Central America,-86.0,15.0,1995,1768,male
+Western Asia,40.0,33.0,Central America,-86.0,15.0,1995,3434,male
+Eastern Europe,30.0,50.0,Central America,-86.0,15.0,1995,2753,male
+Northern Europe,15.0,60.0,Central America,-86.0,15.0,1995,3293,male
+Southern Europe,15.0,41.0,Central America,-86.0,15.0,1995,21041,male
+Western Europe,2.0,48.0,Central America,-86.0,15.0,1995,10788,male
+Caribbean,-75.0,18.0,Central America,-86.0,15.0,1995,10967,male
+Central America,-86.0,15.0,Central America,-86.0,15.0,1995,301412,male
+South America,-60.0,-10.0,Central America,-86.0,15.0,1995,35159,male
+NORTHERN AMERICA,-100.0,45.0,Central America,-86.0,15.0,1995,155611,male
+OCEANIA,140.0,-25.0,Central America,-86.0,15.0,1995,249,male
+Eastern Africa,39.0,-6.5,South America,-60.0,-10.0,1995,1078,male
+Middle Africa,17.0,1.0,South America,-60.0,-10.0,1995,3166,male
+Northern Africa,18.0,28.0,South America,-60.0,-10.0,1995,3841,male
+Southern Africa,24.0,-29.0,South America,-60.0,-10.0,1995,243,male
+Western Africa,-2.0,16.0,South America,-60.0,-10.0,1995,212,male
+Central Asia,63.0,48.0,South America,-60.0,-10.0,1995,3,male
+Eastern Asia,116.0,39.0,South America,-60.0,-10.0,1995,75400,male
+South-Eastern Asia,108.0,4.0,South America,-60.0,-10.0,1995,1305,male
+Southern Asia,78.0,23.0,South America,-60.0,-10.0,1995,1440,male
+Western Asia,40.0,33.0,South America,-60.0,-10.0,1995,34827,male
+Eastern Europe,30.0,50.0,South America,-60.0,-10.0,1995,37960,male
+Northern Europe,15.0,60.0,South America,-60.0,-10.0,1995,10377,male
+Southern Europe,15.0,41.0,South America,-60.0,-10.0,1995,579873,male
+Western Europe,2.0,48.0,South America,-60.0,-10.0,1995,68959,male
+Caribbean,-75.0,18.0,South America,-60.0,-10.0,1995,32254,male
+Central America,-86.0,15.0,South America,-60.0,-10.0,1995,20403,male
+South America,-60.0,-10.0,South America,-60.0,-10.0,1995,1100657,male
+NORTHERN AMERICA,-100.0,45.0,South America,-60.0,-10.0,1995,45750,male
+OCEANIA,140.0,-25.0,South America,-60.0,-10.0,1995,1062,male
+Eastern Africa,39.0,-6.5,NORTHERN AMERICA,-100.0,45.0,1995,128824,male
+Middle Africa,17.0,1.0,NORTHERN AMERICA,-100.0,45.0,1995,12203,male
+Northern Africa,18.0,28.0,NORTHERN AMERICA,-100.0,45.0,1995,116855,male
+Southern Africa,24.0,-29.0,NORTHERN AMERICA,-100.0,45.0,1995,39003,male
+Western Africa,-2.0,16.0,NORTHERN AMERICA,-100.0,45.0,1995,144014,male
+Central Asia,63.0,48.0,NORTHERN AMERICA,-100.0,45.0,1995,18497,male
+Eastern Asia,116.0,39.0,NORTHERN AMERICA,-100.0,45.0,1995,1417131,male
+South-Eastern Asia,108.0,4.0,NORTHERN AMERICA,-100.0,45.0,1995,1316910,male
+Southern Asia,78.0,23.0,NORTHERN AMERICA,-100.0,45.0,1995,927638,male
+Western Asia,40.0,33.0,NORTHERN AMERICA,-100.0,45.0,1995,380221,male
+Eastern Europe,30.0,50.0,NORTHERN AMERICA,-100.0,45.0,1995,830851,male
+Northern Europe,15.0,60.0,NORTHERN AMERICA,-100.0,45.0,1995,845590,male
+Southern Europe,15.0,41.0,NORTHERN AMERICA,-100.0,45.0,1995,843836,male
+Western Europe,2.0,48.0,NORTHERN AMERICA,-100.0,45.0,1995,726274,male
+Caribbean,-75.0,18.0,NORTHERN AMERICA,-100.0,45.0,1995,1879413,male
+Central America,-86.0,15.0,NORTHERN AMERICA,-100.0,45.0,1995,4516425,male
+South America,-60.0,-10.0,NORTHERN AMERICA,-100.0,45.0,1995,759825,male
+NORTHERN AMERICA,-100.0,45.0,NORTHERN AMERICA,-100.0,45.0,1995,390326,male
+OCEANIA,140.0,-25.0,NORTHERN AMERICA,-100.0,45.0,1995,76102,male
+Eastern Africa,39.0,-6.5,OCEANIA,140.0,-25.0,1995,27570,male
+Middle Africa,17.0,1.0,OCEANIA,140.0,-25.0,1995,470,male
+Northern Africa,18.0,28.0,OCEANIA,140.0,-25.0,1995,26031,male
+Southern Africa,24.0,-29.0,OCEANIA,140.0,-25.0,1995,35923,male
+Western Africa,-2.0,16.0,OCEANIA,140.0,-25.0,1995,2221,male
+Central Asia,63.0,48.0,OCEANIA,140.0,-25.0,1995,370,male
+Eastern Asia,116.0,39.0,OCEANIA,140.0,-25.0,1995,148198,male
+South-Eastern Asia,108.0,4.0,OCEANIA,140.0,-25.0,1995,273118,male
+Southern Asia,78.0,23.0,OCEANIA,140.0,-25.0,1995,104028,male
+Western Asia,40.0,33.0,OCEANIA,140.0,-25.0,1995,95317,male
+Eastern Europe,30.0,50.0,OCEANIA,140.0,-25.0,1995,88741,male
+Northern Europe,15.0,60.0,OCEANIA,140.0,-25.0,1995,722469,male
+Southern Europe,15.0,41.0,OCEANIA,140.0,-25.0,1995,359877,male
+Western Europe,2.0,48.0,OCEANIA,140.0,-25.0,1995,186276,male
+Caribbean,-75.0,18.0,OCEANIA,140.0,-25.0,1995,2485,male
+Central America,-86.0,15.0,OCEANIA,140.0,-25.0,1995,6196,male
+South America,-60.0,-10.0,OCEANIA,140.0,-25.0,1995,34028,male
+NORTHERN AMERICA,-100.0,45.0,OCEANIA,140.0,-25.0,1995,72042,male
+OCEANIA,140.0,-25.0,OCEANIA,140.0,-25.0,1995,308718,male
+Eastern Africa,39.0,-6.5,Eastern Africa,39.0,-6.5,2000,1596133,male
+Middle Africa,17.0,1.0,Eastern Africa,39.0,-6.5,2000,377536,male
+Northern Africa,18.0,28.0,Eastern Africa,39.0,-6.5,2000,211249,male
+Southern Africa,24.0,-29.0,Eastern Africa,39.0,-6.5,2000,26905,male
+Western Africa,-2.0,16.0,Eastern Africa,39.0,-6.5,2000,4364,male
+Central Asia,63.0,48.0,Eastern Africa,39.0,-6.5,2000,0,male
+Eastern Asia,116.0,39.0,Eastern Africa,39.0,-6.5,2000,2574,male
+South-Eastern Asia,108.0,4.0,Eastern Africa,39.0,-6.5,2000,448,male
+Southern Asia,78.0,23.0,Eastern Africa,39.0,-6.5,2000,16943,male
+Western Asia,40.0,33.0,Eastern Africa,39.0,-6.5,2000,195,male
+Eastern Europe,30.0,50.0,Eastern Africa,39.0,-6.5,2000,136,male
+Northern Europe,15.0,60.0,Eastern Africa,39.0,-6.5,2000,16481,male
+Southern Europe,15.0,41.0,Eastern Africa,39.0,-6.5,2000,2527,male
+Western Europe,2.0,48.0,Eastern Africa,39.0,-6.5,2000,44962,male
+Caribbean,-75.0,18.0,Eastern Africa,39.0,-6.5,2000,34,male
+Central America,-86.0,15.0,Eastern Africa,39.0,-6.5,2000,0,male
+South America,-60.0,-10.0,Eastern Africa,39.0,-6.5,2000,0,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Africa,39.0,-6.5,2000,1701,male
+OCEANIA,140.0,-25.0,Eastern Africa,39.0,-6.5,2000,72,male
+Eastern Africa,39.0,-6.5,Middle Africa,17.0,1.0,2000,137279,male
+Middle Africa,17.0,1.0,Middle Africa,17.0,1.0,2000,426520,male
+Northern Africa,18.0,28.0,Middle Africa,17.0,1.0,2000,40508,male
+Southern Africa,24.0,-29.0,Middle Africa,17.0,1.0,2000,1880,male
+Western Africa,-2.0,16.0,Middle Africa,17.0,1.0,2000,155418,male
+Central Asia,63.0,48.0,Middle Africa,17.0,1.0,2000,0,male
+Eastern Asia,116.0,39.0,Middle Africa,17.0,1.0,2000,668,male
+South-Eastern Asia,108.0,4.0,Middle Africa,17.0,1.0,2000,0,male
+Southern Asia,78.0,23.0,Middle Africa,17.0,1.0,2000,0,male
+Western Asia,40.0,33.0,Middle Africa,17.0,1.0,2000,1258,male
+Eastern Europe,30.0,50.0,Middle Africa,17.0,1.0,2000,544,male
+Northern Europe,15.0,60.0,Middle Africa,17.0,1.0,2000,17,male
+Southern Europe,15.0,41.0,Middle Africa,17.0,1.0,2000,5190,male
+Western Europe,2.0,48.0,Middle Africa,17.0,1.0,2000,22063,male
+Caribbean,-75.0,18.0,Middle Africa,17.0,1.0,2000,65,male
+Central America,-86.0,15.0,Middle Africa,17.0,1.0,2000,0,male
+South America,-60.0,-10.0,Middle Africa,17.0,1.0,2000,0,male
+NORTHERN AMERICA,-100.0,45.0,Middle Africa,17.0,1.0,2000,1145,male
+OCEANIA,140.0,-25.0,Middle Africa,17.0,1.0,2000,8,male
+Eastern Africa,39.0,-6.5,Northern Africa,18.0,28.0,2000,377113,male
+Middle Africa,17.0,1.0,Northern Africa,18.0,28.0,2000,55249,male
+Northern Africa,18.0,28.0,Northern Africa,18.0,28.0,2000,150770,male
+Southern Africa,24.0,-29.0,Northern Africa,18.0,28.0,2000,463,male
+Western Africa,-2.0,16.0,Northern Africa,18.0,28.0,2000,22330,male
+Central Asia,63.0,48.0,Northern Africa,18.0,28.0,2000,1454,male
+Eastern Asia,116.0,39.0,Northern Africa,18.0,28.0,2000,4146,male
+South-Eastern Asia,108.0,4.0,Northern Africa,18.0,28.0,2000,21290,male
+Southern Asia,78.0,23.0,Northern Africa,18.0,28.0,2000,7742,male
+Western Asia,40.0,33.0,Northern Africa,18.0,28.0,2000,321703,male
+Eastern Europe,30.0,50.0,Northern Africa,18.0,28.0,2000,6831,male
+Northern Europe,15.0,60.0,Northern Africa,18.0,28.0,2000,6534,male
+Southern Europe,15.0,41.0,Northern Africa,18.0,28.0,2000,9682,male
+Western Europe,2.0,48.0,Northern Africa,18.0,28.0,2000,23635,male
+Caribbean,-75.0,18.0,Northern Africa,18.0,28.0,2000,8,male
+Central America,-86.0,15.0,Northern Africa,18.0,28.0,2000,382,male
+South America,-60.0,-10.0,Northern Africa,18.0,28.0,2000,296,male
+NORTHERN AMERICA,-100.0,45.0,Northern Africa,18.0,28.0,2000,9515,male
+OCEANIA,140.0,-25.0,Northern Africa,18.0,28.0,2000,576,male
+Eastern Africa,39.0,-6.5,Southern Africa,24.0,-29.0,2000,330069,male
+Middle Africa,17.0,1.0,Southern Africa,24.0,-29.0,2000,54210,male
+Northern Africa,18.0,28.0,Southern Africa,24.0,-29.0,2000,2884,male
+Southern Africa,24.0,-29.0,Southern Africa,24.0,-29.0,2000,139051,male
+Western Africa,-2.0,16.0,Southern Africa,24.0,-29.0,2000,10935,male
+Central Asia,63.0,48.0,Southern Africa,24.0,-29.0,2000,0,male
+Eastern Asia,116.0,39.0,Southern Africa,24.0,-29.0,2000,11220,male
+South-Eastern Asia,108.0,4.0,Southern Africa,24.0,-29.0,2000,1212,male
+Southern Asia,78.0,23.0,Southern Africa,24.0,-29.0,2000,17033,male
+Western Asia,40.0,33.0,Southern Africa,24.0,-29.0,2000,3233,male
+Eastern Europe,30.0,50.0,Southern Africa,24.0,-29.0,2000,6299,male
+Northern Europe,15.0,60.0,Southern Africa,24.0,-29.0,2000,67397,male
+Southern Europe,15.0,41.0,Southern Africa,24.0,-29.0,2000,20794,male
+Western Europe,2.0,48.0,Southern Africa,24.0,-29.0,2000,28940,male
+Caribbean,-75.0,18.0,Southern Africa,24.0,-29.0,2000,1080,male
+Central America,-86.0,15.0,Southern Africa,24.0,-29.0,2000,115,male
+South America,-60.0,-10.0,Southern Africa,24.0,-29.0,2000,1888,male
+NORTHERN AMERICA,-100.0,45.0,Southern Africa,24.0,-29.0,2000,5407,male
+OCEANIA,140.0,-25.0,Southern Africa,24.0,-29.0,2000,2501,male
+Eastern Africa,39.0,-6.5,Western Africa,-2.0,16.0,2000,970,male
+Middle Africa,17.0,1.0,Western Africa,-2.0,16.0,2000,23525,male
+Northern Africa,18.0,28.0,Western Africa,-2.0,16.0,2000,8243,male
+Southern Africa,24.0,-29.0,Western Africa,-2.0,16.0,2000,50,male
+Western Africa,-2.0,16.0,Western Africa,-2.0,16.0,2000,2575136,male
+Central Asia,63.0,48.0,Western Africa,-2.0,16.0,2000,0,male
+Eastern Asia,116.0,39.0,Western Africa,-2.0,16.0,2000,1063,male
+South-Eastern Asia,108.0,4.0,Western Africa,-2.0,16.0,2000,22,male
+Southern Asia,78.0,23.0,Western Africa,-2.0,16.0,2000,1010,male
+Western Asia,40.0,33.0,Western Africa,-2.0,16.0,2000,5510,male
+Eastern Europe,30.0,50.0,Western Africa,-2.0,16.0,2000,669,male
+Northern Europe,15.0,60.0,Western Africa,-2.0,16.0,2000,2001,male
+Southern Europe,15.0,41.0,Western Africa,-2.0,16.0,2000,1793,male
+Western Europe,2.0,48.0,Western Africa,-2.0,16.0,2000,10241,male
+Caribbean,-75.0,18.0,Western Africa,-2.0,16.0,2000,120,male
+Central America,-86.0,15.0,Western Africa,-2.0,16.0,2000,4,male
+South America,-60.0,-10.0,Western Africa,-2.0,16.0,2000,573,male
+NORTHERN AMERICA,-100.0,45.0,Western Africa,-2.0,16.0,2000,3387,male
+OCEANIA,140.0,-25.0,Western Africa,-2.0,16.0,2000,6,male
+Eastern Africa,39.0,-6.5,Central Asia,63.0,48.0,2000,14,male
+Middle Africa,17.0,1.0,Central Asia,63.0,48.0,2000,0,male
+Northern Africa,18.0,28.0,Central Asia,63.0,48.0,2000,63,male
+Southern Africa,24.0,-29.0,Central Asia,63.0,48.0,2000,0,male
+Western Africa,-2.0,16.0,Central Asia,63.0,48.0,2000,13,male
+Central Asia,63.0,48.0,Central Asia,63.0,48.0,2000,200702,male
+Eastern Asia,116.0,39.0,Central Asia,63.0,48.0,2000,35381,male
+South-Eastern Asia,108.0,4.0,Central Asia,63.0,48.0,2000,129,male
+Southern Asia,78.0,23.0,Central Asia,63.0,48.0,2000,10619,male
+Western Asia,40.0,33.0,Central Asia,63.0,48.0,2000,74873,male
+Eastern Europe,30.0,50.0,Central Asia,63.0,48.0,2000,1857512,male
+Northern Europe,15.0,60.0,Central Asia,63.0,48.0,2000,6017,male
+Southern Europe,15.0,41.0,Central Asia,63.0,48.0,2000,0,male
+Western Europe,2.0,48.0,Central Asia,63.0,48.0,2000,7049,male
+Caribbean,-75.0,18.0,Central Asia,63.0,48.0,2000,13,male
+Central America,-86.0,15.0,Central Asia,63.0,48.0,2000,0,male
+South America,-60.0,-10.0,Central Asia,63.0,48.0,2000,0,male
+NORTHERN AMERICA,-100.0,45.0,Central Asia,63.0,48.0,2000,183,male
+OCEANIA,140.0,-25.0,Central Asia,63.0,48.0,2000,56,male
+Eastern Africa,39.0,-6.5,Eastern Asia,116.0,39.0,2000,0,male
+Middle Africa,17.0,1.0,Eastern Asia,116.0,39.0,2000,0,male
+Northern Africa,18.0,28.0,Eastern Asia,116.0,39.0,2000,510,male
+Southern Africa,24.0,-29.0,Eastern Asia,116.0,39.0,2000,200,male
+Western Africa,-2.0,16.0,Eastern Asia,116.0,39.0,2000,1840,male
+Central Asia,63.0,48.0,Eastern Asia,116.0,39.0,2000,4503,male
+Eastern Asia,116.0,39.0,Eastern Asia,116.0,39.0,2000,1687957,male
+South-Eastern Asia,108.0,4.0,Eastern Asia,116.0,39.0,2000,357740,male
+Southern Asia,78.0,23.0,Eastern Asia,116.0,39.0,2000,54451,male
+Western Asia,40.0,33.0,Eastern Asia,116.0,39.0,2000,82,male
+Eastern Europe,30.0,50.0,Eastern Asia,116.0,39.0,2000,5532,male
+Northern Europe,15.0,60.0,Eastern Asia,116.0,39.0,2000,21992,male
+Southern Europe,15.0,41.0,Eastern Asia,116.0,39.0,2000,3053,male
+Western Europe,2.0,48.0,Eastern Asia,116.0,39.0,2000,11122,male
+Caribbean,-75.0,18.0,Eastern Asia,116.0,39.0,2000,0,male
+Central America,-86.0,15.0,Eastern Asia,116.0,39.0,2000,804,male
+South America,-60.0,-10.0,Eastern Asia,116.0,39.0,2000,156270,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Asia,116.0,39.0,2000,65015,male
+OCEANIA,140.0,-25.0,Eastern Asia,116.0,39.0,2000,13660,male
+Eastern Africa,39.0,-6.5,South-Eastern Asia,108.0,4.0,2000,271,male
+Middle Africa,17.0,1.0,South-Eastern Asia,108.0,4.0,2000,1727,male
+Northern Africa,18.0,28.0,South-Eastern Asia,108.0,4.0,2000,3007,male
+Southern Africa,24.0,-29.0,South-Eastern Asia,108.0,4.0,2000,432,male
+Western Africa,-2.0,16.0,South-Eastern Asia,108.0,4.0,2000,199,male
+Central Asia,63.0,48.0,South-Eastern Asia,108.0,4.0,2000,0,male
+Eastern Asia,116.0,39.0,South-Eastern Asia,108.0,4.0,2000,309995,male
+South-Eastern Asia,108.0,4.0,South-Eastern Asia,108.0,4.0,2000,1741481,male
+Southern Asia,78.0,23.0,South-Eastern Asia,108.0,4.0,2000,251396,male
+Western Asia,40.0,33.0,South-Eastern Asia,108.0,4.0,2000,8684,male
+Eastern Europe,30.0,50.0,South-Eastern Asia,108.0,4.0,2000,297,male
+Northern Europe,15.0,60.0,South-Eastern Asia,108.0,4.0,2000,29586,male
+Southern Europe,15.0,41.0,South-Eastern Asia,108.0,4.0,2000,1752,male
+Western Europe,2.0,48.0,South-Eastern Asia,108.0,4.0,2000,8058,male
+Caribbean,-75.0,18.0,South-Eastern Asia,108.0,4.0,2000,110,male
+Central America,-86.0,15.0,South-Eastern Asia,108.0,4.0,2000,203,male
+South America,-60.0,-10.0,South-Eastern Asia,108.0,4.0,2000,3452,male
+NORTHERN AMERICA,-100.0,45.0,South-Eastern Asia,108.0,4.0,2000,29709,male
+OCEANIA,140.0,-25.0,South-Eastern Asia,108.0,4.0,2000,12290,male
+Eastern Africa,39.0,-6.5,Southern Asia,78.0,23.0,2000,2372,male
+Middle Africa,17.0,1.0,Southern Asia,78.0,23.0,2000,0,male
+Northern Africa,18.0,28.0,Southern Asia,78.0,23.0,2000,50,male
+Southern Africa,24.0,-29.0,Southern Asia,78.0,23.0,2000,40,male
+Western Africa,-2.0,16.0,Southern Asia,78.0,23.0,2000,407,male
+Central Asia,63.0,48.0,Southern Asia,78.0,23.0,2000,20140,male
+Eastern Asia,116.0,39.0,Southern Asia,78.0,23.0,2000,134127,male
+South-Eastern Asia,108.0,4.0,Southern Asia,78.0,23.0,2000,366736,male
+Southern Asia,78.0,23.0,Southern Asia,78.0,23.0,2000,6940973,male
+Western Asia,40.0,33.0,Southern Asia,78.0,23.0,2000,139529,male
+Eastern Europe,30.0,50.0,Southern Asia,78.0,23.0,2000,820,male
+Northern Europe,15.0,60.0,Southern Asia,78.0,23.0,2000,20936,male
+Southern Europe,15.0,41.0,Southern Asia,78.0,23.0,2000,1204,male
+Western Europe,2.0,48.0,Southern Asia,78.0,23.0,2000,2063,male
+Caribbean,-75.0,18.0,Southern Asia,78.0,23.0,2000,5,male
+Central America,-86.0,15.0,Southern Asia,78.0,23.0,2000,0,male
+South America,-60.0,-10.0,Southern Asia,78.0,23.0,2000,5520,male
+NORTHERN AMERICA,-100.0,45.0,Southern Asia,78.0,23.0,2000,19964,male
+OCEANIA,140.0,-25.0,Southern Asia,78.0,23.0,2000,658,male
+Eastern Africa,39.0,-6.5,Western Asia,40.0,33.0,2000,138808,male
+Middle Africa,17.0,1.0,Western Asia,40.0,33.0,2000,5940,male
+Northern Africa,18.0,28.0,Western Asia,40.0,33.0,2000,1204814,male
+Southern Africa,24.0,-29.0,Western Asia,40.0,33.0,2000,5939,male
+Western Africa,-2.0,16.0,Western Asia,40.0,33.0,2000,3374,male
+Central Asia,63.0,48.0,Western Asia,40.0,33.0,2000,45679,male
+Eastern Asia,116.0,39.0,Western Asia,40.0,33.0,2000,4396,male
+South-Eastern Asia,108.0,4.0,Western Asia,40.0,33.0,2000,986292,male
+Southern Asia,78.0,23.0,Western Asia,40.0,33.0,2000,4233669,male
+Western Asia,40.0,33.0,Western Asia,40.0,33.0,2000,2682221,male
+Eastern Europe,30.0,50.0,Western Asia,40.0,33.0,2000,558774,male
+Northern Europe,15.0,60.0,Western Asia,40.0,33.0,2000,60258,male
+Southern Europe,15.0,41.0,Western Asia,40.0,33.0,2000,107739,male
+Western Europe,2.0,48.0,Western Asia,40.0,33.0,2000,196910,male
+Caribbean,-75.0,18.0,Western Asia,40.0,33.0,2000,96,male
+Central America,-86.0,15.0,Western Asia,40.0,33.0,2000,1026,male
+South America,-60.0,-10.0,Western Asia,40.0,33.0,2000,24114,male
+NORTHERN AMERICA,-100.0,45.0,Western Asia,40.0,33.0,2000,54502,male
+OCEANIA,140.0,-25.0,Western Asia,40.0,33.0,2000,3423,male
+Eastern Africa,39.0,-6.5,Eastern Europe,30.0,50.0,2000,2312,male
+Middle Africa,17.0,1.0,Eastern Europe,30.0,50.0,2000,1532,male
+Northern Africa,18.0,28.0,Eastern Europe,30.0,50.0,2000,7859,male
+Southern Africa,24.0,-29.0,Eastern Europe,30.0,50.0,2000,688,male
+Western Africa,-2.0,16.0,Eastern Europe,30.0,50.0,2000,3107,male
+Central Asia,63.0,48.0,Eastern Europe,30.0,50.0,2000,2557078,male
+Eastern Asia,116.0,39.0,Eastern Europe,30.0,50.0,2000,65730,male
+South-Eastern Asia,108.0,4.0,Eastern Europe,30.0,50.0,2000,34671,male
+Southern Asia,78.0,23.0,Eastern Europe,30.0,50.0,2000,31250,male
+Western Asia,40.0,33.0,Eastern Europe,30.0,50.0,2000,1301668,male
+Eastern Europe,30.0,50.0,Eastern Europe,30.0,50.0,2000,5029715,male
+Northern Europe,15.0,60.0,Eastern Europe,30.0,50.0,2000,215133,male
+Southern Europe,15.0,41.0,Eastern Europe,30.0,50.0,2000,42786,male
+Western Europe,2.0,48.0,Eastern Europe,30.0,50.0,2000,176892,male
+Caribbean,-75.0,18.0,Eastern Europe,30.0,50.0,2000,2360,male
+Central America,-86.0,15.0,Eastern Europe,30.0,50.0,2000,589,male
+South America,-60.0,-10.0,Eastern Europe,30.0,50.0,2000,3977,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Europe,30.0,50.0,2000,14123,male
+OCEANIA,140.0,-25.0,Eastern Europe,30.0,50.0,2000,2189,male
+Eastern Africa,39.0,-6.5,Northern Europe,15.0,60.0,2000,225666,male
+Middle Africa,17.0,1.0,Northern Europe,15.0,60.0,2000,13419,male
+Northern Africa,18.0,28.0,Northern Europe,15.0,60.0,2000,59501,male
+Southern Africa,24.0,-29.0,Northern Europe,15.0,60.0,2000,71526,male
+Western Africa,-2.0,16.0,Northern Europe,15.0,60.0,2000,97822,male
+Central Asia,63.0,48.0,Northern Europe,15.0,60.0,2000,15517,male
+Eastern Asia,116.0,39.0,Northern Europe,15.0,60.0,2000,151599,male
+South-Eastern Asia,108.0,4.0,Northern Europe,15.0,60.0,2000,108752,male
+Southern Asia,78.0,23.0,Northern Europe,15.0,60.0,2000,615462,male
+Western Asia,40.0,33.0,Northern Europe,15.0,60.0,2000,248702,male
+Eastern Europe,30.0,50.0,Northern Europe,15.0,60.0,2000,458285,male
+Northern Europe,15.0,60.0,Northern Europe,15.0,60.0,2000,643703,male
+Southern Europe,15.0,41.0,Northern Europe,15.0,60.0,2000,223638,male
+Western Europe,2.0,48.0,Northern Europe,15.0,60.0,2000,260073,male
+Caribbean,-75.0,18.0,Northern Europe,15.0,60.0,2000,111487,male
+Central America,-86.0,15.0,Northern Europe,15.0,60.0,2000,7423,male
+South America,-60.0,-10.0,Northern Europe,15.0,60.0,2000,68314,male
+NORTHERN AMERICA,-100.0,45.0,Northern Europe,15.0,60.0,2000,146530,male
+OCEANIA,140.0,-25.0,Northern Europe,15.0,60.0,2000,83551,male
+Eastern Africa,39.0,-6.5,Southern Europe,15.0,41.0,2000,53561,male
+Middle Africa,17.0,1.0,Southern Europe,15.0,41.0,2000,105377,male
+Northern Africa,18.0,28.0,Southern Europe,15.0,41.0,2000,453284,male
+Southern Africa,24.0,-29.0,Southern Europe,15.0,41.0,2000,9092,male
+Western Africa,-2.0,16.0,Southern Europe,15.0,41.0,2000,147580,male
+Central Asia,63.0,48.0,Southern Europe,15.0,41.0,2000,14558,male
+Eastern Asia,116.0,39.0,Southern Europe,15.0,41.0,2000,48392,male
+South-Eastern Asia,108.0,4.0,Southern Europe,15.0,41.0,2000,42312,male
+Southern Asia,78.0,23.0,Southern Europe,15.0,41.0,2000,123016,male
+Western Asia,40.0,33.0,Southern Europe,15.0,41.0,2000,127513,male
+Eastern Europe,30.0,50.0,Southern Europe,15.0,41.0,2000,188534,male
+Northern Europe,15.0,60.0,Southern Europe,15.0,41.0,2000,110720,male
+Southern Europe,15.0,41.0,Southern Europe,15.0,41.0,2000,1389355,male
+Western Europe,2.0,48.0,Southern Europe,15.0,41.0,2000,422676,male
+Caribbean,-75.0,18.0,Southern Europe,15.0,41.0,2000,37701,male
+Central America,-86.0,15.0,Southern Europe,15.0,41.0,2000,16256,male
+South America,-60.0,-10.0,Southern Europe,15.0,41.0,2000,230585,male
+NORTHERN AMERICA,-100.0,45.0,Southern Europe,15.0,41.0,2000,54814,male
+OCEANIA,140.0,-25.0,Southern Europe,15.0,41.0,2000,17524,male
+Eastern Africa,39.0,-6.5,Western Europe,2.0,48.0,2000,107053,male
+Middle Africa,17.0,1.0,Western Europe,2.0,48.0,2000,136705,male
+Northern Africa,18.0,28.0,Western Europe,2.0,48.0,2000,1409776,male
+Southern Africa,24.0,-29.0,Western Europe,2.0,48.0,2000,13243,male
+Western Africa,-2.0,16.0,Western Europe,2.0,48.0,2000,240649,male
+Central Asia,63.0,48.0,Western Europe,2.0,48.0,2000,239755,male
+Eastern Asia,116.0,39.0,Western Europe,2.0,48.0,2000,129266,male
+South-Eastern Asia,108.0,4.0,Western Europe,2.0,48.0,2000,296653,male
+Southern Asia,78.0,23.0,Western Europe,2.0,48.0,2000,334584,male
+Western Asia,40.0,33.0,Western Europe,2.0,48.0,2000,1475432,male
+Eastern Europe,30.0,50.0,Western Europe,2.0,48.0,2000,1396091,male
+Northern Europe,15.0,60.0,Western Europe,2.0,48.0,2000,260912,male
+Southern Europe,15.0,41.0,Western Europe,2.0,48.0,2000,2857976,male
+Western Europe,2.0,48.0,Western Europe,2.0,48.0,2000,951808,male
+Caribbean,-75.0,18.0,Western Europe,2.0,48.0,2000,29904,male
+Central America,-86.0,15.0,Western Europe,2.0,48.0,2000,16910,male
+South America,-60.0,-10.0,Western Europe,2.0,48.0,2000,187757,male
+NORTHERN AMERICA,-100.0,45.0,Western Europe,2.0,48.0,2000,139538,male
+OCEANIA,140.0,-25.0,Western Europe,2.0,48.0,2000,17876,male
+Eastern Africa,39.0,-6.5,Caribbean,-75.0,18.0,2000,340,male
+Middle Africa,17.0,1.0,Caribbean,-75.0,18.0,2000,67,male
+Northern Africa,18.0,28.0,Caribbean,-75.0,18.0,2000,184,male
+Southern Africa,24.0,-29.0,Caribbean,-75.0,18.0,2000,272,male
+Western Africa,-2.0,16.0,Caribbean,-75.0,18.0,2000,455,male
+Central Asia,63.0,48.0,Caribbean,-75.0,18.0,2000,4,male
+Eastern Asia,116.0,39.0,Caribbean,-75.0,18.0,2000,5778,male
+South-Eastern Asia,108.0,4.0,Caribbean,-75.0,18.0,2000,1129,male
+Southern Asia,78.0,23.0,Caribbean,-75.0,18.0,2000,2450,male
+Western Asia,40.0,33.0,Caribbean,-75.0,18.0,2000,1622,male
+Eastern Europe,30.0,50.0,Caribbean,-75.0,18.0,2000,1745,male
+Northern Europe,15.0,60.0,Caribbean,-75.0,18.0,2000,10743,male
+Southern Europe,15.0,41.0,Caribbean,-75.0,18.0,2000,19095,male
+Western Europe,2.0,48.0,Caribbean,-75.0,18.0,2000,58459,male
+Caribbean,-75.0,18.0,Caribbean,-75.0,18.0,2000,293818,male
+Central America,-86.0,15.0,Caribbean,-75.0,18.0,2000,8758,male
+South America,-60.0,-10.0,Caribbean,-75.0,18.0,2000,42714,male
+NORTHERN AMERICA,-100.0,45.0,Caribbean,-75.0,18.0,2000,144395,male
+OCEANIA,140.0,-25.0,Caribbean,-75.0,18.0,2000,224,male
+Eastern Africa,39.0,-6.5,Central America,-86.0,15.0,2000,61,male
+Middle Africa,17.0,1.0,Central America,-86.0,15.0,2000,70,male
+Northern Africa,18.0,28.0,Central America,-86.0,15.0,2000,427,male
+Southern Africa,24.0,-29.0,Central America,-86.0,15.0,2000,82,male
+Western Africa,-2.0,16.0,Central America,-86.0,15.0,2000,146,male
+Central Asia,63.0,48.0,Central America,-86.0,15.0,2000,0,male
+Eastern Asia,116.0,39.0,Central America,-86.0,15.0,2000,15476,male
+South-Eastern Asia,108.0,4.0,Central America,-86.0,15.0,2000,1046,male
+Southern Asia,78.0,23.0,Central America,-86.0,15.0,2000,2247,male
+Western Asia,40.0,33.0,Central America,-86.0,15.0,2000,3810,male
+Eastern Europe,30.0,50.0,Central America,-86.0,15.0,2000,2891,male
+Northern Europe,15.0,60.0,Central America,-86.0,15.0,2000,3970,male
+Southern Europe,15.0,41.0,Central America,-86.0,15.0,2000,21496,male
+Western Europe,2.0,48.0,Central America,-86.0,15.0,2000,12842,male
+Caribbean,-75.0,18.0,Central America,-86.0,15.0,2000,13470,male
+Central America,-86.0,15.0,Central America,-86.0,15.0,2000,221229,male
+South America,-60.0,-10.0,Central America,-86.0,15.0,2000,43647,male
+NORTHERN AMERICA,-100.0,45.0,Central America,-86.0,15.0,2000,203484,male
+OCEANIA,140.0,-25.0,Central America,-86.0,15.0,2000,338,male
+Eastern Africa,39.0,-6.5,South America,-60.0,-10.0,2000,1115,male
+Middle Africa,17.0,1.0,South America,-60.0,-10.0,2000,3721,male
+Northern Africa,18.0,28.0,South America,-60.0,-10.0,2000,3361,male
+Southern Africa,24.0,-29.0,South America,-60.0,-10.0,2000,251,male
+Western Africa,-2.0,16.0,South America,-60.0,-10.0,2000,277,male
+Central Asia,63.0,48.0,South America,-60.0,-10.0,2000,5,male
+Eastern Asia,116.0,39.0,South America,-60.0,-10.0,2000,73021,male
+South-Eastern Asia,108.0,4.0,South America,-60.0,-10.0,2000,1358,male
+Southern Asia,78.0,23.0,South America,-60.0,-10.0,2000,1468,male
+Western Asia,40.0,33.0,South America,-60.0,-10.0,2000,31903,male
+Eastern Europe,30.0,50.0,South America,-60.0,-10.0,2000,29216,male
+Northern Europe,15.0,60.0,South America,-60.0,-10.0,2000,10670,male
+Southern Europe,15.0,41.0,South America,-60.0,-10.0,2000,475048,male
+Western Europe,2.0,48.0,South America,-60.0,-10.0,2000,66576,male
+Caribbean,-75.0,18.0,South America,-60.0,-10.0,2000,33289,male
+Central America,-86.0,15.0,South America,-60.0,-10.0,2000,20658,male
+South America,-60.0,-10.0,South America,-60.0,-10.0,2000,1181226,male
+NORTHERN AMERICA,-100.0,45.0,South America,-60.0,-10.0,2000,49475,male
+OCEANIA,140.0,-25.0,South America,-60.0,-10.0,2000,1171,male
+Eastern Africa,39.0,-6.5,NORTHERN AMERICA,-100.0,45.0,2000,161296,male
+Middle Africa,17.0,1.0,NORTHERN AMERICA,-100.0,45.0,2000,18725,male
+Northern Africa,18.0,28.0,NORTHERN AMERICA,-100.0,45.0,2000,156009,male
+Southern Africa,24.0,-29.0,NORTHERN AMERICA,-100.0,45.0,2000,50109,male
+Western Africa,-2.0,16.0,NORTHERN AMERICA,-100.0,45.0,2000,214384,male
+Central Asia,63.0,48.0,NORTHERN AMERICA,-100.0,45.0,2000,22422,male
+Eastern Asia,116.0,39.0,NORTHERN AMERICA,-100.0,45.0,2000,1755918,male
+South-Eastern Asia,108.0,4.0,NORTHERN AMERICA,-100.0,45.0,2000,1630255,male
+Southern Asia,78.0,23.0,NORTHERN AMERICA,-100.0,45.0,2000,1285369,male
+Western Asia,40.0,33.0,NORTHERN AMERICA,-100.0,45.0,2000,466087,male
+Eastern Europe,30.0,50.0,NORTHERN AMERICA,-100.0,45.0,2000,947087,male
+Northern Europe,15.0,60.0,NORTHERN AMERICA,-100.0,45.0,2000,838614,male
+Southern Europe,15.0,41.0,NORTHERN AMERICA,-100.0,45.0,2000,861839,male
+Western Europe,2.0,48.0,NORTHERN AMERICA,-100.0,45.0,2000,744593,male
+Caribbean,-75.0,18.0,NORTHERN AMERICA,-100.0,45.0,2000,2202625,male
+Central America,-86.0,15.0,NORTHERN AMERICA,-100.0,45.0,2000,6176435,male
+South America,-60.0,-10.0,NORTHERN AMERICA,-100.0,45.0,2000,992220,male
+NORTHERN AMERICA,-100.0,45.0,NORTHERN AMERICA,-100.0,45.0,2000,413342,male
+OCEANIA,140.0,-25.0,NORTHERN AMERICA,-100.0,45.0,2000,95096,male
+Eastern Africa,39.0,-6.5,OCEANIA,140.0,-25.0,2000,32871,male
+Middle Africa,17.0,1.0,OCEANIA,140.0,-25.0,2000,524,male
+Northern Africa,18.0,28.0,OCEANIA,140.0,-25.0,2000,26254,male
+Southern Africa,24.0,-29.0,OCEANIA,140.0,-25.0,2000,52894,male
+Western Africa,-2.0,16.0,OCEANIA,140.0,-25.0,2000,2871,male
+Central Asia,63.0,48.0,OCEANIA,140.0,-25.0,2000,499,male
+Eastern Asia,116.0,39.0,OCEANIA,140.0,-25.0,2000,181831,male
+South-Eastern Asia,108.0,4.0,OCEANIA,140.0,-25.0,2000,290368,male
+Southern Asia,78.0,23.0,OCEANIA,140.0,-25.0,2000,127374,male
+Western Asia,40.0,33.0,OCEANIA,140.0,-25.0,2000,103629,male
+Eastern Europe,30.0,50.0,OCEANIA,140.0,-25.0,2000,84425,male
+Northern Europe,15.0,60.0,OCEANIA,140.0,-25.0,2000,728270,male
+Southern Europe,15.0,41.0,OCEANIA,140.0,-25.0,2000,342987,male
+Western Europe,2.0,48.0,OCEANIA,140.0,-25.0,2000,181380,male
+Caribbean,-75.0,18.0,OCEANIA,140.0,-25.0,2000,2961,male
+Central America,-86.0,15.0,OCEANIA,140.0,-25.0,2000,6686,male
+South America,-60.0,-10.0,OCEANIA,140.0,-25.0,2000,33362,male
+NORTHERN AMERICA,-100.0,45.0,OCEANIA,140.0,-25.0,2000,72222,male
+OCEANIA,140.0,-25.0,OCEANIA,140.0,-25.0,2000,353227,male
+Eastern Africa,39.0,-6.5,Eastern Africa,39.0,-6.5,2005,1546788,male
+Middle Africa,17.0,1.0,Eastern Africa,39.0,-6.5,2005,414867,male
+Northern Africa,18.0,28.0,Eastern Africa,39.0,-6.5,2005,253096,male
+Southern Africa,24.0,-29.0,Eastern Africa,39.0,-6.5,2005,30653,male
+Western Africa,-2.0,16.0,Eastern Africa,39.0,-6.5,2005,5475,male
+Central Asia,63.0,48.0,Eastern Africa,39.0,-6.5,2005,0,male
+Eastern Asia,116.0,39.0,Eastern Africa,39.0,-6.5,2005,2885,male
+South-Eastern Asia,108.0,4.0,Eastern Africa,39.0,-6.5,2005,561,male
+Southern Asia,78.0,23.0,Eastern Africa,39.0,-6.5,2005,22225,male
+Western Asia,40.0,33.0,Eastern Africa,39.0,-6.5,2005,167,male
+Eastern Europe,30.0,50.0,Eastern Africa,39.0,-6.5,2005,145,male
+Northern Europe,15.0,60.0,Eastern Africa,39.0,-6.5,2005,14073,male
+Southern Europe,15.0,41.0,Eastern Africa,39.0,-6.5,2005,3141,male
+Western Europe,2.0,48.0,Eastern Africa,39.0,-6.5,2005,52338,male
+Caribbean,-75.0,18.0,Eastern Africa,39.0,-6.5,2005,33,male
+Central America,-86.0,15.0,Eastern Africa,39.0,-6.5,2005,0,male
+South America,-60.0,-10.0,Eastern Africa,39.0,-6.5,2005,0,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Africa,39.0,-6.5,2005,1882,male
+OCEANIA,140.0,-25.0,Eastern Africa,39.0,-6.5,2005,99,male
+Eastern Africa,39.0,-6.5,Middle Africa,17.0,1.0,2005,106582,male
+Middle Africa,17.0,1.0,Middle Africa,17.0,1.0,2005,447439,male
+Northern Africa,18.0,28.0,Middle Africa,17.0,1.0,2005,133664,male
+Southern Africa,24.0,-29.0,Middle Africa,17.0,1.0,2005,2371,male
+Western Africa,-2.0,16.0,Middle Africa,17.0,1.0,2005,176356,male
+Central Asia,63.0,48.0,Middle Africa,17.0,1.0,2005,0,male
+Eastern Asia,116.0,39.0,Middle Africa,17.0,1.0,2005,547,male
+South-Eastern Asia,108.0,4.0,Middle Africa,17.0,1.0,2005,0,male
+Southern Asia,78.0,23.0,Middle Africa,17.0,1.0,2005,0,male
+Western Asia,40.0,33.0,Middle Africa,17.0,1.0,2005,1256,male
+Eastern Europe,30.0,50.0,Middle Africa,17.0,1.0,2005,490,male
+Northern Europe,15.0,60.0,Middle Africa,17.0,1.0,2005,161,male
+Southern Europe,15.0,41.0,Middle Africa,17.0,1.0,2005,4722,male
+Western Europe,2.0,48.0,Middle Africa,17.0,1.0,2005,17733,male
+Caribbean,-75.0,18.0,Middle Africa,17.0,1.0,2005,71,male
+Central America,-86.0,15.0,Middle Africa,17.0,1.0,2005,0,male
+South America,-60.0,-10.0,Middle Africa,17.0,1.0,2005,0,male
+NORTHERN AMERICA,-100.0,45.0,Middle Africa,17.0,1.0,2005,1478,male
+OCEANIA,140.0,-25.0,Middle Africa,17.0,1.0,2005,6,male
+Eastern Africa,39.0,-6.5,Northern Africa,18.0,28.0,2005,256008,male
+Middle Africa,17.0,1.0,Northern Africa,18.0,28.0,2005,61508,male
+Northern Africa,18.0,28.0,Northern Africa,18.0,28.0,2005,147319,male
+Southern Africa,24.0,-29.0,Northern Africa,18.0,28.0,2005,573,male
+Western Africa,-2.0,16.0,Northern Africa,18.0,28.0,2005,24540,male
+Central Asia,63.0,48.0,Northern Africa,18.0,28.0,2005,1712,male
+Eastern Asia,116.0,39.0,Northern Africa,18.0,28.0,2005,4942,male
+South-Eastern Asia,108.0,4.0,Northern Africa,18.0,28.0,2005,24542,male
+Southern Asia,78.0,23.0,Northern Africa,18.0,28.0,2005,8964,male
+Western Asia,40.0,33.0,Northern Africa,18.0,28.0,2005,403264,male
+Eastern Europe,30.0,50.0,Northern Africa,18.0,28.0,2005,8676,male
+Northern Europe,15.0,60.0,Northern Africa,18.0,28.0,2005,7941,male
+Southern Europe,15.0,41.0,Northern Africa,18.0,28.0,2005,11436,male
+Western Europe,2.0,48.0,Northern Africa,18.0,28.0,2005,26976,male
+Caribbean,-75.0,18.0,Northern Africa,18.0,28.0,2005,10,male
+Central America,-86.0,15.0,Northern Africa,18.0,28.0,2005,481,male
+South America,-60.0,-10.0,Northern Africa,18.0,28.0,2005,376,male
+NORTHERN AMERICA,-100.0,45.0,Northern Africa,18.0,28.0,2005,11378,male
+OCEANIA,140.0,-25.0,Northern Africa,18.0,28.0,2005,709,male
+Eastern Africa,39.0,-6.5,Southern Africa,24.0,-29.0,2005,435698,male
+Middle Africa,17.0,1.0,Southern Africa,24.0,-29.0,2005,53548,male
+Northern Africa,18.0,28.0,Southern Africa,24.0,-29.0,2005,3395,male
+Southern Africa,24.0,-29.0,Southern Africa,24.0,-29.0,2005,167144,male
+Western Africa,-2.0,16.0,Southern Africa,24.0,-29.0,2005,13585,male
+Central Asia,63.0,48.0,Southern Africa,24.0,-29.0,2005,8,male
+Eastern Asia,116.0,39.0,Southern Africa,24.0,-29.0,2005,13351,male
+South-Eastern Asia,108.0,4.0,Southern Africa,24.0,-29.0,2005,1400,male
+Southern Asia,78.0,23.0,Southern Africa,24.0,-29.0,2005,21594,male
+Western Asia,40.0,33.0,Southern Africa,24.0,-29.0,2005,3973,male
+Eastern Europe,30.0,50.0,Southern Africa,24.0,-29.0,2005,7573,male
+Northern Europe,15.0,60.0,Southern Africa,24.0,-29.0,2005,86019,male
+Southern Europe,15.0,41.0,Southern Africa,24.0,-29.0,2005,25960,male
+Western Europe,2.0,48.0,Southern Africa,24.0,-29.0,2005,33631,male
+Caribbean,-75.0,18.0,Southern Africa,24.0,-29.0,2005,1061,male
+Central America,-86.0,15.0,Southern Africa,24.0,-29.0,2005,147,male
+South America,-60.0,-10.0,Southern Africa,24.0,-29.0,2005,2196,male
+NORTHERN AMERICA,-100.0,45.0,Southern Africa,24.0,-29.0,2005,6635,male
+OCEANIA,140.0,-25.0,Southern Africa,24.0,-29.0,2005,3025,male
+Eastern Africa,39.0,-6.5,Western Africa,-2.0,16.0,2005,1005,male
+Middle Africa,17.0,1.0,Western Africa,-2.0,16.0,2005,51738,male
+Northern Africa,18.0,28.0,Western Africa,-2.0,16.0,2005,9588,male
+Southern Africa,24.0,-29.0,Western Africa,-2.0,16.0,2005,92,male
+Western Africa,-2.0,16.0,Western Africa,-2.0,16.0,2005,2874838,male
+Central Asia,63.0,48.0,Western Africa,-2.0,16.0,2005,0,male
+Eastern Asia,116.0,39.0,Western Africa,-2.0,16.0,2005,1283,male
+South-Eastern Asia,108.0,4.0,Western Africa,-2.0,16.0,2005,25,male
+Southern Asia,78.0,23.0,Western Africa,-2.0,16.0,2005,1312,male
+Western Asia,40.0,33.0,Western Africa,-2.0,16.0,2005,4166,male
+Eastern Europe,30.0,50.0,Western Africa,-2.0,16.0,2005,779,male
+Northern Europe,15.0,60.0,Western Africa,-2.0,16.0,2005,1693,male
+Southern Europe,15.0,41.0,Western Africa,-2.0,16.0,2005,2036,male
+Western Europe,2.0,48.0,Western Africa,-2.0,16.0,2005,13825,male
+Caribbean,-75.0,18.0,Western Africa,-2.0,16.0,2005,301,male
+Central America,-86.0,15.0,Western Africa,-2.0,16.0,2005,4,male
+South America,-60.0,-10.0,Western Africa,-2.0,16.0,2005,607,male
+NORTHERN AMERICA,-100.0,45.0,Western Africa,-2.0,16.0,2005,3268,male
+OCEANIA,140.0,-25.0,Western Africa,-2.0,16.0,2005,10,male
+Eastern Africa,39.0,-6.5,Central Asia,63.0,48.0,2005,12,male
+Middle Africa,17.0,1.0,Central Asia,63.0,48.0,2005,0,male
+Northern Africa,18.0,28.0,Central Asia,63.0,48.0,2005,60,male
+Southern Africa,24.0,-29.0,Central Asia,63.0,48.0,2005,0,male
+Western Africa,-2.0,16.0,Central Asia,63.0,48.0,2005,11,male
+Central Asia,63.0,48.0,Central Asia,63.0,48.0,2005,224378,male
+Eastern Asia,116.0,39.0,Central Asia,63.0,48.0,2005,41306,male
+South-Eastern Asia,108.0,4.0,Central Asia,63.0,48.0,2005,109,male
+Southern Asia,78.0,23.0,Central Asia,63.0,48.0,2005,8011,male
+Western Asia,40.0,33.0,Central Asia,63.0,48.0,2005,80013,male
+Eastern Europe,30.0,50.0,Central Asia,63.0,48.0,2005,1897938,male
+Northern Europe,15.0,60.0,Central Asia,63.0,48.0,2005,5833,male
+Southern Europe,15.0,41.0,Central Asia,63.0,48.0,2005,0,male
+Western Europe,2.0,48.0,Central Asia,63.0,48.0,2005,6435,male
+Caribbean,-75.0,18.0,Central Asia,63.0,48.0,2005,11,male
+Central America,-86.0,15.0,Central Asia,63.0,48.0,2005,0,male
+South America,-60.0,-10.0,Central Asia,63.0,48.0,2005,0,male
+NORTHERN AMERICA,-100.0,45.0,Central Asia,63.0,48.0,2005,176,male
+OCEANIA,140.0,-25.0,Central Asia,63.0,48.0,2005,53,male
+Eastern Africa,39.0,-6.5,Eastern Asia,116.0,39.0,2005,0,male
+Middle Africa,17.0,1.0,Eastern Asia,116.0,39.0,2005,0,male
+Northern Africa,18.0,28.0,Eastern Asia,116.0,39.0,2005,685,male
+Southern Africa,24.0,-29.0,Eastern Asia,116.0,39.0,2005,375,male
+Western Africa,-2.0,16.0,Eastern Asia,116.0,39.0,2005,2480,male
+Central Asia,63.0,48.0,Eastern Asia,116.0,39.0,2005,8653,male
+Eastern Asia,116.0,39.0,Eastern Asia,116.0,39.0,2005,1953400,male
+South-Eastern Asia,108.0,4.0,Eastern Asia,116.0,39.0,2005,453270,male
+Southern Asia,78.0,23.0,Eastern Asia,116.0,39.0,2005,71862,male
+Western Asia,40.0,33.0,Eastern Asia,116.0,39.0,2005,85,male
+Eastern Europe,30.0,50.0,Eastern Asia,116.0,39.0,2005,6697,male
+Northern Europe,15.0,60.0,Eastern Asia,116.0,39.0,2005,23524,male
+Southern Europe,15.0,41.0,Eastern Asia,116.0,39.0,2005,3925,male
+Western Europe,2.0,48.0,Eastern Asia,116.0,39.0,2005,13513,male
+Caribbean,-75.0,18.0,Eastern Asia,116.0,39.0,2005,0,male
+Central America,-86.0,15.0,Eastern Asia,116.0,39.0,2005,841,male
+South America,-60.0,-10.0,Eastern Asia,116.0,39.0,2005,148685,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Asia,116.0,39.0,2005,82170,male
+OCEANIA,140.0,-25.0,Eastern Asia,116.0,39.0,2005,15673,male
+Eastern Africa,39.0,-6.5,South-Eastern Asia,108.0,4.0,2005,493,male
+Middle Africa,17.0,1.0,South-Eastern Asia,108.0,4.0,2005,1419,male
+Northern Africa,18.0,28.0,South-Eastern Asia,108.0,4.0,2005,2309,male
+Southern Africa,24.0,-29.0,South-Eastern Asia,108.0,4.0,2005,355,male
+Western Africa,-2.0,16.0,South-Eastern Asia,108.0,4.0,2005,165,male
+Central Asia,63.0,48.0,South-Eastern Asia,108.0,4.0,2005,0,male
+Eastern Asia,116.0,39.0,South-Eastern Asia,108.0,4.0,2005,335613,male
+South-Eastern Asia,108.0,4.0,South-Eastern Asia,108.0,4.0,2005,2365312,male
+Southern Asia,78.0,23.0,South-Eastern Asia,108.0,4.0,2005,437429,male
+Western Asia,40.0,33.0,South-Eastern Asia,108.0,4.0,2005,10901,male
+Eastern Europe,30.0,50.0,South-Eastern Asia,108.0,4.0,2005,242,male
+Northern Europe,15.0,60.0,South-Eastern Asia,108.0,4.0,2005,33505,male
+Southern Europe,15.0,41.0,South-Eastern Asia,108.0,4.0,2005,1611,male
+Western Europe,2.0,48.0,South-Eastern Asia,108.0,4.0,2005,8868,male
+Caribbean,-75.0,18.0,South-Eastern Asia,108.0,4.0,2005,101,male
+Central America,-86.0,15.0,South-Eastern Asia,108.0,4.0,2005,166,male
+South America,-60.0,-10.0,South-Eastern Asia,108.0,4.0,2005,2851,male
+NORTHERN AMERICA,-100.0,45.0,South-Eastern Asia,108.0,4.0,2005,31976,male
+OCEANIA,140.0,-25.0,South-Eastern Asia,108.0,4.0,2005,15888,male
+Eastern Africa,39.0,-6.5,Southern Asia,78.0,23.0,2005,18832,male
+Middle Africa,17.0,1.0,Southern Asia,78.0,23.0,2005,0,male
+Northern Africa,18.0,28.0,Southern Asia,78.0,23.0,2005,70,male
+Southern Africa,24.0,-29.0,Southern Asia,78.0,23.0,2005,51,male
+Western Africa,-2.0,16.0,Southern Asia,78.0,23.0,2005,532,male
+Central Asia,63.0,48.0,Southern Asia,78.0,23.0,2005,18717,male
+Eastern Asia,116.0,39.0,Southern Asia,78.0,23.0,2005,148718,male
+South-Eastern Asia,108.0,4.0,Southern Asia,78.0,23.0,2005,361260,male
+Southern Asia,78.0,23.0,Southern Asia,78.0,23.0,2005,6013880,male
+Western Asia,40.0,33.0,Southern Asia,78.0,23.0,2005,116366,male
+Eastern Europe,30.0,50.0,Southern Asia,78.0,23.0,2005,730,male
+Northern Europe,15.0,60.0,Southern Asia,78.0,23.0,2005,26718,male
+Southern Europe,15.0,41.0,Southern Asia,78.0,23.0,2005,1647,male
+Western Europe,2.0,48.0,Southern Asia,78.0,23.0,2005,2563,male
+Caribbean,-75.0,18.0,Southern Asia,78.0,23.0,2005,8,male
+Central America,-86.0,15.0,Southern Asia,78.0,23.0,2005,0,male
+South America,-60.0,-10.0,Southern Asia,78.0,23.0,2005,6570,male
+NORTHERN AMERICA,-100.0,45.0,Southern Asia,78.0,23.0,2005,36436,male
+OCEANIA,140.0,-25.0,Southern Asia,78.0,23.0,2005,2174,male
+Eastern Africa,39.0,-6.5,Western Asia,40.0,33.0,2005,174038,male
+Middle Africa,17.0,1.0,Western Asia,40.0,33.0,2005,3772,male
+Northern Africa,18.0,28.0,Western Asia,40.0,33.0,2005,1273828,male
+Southern Africa,24.0,-29.0,Western Asia,40.0,33.0,2005,6644,male
+Western Africa,-2.0,16.0,Western Asia,40.0,33.0,2005,6231,male
+Central Asia,63.0,48.0,Western Asia,40.0,33.0,2005,43082,male
+Eastern Asia,116.0,39.0,Western Asia,40.0,33.0,2005,6392,male
+South-Eastern Asia,108.0,4.0,Western Asia,40.0,33.0,2005,1215522,male
+Southern Asia,78.0,23.0,Western Asia,40.0,33.0,2005,5678379,male
+Western Asia,40.0,33.0,Western Asia,40.0,33.0,2005,3212672,male
+Eastern Europe,30.0,50.0,Western Asia,40.0,33.0,2005,517799,male
+Northern Europe,15.0,60.0,Western Asia,40.0,33.0,2005,61305,male
+Southern Europe,15.0,41.0,Western Asia,40.0,33.0,2005,111113,male
+Western Europe,2.0,48.0,Western Asia,40.0,33.0,2005,203956,male
+Caribbean,-75.0,18.0,Western Asia,40.0,33.0,2005,103,male
+Central America,-86.0,15.0,Western Asia,40.0,33.0,2005,1189,male
+South America,-60.0,-10.0,Western Asia,40.0,33.0,2005,26445,male
+NORTHERN AMERICA,-100.0,45.0,Western Asia,40.0,33.0,2005,59399,male
+OCEANIA,140.0,-25.0,Western Asia,40.0,33.0,2005,3890,male
+Eastern Africa,39.0,-6.5,Eastern Europe,30.0,50.0,2005,2557,male
+Middle Africa,17.0,1.0,Eastern Europe,30.0,50.0,2005,1876,male
+Northern Africa,18.0,28.0,Eastern Europe,30.0,50.0,2005,9094,male
+Southern Africa,24.0,-29.0,Eastern Europe,30.0,50.0,2005,840,male
+Western Africa,-2.0,16.0,Eastern Europe,30.0,50.0,2005,3736,male
+Central Asia,63.0,48.0,Eastern Europe,30.0,50.0,2005,2645875,male
+Eastern Asia,116.0,39.0,Eastern Europe,30.0,50.0,2005,69500,male
+South-Eastern Asia,108.0,4.0,Eastern Europe,30.0,50.0,2005,45803,male
+Southern Asia,78.0,23.0,Eastern Europe,30.0,50.0,2005,31553,male
+Western Asia,40.0,33.0,Eastern Europe,30.0,50.0,2005,1227346,male
+Eastern Europe,30.0,50.0,Eastern Europe,30.0,50.0,2005,4671947,male
+Northern Europe,15.0,60.0,Eastern Europe,30.0,50.0,2005,207908,male
+Southern Europe,15.0,41.0,Eastern Europe,30.0,50.0,2005,56506,male
+Western Europe,2.0,48.0,Eastern Europe,30.0,50.0,2005,178054,male
+Caribbean,-75.0,18.0,Eastern Europe,30.0,50.0,2005,2471,male
+Central America,-86.0,15.0,Eastern Europe,30.0,50.0,2005,783,male
+South America,-60.0,-10.0,Eastern Europe,30.0,50.0,2005,3968,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Europe,30.0,50.0,2005,18659,male
+OCEANIA,140.0,-25.0,Eastern Europe,30.0,50.0,2005,2308,male
+Eastern Africa,39.0,-6.5,Northern Europe,15.0,60.0,2005,267262,male
+Middle Africa,17.0,1.0,Northern Europe,15.0,60.0,2005,21925,male
+Northern Africa,18.0,28.0,Northern Europe,15.0,60.0,2005,74520,male
+Southern Africa,24.0,-29.0,Northern Europe,15.0,60.0,2005,85214,male
+Western Africa,-2.0,16.0,Northern Europe,15.0,60.0,2005,142923,male
+Central Asia,63.0,48.0,Northern Europe,15.0,60.0,2005,17394,male
+Eastern Asia,116.0,39.0,Northern Europe,15.0,60.0,2005,167235,male
+South-Eastern Asia,108.0,4.0,Northern Europe,15.0,60.0,2005,141444,male
+Southern Asia,78.0,23.0,Northern Europe,15.0,60.0,2005,792002,male
+Western Asia,40.0,33.0,Northern Europe,15.0,60.0,2005,315837,male
+Eastern Europe,30.0,50.0,Northern Europe,15.0,60.0,2005,683171,male
+Northern Europe,15.0,60.0,Northern Europe,15.0,60.0,2005,731260,male
+Southern Europe,15.0,41.0,Northern Europe,15.0,60.0,2005,277948,male
+Western Europe,2.0,48.0,Northern Europe,15.0,60.0,2005,293840,male
+Caribbean,-75.0,18.0,Northern Europe,15.0,60.0,2005,108217,male
+Central America,-86.0,15.0,Northern Europe,15.0,60.0,2005,9493,male
+South America,-60.0,-10.0,Northern Europe,15.0,60.0,2005,89681,male
+NORTHERN AMERICA,-100.0,45.0,Northern Europe,15.0,60.0,2005,158021,male
+OCEANIA,140.0,-25.0,Northern Europe,15.0,60.0,2005,89368,male
+Eastern Africa,39.0,-6.5,Southern Europe,15.0,41.0,2005,65489,male
+Middle Africa,17.0,1.0,Southern Europe,15.0,41.0,2005,111858,male
+Northern Africa,18.0,28.0,Southern Europe,15.0,41.0,2005,739508,male
+Southern Africa,24.0,-29.0,Southern Europe,15.0,41.0,2005,11006,male
+Western Africa,-2.0,16.0,Southern Europe,15.0,41.0,2005,256850,male
+Central Asia,63.0,48.0,Southern Europe,15.0,41.0,2005,17056,male
+Eastern Asia,116.0,39.0,Southern Europe,15.0,41.0,2005,126292,male
+South-Eastern Asia,108.0,4.0,Southern Europe,15.0,41.0,2005,61667,male
+Southern Asia,78.0,23.0,Southern Europe,15.0,41.0,2005,272583,male
+Western Asia,40.0,33.0,Southern Europe,15.0,41.0,2005,139162,male
+Eastern Europe,30.0,50.0,Southern Europe,15.0,41.0,2005,752784,male
+Northern Europe,15.0,60.0,Southern Europe,15.0,41.0,2005,194536,male
+Southern Europe,15.0,41.0,Southern Europe,15.0,41.0,2005,1410466,male
+Western Europe,2.0,48.0,Southern Europe,15.0,41.0,2005,576017,male
+Caribbean,-75.0,18.0,Southern Europe,15.0,41.0,2005,72005,male
+Central America,-86.0,15.0,Southern Europe,15.0,41.0,2005,31917,male
+South America,-60.0,-10.0,Southern Europe,15.0,41.0,2005,869805,male
+NORTHERN AMERICA,-100.0,45.0,Southern Europe,15.0,41.0,2005,70474,male
+OCEANIA,140.0,-25.0,Southern Europe,15.0,41.0,2005,21753,male
+Eastern Africa,39.0,-6.5,Western Europe,2.0,48.0,2005,152801,male
+Middle Africa,17.0,1.0,Western Europe,2.0,48.0,2005,177903,male
+Northern Africa,18.0,28.0,Western Europe,2.0,48.0,2005,1668316,male
+Southern Africa,24.0,-29.0,Western Europe,2.0,48.0,2005,18296,male
+Western Africa,-2.0,16.0,Western Europe,2.0,48.0,2005,290753,male
+Central Asia,63.0,48.0,Western Europe,2.0,48.0,2005,366826,male
+Eastern Asia,116.0,39.0,Western Europe,2.0,48.0,2005,152104,male
+South-Eastern Asia,108.0,4.0,Western Europe,2.0,48.0,2005,299766,male
+Southern Asia,78.0,23.0,Western Europe,2.0,48.0,2005,373528,male
+Western Asia,40.0,33.0,Western Europe,2.0,48.0,2005,1347972,male
+Eastern Europe,30.0,50.0,Western Europe,2.0,48.0,2005,1782538,male
+Northern Europe,15.0,60.0,Western Europe,2.0,48.0,2005,289345,male
+Southern Europe,15.0,41.0,Western Europe,2.0,48.0,2005,2286515,male
+Western Europe,2.0,48.0,Western Europe,2.0,48.0,2005,1082323,male
+Caribbean,-75.0,18.0,Western Europe,2.0,48.0,2005,57842,male
+Central America,-86.0,15.0,Western Europe,2.0,48.0,2005,20458,male
+South America,-60.0,-10.0,Western Europe,2.0,48.0,2005,244752,male
+NORTHERN AMERICA,-100.0,45.0,Western Europe,2.0,48.0,2005,150873,male
+OCEANIA,140.0,-25.0,Western Europe,2.0,48.0,2005,22147,male
+Eastern Africa,39.0,-6.5,Caribbean,-75.0,18.0,2005,318,male
+Middle Africa,17.0,1.0,Caribbean,-75.0,18.0,2005,95,male
+Northern Africa,18.0,28.0,Caribbean,-75.0,18.0,2005,183,male
+Southern Africa,24.0,-29.0,Caribbean,-75.0,18.0,2005,190,male
+Western Africa,-2.0,16.0,Caribbean,-75.0,18.0,2005,470,male
+Central Asia,63.0,48.0,Caribbean,-75.0,18.0,2005,4,male
+Eastern Asia,116.0,39.0,Caribbean,-75.0,18.0,2005,4737,male
+South-Eastern Asia,108.0,4.0,Caribbean,-75.0,18.0,2005,1715,male
+Southern Asia,78.0,23.0,Caribbean,-75.0,18.0,2005,3033,male
+Western Asia,40.0,33.0,Caribbean,-75.0,18.0,2005,1391,male
+Eastern Europe,30.0,50.0,Caribbean,-75.0,18.0,2005,1284,male
+Northern Europe,15.0,60.0,Caribbean,-75.0,18.0,2005,10363,male
+Southern Europe,15.0,41.0,Caribbean,-75.0,18.0,2005,15105,male
+Western Europe,2.0,48.0,Caribbean,-75.0,18.0,2005,56604,male
+Caribbean,-75.0,18.0,Caribbean,-75.0,18.0,2005,325697,male
+Central America,-86.0,15.0,Caribbean,-75.0,18.0,2005,8170,male
+South America,-60.0,-10.0,Caribbean,-75.0,18.0,2005,40047,male
+NORTHERN AMERICA,-100.0,45.0,Caribbean,-75.0,18.0,2005,143977,male
+OCEANIA,140.0,-25.0,Caribbean,-75.0,18.0,2005,229,male
+Eastern Africa,39.0,-6.5,Central America,-86.0,15.0,2005,88,male
+Middle Africa,17.0,1.0,Central America,-86.0,15.0,2005,104,male
+Northern Africa,18.0,28.0,Central America,-86.0,15.0,2005,459,male
+Southern Africa,24.0,-29.0,Central America,-86.0,15.0,2005,102,male
+Western Africa,-2.0,16.0,Central America,-86.0,15.0,2005,219,male
+Central Asia,63.0,48.0,Central America,-86.0,15.0,2005,0,male
+Eastern Asia,116.0,39.0,Central America,-86.0,15.0,2005,16761,male
+South-Eastern Asia,108.0,4.0,Central America,-86.0,15.0,2005,1483,male
+Southern Asia,78.0,23.0,Central America,-86.0,15.0,2005,2738,male
+Western Asia,40.0,33.0,Central America,-86.0,15.0,2005,3486,male
+Eastern Europe,30.0,50.0,Central America,-86.0,15.0,2005,2761,male
+Northern Europe,15.0,60.0,Central America,-86.0,15.0,2005,4215,male
+Southern Europe,15.0,41.0,Central America,-86.0,15.0,2005,20010,male
+Western Europe,2.0,48.0,Central America,-86.0,15.0,2005,12980,male
+Caribbean,-75.0,18.0,Central America,-86.0,15.0,2005,13897,male
+Central America,-86.0,15.0,Central America,-86.0,15.0,2005,242521,male
+South America,-60.0,-10.0,Central America,-86.0,15.0,2005,54475,male
+NORTHERN AMERICA,-100.0,45.0,Central America,-86.0,15.0,2005,288551,male
+OCEANIA,140.0,-25.0,Central America,-86.0,15.0,2005,410,male
+Eastern Africa,39.0,-6.5,South America,-60.0,-10.0,2005,1019,male
+Middle Africa,17.0,1.0,South America,-60.0,-10.0,2005,3766,male
+Northern Africa,18.0,28.0,South America,-60.0,-10.0,2005,3228,male
+Southern Africa,24.0,-29.0,South America,-60.0,-10.0,2005,241,male
+Western Africa,-2.0,16.0,South America,-60.0,-10.0,2005,1067,male
+Central Asia,63.0,48.0,South America,-60.0,-10.0,2005,8,male
+Eastern Asia,116.0,39.0,South America,-60.0,-10.0,2005,75670,male
+South-Eastern Asia,108.0,4.0,South America,-60.0,-10.0,2005,1900,male
+Southern Asia,78.0,23.0,South America,-60.0,-10.0,2005,1730,male
+Western Asia,40.0,33.0,South America,-60.0,-10.0,2005,31032,male
+Eastern Europe,30.0,50.0,South America,-60.0,-10.0,2005,23073,male
+Northern Europe,15.0,60.0,South America,-60.0,-10.0,2005,11298,male
+Southern Europe,15.0,41.0,South America,-60.0,-10.0,2005,412645,male
+Western Europe,2.0,48.0,South America,-60.0,-10.0,2005,69142,male
+Caribbean,-75.0,18.0,South America,-60.0,-10.0,2005,34534,male
+Central America,-86.0,15.0,South America,-60.0,-10.0,2005,20924,male
+South America,-60.0,-10.0,South America,-60.0,-10.0,2005,1384421,male
+NORTHERN AMERICA,-100.0,45.0,South America,-60.0,-10.0,2005,53950,male
+OCEANIA,140.0,-25.0,South America,-60.0,-10.0,2005,1322,male
+Eastern Africa,39.0,-6.5,NORTHERN AMERICA,-100.0,45.0,2005,245299,male
+Middle Africa,17.0,1.0,NORTHERN AMERICA,-100.0,45.0,2005,33429,male
+Northern Africa,18.0,28.0,NORTHERN AMERICA,-100.0,45.0,2005,196414,male
+Southern Africa,24.0,-29.0,NORTHERN AMERICA,-100.0,45.0,2005,55410,male
+Western Africa,-2.0,16.0,NORTHERN AMERICA,-100.0,45.0,2005,257419,male
+Central Asia,63.0,48.0,NORTHERN AMERICA,-100.0,45.0,2005,28292,male
+Eastern Asia,116.0,39.0,NORTHERN AMERICA,-100.0,45.0,2005,1982190,male
+South-Eastern Asia,108.0,4.0,NORTHERN AMERICA,-100.0,45.0,2005,1830551,male
+Southern Asia,78.0,23.0,NORTHERN AMERICA,-100.0,45.0,2005,1585890,male
+Western Asia,40.0,33.0,NORTHERN AMERICA,-100.0,45.0,2005,528017,male
+Eastern Europe,30.0,50.0,NORTHERN AMERICA,-100.0,45.0,2005,982634,male
+Northern Europe,15.0,60.0,NORTHERN AMERICA,-100.0,45.0,2005,809761,male
+Southern Europe,15.0,41.0,NORTHERN AMERICA,-100.0,45.0,2005,839511,male
+Western Europe,2.0,48.0,NORTHERN AMERICA,-100.0,45.0,2005,726690,male
+Caribbean,-75.0,18.0,NORTHERN AMERICA,-100.0,45.0,2005,2358910,male
+Central America,-86.0,15.0,NORTHERN AMERICA,-100.0,45.0,2005,7080165,male
+South America,-60.0,-10.0,NORTHERN AMERICA,-100.0,45.0,2005,1178532,male
+NORTHERN AMERICA,-100.0,45.0,NORTHERN AMERICA,-100.0,45.0,2005,420944,male
+OCEANIA,140.0,-25.0,NORTHERN AMERICA,-100.0,45.0,2005,101485,male
+Eastern Africa,39.0,-6.5,OCEANIA,140.0,-25.0,2005,46707,male
+Middle Africa,17.0,1.0,OCEANIA,140.0,-25.0,2005,935,male
+Northern Africa,18.0,28.0,OCEANIA,140.0,-25.0,2005,35593,male
+Southern Africa,24.0,-29.0,OCEANIA,140.0,-25.0,2005,77230,male
+Western Africa,-2.0,16.0,OCEANIA,140.0,-25.0,2005,5443,male
+Central Asia,63.0,48.0,OCEANIA,140.0,-25.0,2005,766,male
+Eastern Asia,116.0,39.0,OCEANIA,140.0,-25.0,2005,247709,male
+South-Eastern Asia,108.0,4.0,OCEANIA,140.0,-25.0,2005,330086,male
+Southern Asia,78.0,23.0,OCEANIA,140.0,-25.0,2005,196400,male
+Western Asia,40.0,33.0,OCEANIA,140.0,-25.0,2005,118806,male
+Eastern Europe,30.0,50.0,OCEANIA,140.0,-25.0,2005,82416,male
+Northern Europe,15.0,60.0,OCEANIA,140.0,-25.0,2005,735159,male
+Southern Europe,15.0,41.0,OCEANIA,140.0,-25.0,2005,335060,male
+Western Europe,2.0,48.0,OCEANIA,140.0,-25.0,2005,188053,male
+Caribbean,-75.0,18.0,OCEANIA,140.0,-25.0,2005,4093,male
+Central America,-86.0,15.0,OCEANIA,140.0,-25.0,2005,7084,male
+South America,-60.0,-10.0,OCEANIA,140.0,-25.0,2005,38248,male
+NORTHERN AMERICA,-100.0,45.0,OCEANIA,140.0,-25.0,2005,81359,male
+OCEANIA,140.0,-25.0,OCEANIA,140.0,-25.0,2005,400269,male
+Eastern Africa,39.0,-6.5,Eastern Africa,39.0,-6.5,2010,1559533,male
+Middle Africa,17.0,1.0,Eastern Africa,39.0,-6.5,2010,394725,male
+Northern Africa,18.0,28.0,Eastern Africa,39.0,-6.5,2010,106667,male
+Southern Africa,24.0,-29.0,Eastern Africa,39.0,-6.5,2010,32658,male
+Western Africa,-2.0,16.0,Eastern Africa,39.0,-6.5,2010,8186,male
+Central Asia,63.0,48.0,Eastern Africa,39.0,-6.5,2010,0,male
+Eastern Asia,116.0,39.0,Eastern Africa,39.0,-6.5,2010,3701,male
+South-Eastern Asia,108.0,4.0,Eastern Africa,39.0,-6.5,2010,674,male
+Southern Asia,78.0,23.0,Eastern Africa,39.0,-6.5,2010,28860,male
+Western Asia,40.0,33.0,Eastern Africa,39.0,-6.5,2010,178,male
+Eastern Europe,30.0,50.0,Eastern Africa,39.0,-6.5,2010,162,male
+Northern Europe,15.0,60.0,Eastern Africa,39.0,-6.5,2010,10035,male
+Southern Europe,15.0,41.0,Eastern Africa,39.0,-6.5,2010,3514,male
+Western Europe,2.0,48.0,Eastern Africa,39.0,-6.5,2010,56855,male
+Caribbean,-75.0,18.0,Eastern Africa,39.0,-6.5,2010,31,male
+Central America,-86.0,15.0,Eastern Africa,39.0,-6.5,2010,0,male
+South America,-60.0,-10.0,Eastern Africa,39.0,-6.5,2010,0,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Africa,39.0,-6.5,2010,2071,male
+OCEANIA,140.0,-25.0,Eastern Africa,39.0,-6.5,2010,159,male
+Eastern Africa,39.0,-6.5,Middle Africa,17.0,1.0,2010,89982,male
+Middle Africa,17.0,1.0,Middle Africa,17.0,1.0,2010,524382,male
+Northern Africa,18.0,28.0,Middle Africa,17.0,1.0,2010,145681,male
+Southern Africa,24.0,-29.0,Middle Africa,17.0,1.0,2010,2825,male
+Western Africa,-2.0,16.0,Middle Africa,17.0,1.0,2010,195267,male
+Central Asia,63.0,48.0,Middle Africa,17.0,1.0,2010,0,male
+Eastern Asia,116.0,39.0,Middle Africa,17.0,1.0,2010,962,male
+South-Eastern Asia,108.0,4.0,Middle Africa,17.0,1.0,2010,0,male
+Southern Asia,78.0,23.0,Middle Africa,17.0,1.0,2010,0,male
+Western Asia,40.0,33.0,Middle Africa,17.0,1.0,2010,1734,male
+Eastern Europe,30.0,50.0,Middle Africa,17.0,1.0,2010,902,male
+Northern Europe,15.0,60.0,Middle Africa,17.0,1.0,2010,135,male
+Southern Europe,15.0,41.0,Middle Africa,17.0,1.0,2010,4929,male
+Western Europe,2.0,48.0,Middle Africa,17.0,1.0,2010,21063,male
+Caribbean,-75.0,18.0,Middle Africa,17.0,1.0,2010,137,male
+Central America,-86.0,15.0,Middle Africa,17.0,1.0,2010,0,male
+South America,-60.0,-10.0,Middle Africa,17.0,1.0,2010,0,male
+NORTHERN AMERICA,-100.0,45.0,Middle Africa,17.0,1.0,2010,1467,male
+OCEANIA,140.0,-25.0,Middle Africa,17.0,1.0,2010,6,male
+Eastern Africa,39.0,-6.5,Northern Africa,18.0,28.0,2010,313497,male
+Middle Africa,17.0,1.0,Northern Africa,18.0,28.0,2010,65712,male
+Northern Africa,18.0,28.0,Northern Africa,18.0,28.0,2010,163095,male
+Southern Africa,24.0,-29.0,Northern Africa,18.0,28.0,2010,615,male
+Western Africa,-2.0,16.0,Northern Africa,18.0,28.0,2010,20774,male
+Central Asia,63.0,48.0,Northern Africa,18.0,28.0,2010,1873,male
+Eastern Asia,116.0,39.0,Northern Africa,18.0,28.0,2010,4934,male
+South-Eastern Asia,108.0,4.0,Northern Africa,18.0,28.0,2010,26763,male
+Southern Asia,78.0,23.0,Northern Africa,18.0,28.0,2010,9156,male
+Western Asia,40.0,33.0,Northern Africa,18.0,28.0,2010,432483,male
+Eastern Europe,30.0,50.0,Northern Africa,18.0,28.0,2010,9277,male
+Northern Europe,15.0,60.0,Northern Africa,18.0,28.0,2010,8608,male
+Southern Europe,15.0,41.0,Northern Africa,18.0,28.0,2010,12367,male
+Western Europe,2.0,48.0,Northern Africa,18.0,28.0,2010,35068,male
+Caribbean,-75.0,18.0,Northern Africa,18.0,28.0,2010,10,male
+Central America,-86.0,15.0,Northern Africa,18.0,28.0,2010,525,male
+South America,-60.0,-10.0,Northern Africa,18.0,28.0,2010,401,male
+NORTHERN AMERICA,-100.0,45.0,Northern Africa,18.0,28.0,2010,12407,male
+OCEANIA,140.0,-25.0,Northern Africa,18.0,28.0,2010,764,male
+Eastern Africa,39.0,-6.5,Southern Africa,24.0,-29.0,2010,683639,male
+Middle Africa,17.0,1.0,Southern Africa,24.0,-29.0,2010,70379,male
+Northern Africa,18.0,28.0,Southern Africa,24.0,-29.0,2010,4591,male
+Southern Africa,24.0,-29.0,Southern Africa,24.0,-29.0,2010,241841,male
+Western Africa,-2.0,16.0,Southern Africa,24.0,-29.0,2010,25265,male
+Central Asia,63.0,48.0,Southern Africa,24.0,-29.0,2010,11,male
+Eastern Asia,116.0,39.0,Southern Africa,24.0,-29.0,2010,13065,male
+South-Eastern Asia,108.0,4.0,Southern Africa,24.0,-29.0,2010,1849,male
+Southern Asia,78.0,23.0,Southern Africa,24.0,-29.0,2010,40577,male
+Western Asia,40.0,33.0,Southern Africa,24.0,-29.0,2010,5556,male
+Eastern Europe,30.0,50.0,Southern Africa,24.0,-29.0,2010,10315,male
+Northern Europe,15.0,60.0,Southern Africa,24.0,-29.0,2010,64449,male
+Southern Europe,15.0,41.0,Southern Africa,24.0,-29.0,2010,26746,male
+Western Europe,2.0,48.0,Southern Africa,24.0,-29.0,2010,30815,male
+Caribbean,-75.0,18.0,Southern Africa,24.0,-29.0,2010,1274,male
+Central America,-86.0,15.0,Southern Africa,24.0,-29.0,2010,206,male
+South America,-60.0,-10.0,Southern Africa,24.0,-29.0,2010,2941,male
+NORTHERN AMERICA,-100.0,45.0,Southern Africa,24.0,-29.0,2010,7046,male
+OCEANIA,140.0,-25.0,Southern Africa,24.0,-29.0,2010,4414,male
+Eastern Africa,39.0,-6.5,Western Africa,-2.0,16.0,2010,1363,male
+Middle Africa,17.0,1.0,Western Africa,-2.0,16.0,2010,45738,male
+Northern Africa,18.0,28.0,Western Africa,-2.0,16.0,2010,24092,male
+Southern Africa,24.0,-29.0,Western Africa,-2.0,16.0,2010,385,male
+Western Africa,-2.0,16.0,Western Africa,-2.0,16.0,2010,3025951,male
+Central Asia,63.0,48.0,Western Africa,-2.0,16.0,2010,856,male
+Eastern Asia,116.0,39.0,Western Africa,-2.0,16.0,2010,3646,male
+South-Eastern Asia,108.0,4.0,Western Africa,-2.0,16.0,2010,521,male
+Southern Asia,78.0,23.0,Western Africa,-2.0,16.0,2010,1873,male
+Western Asia,40.0,33.0,Western Africa,-2.0,16.0,2010,5783,male
+Eastern Europe,30.0,50.0,Western Africa,-2.0,16.0,2010,716,male
+Northern Europe,15.0,60.0,Western Africa,-2.0,16.0,2010,1010,male
+Southern Europe,15.0,41.0,Western Africa,-2.0,16.0,2010,3572,male
+Western Europe,2.0,48.0,Western Africa,-2.0,16.0,2010,11595,male
+Caribbean,-75.0,18.0,Western Africa,-2.0,16.0,2010,2253,male
+Central America,-86.0,15.0,Western Africa,-2.0,16.0,2010,3,male
+South America,-60.0,-10.0,Western Africa,-2.0,16.0,2010,1479,male
+NORTHERN AMERICA,-100.0,45.0,Western Africa,-2.0,16.0,2010,2728,male
+OCEANIA,140.0,-25.0,Western Africa,-2.0,16.0,2010,301,male
+Eastern Africa,39.0,-6.5,Central Asia,63.0,48.0,2010,12,male
+Middle Africa,17.0,1.0,Central Asia,63.0,48.0,2010,0,male
+Northern Africa,18.0,28.0,Central Asia,63.0,48.0,2010,60,male
+Southern Africa,24.0,-29.0,Central Asia,63.0,48.0,2010,0,male
+Western Africa,-2.0,16.0,Central Asia,63.0,48.0,2010,11,male
+Central Asia,63.0,48.0,Central Asia,63.0,48.0,2010,229830,male
+Eastern Asia,116.0,39.0,Central Asia,63.0,48.0,2010,47216,male
+South-Eastern Asia,108.0,4.0,Central Asia,63.0,48.0,2010,90,male
+Southern Asia,78.0,23.0,Central Asia,63.0,48.0,2010,7776,male
+Western Asia,40.0,33.0,Central Asia,63.0,48.0,2010,83915,male
+Eastern Europe,30.0,50.0,Central Asia,63.0,48.0,2010,1945920,male
+Northern Europe,15.0,60.0,Central Asia,63.0,48.0,2010,5596,male
+Southern Europe,15.0,41.0,Central Asia,63.0,48.0,2010,0,male
+Western Europe,2.0,48.0,Central Asia,63.0,48.0,2010,5588,male
+Caribbean,-75.0,18.0,Central Asia,63.0,48.0,2010,11,male
+Central America,-86.0,15.0,Central Asia,63.0,48.0,2010,0,male
+South America,-60.0,-10.0,Central Asia,63.0,48.0,2010,0,male
+NORTHERN AMERICA,-100.0,45.0,Central Asia,63.0,48.0,2010,176,male
+OCEANIA,140.0,-25.0,Central Asia,63.0,48.0,2010,53,male
+Eastern Africa,39.0,-6.5,Eastern Asia,116.0,39.0,2010,0,male
+Middle Africa,17.0,1.0,Eastern Asia,116.0,39.0,2010,0,male
+Northern Africa,18.0,28.0,Eastern Asia,116.0,39.0,2010,717,male
+Southern Africa,24.0,-29.0,Eastern Asia,116.0,39.0,2010,671,male
+Western Africa,-2.0,16.0,Eastern Asia,116.0,39.0,2010,2990,male
+Central Asia,63.0,48.0,Eastern Asia,116.0,39.0,2010,23868,male
+Eastern Asia,116.0,39.0,Eastern Asia,116.0,39.0,2010,2202414,male
+South-Eastern Asia,108.0,4.0,Eastern Asia,116.0,39.0,2010,535791,male
+Southern Asia,78.0,23.0,Eastern Asia,116.0,39.0,2010,92353,male
+Western Asia,40.0,33.0,Eastern Asia,116.0,39.0,2010,104,male
+Eastern Europe,30.0,50.0,Eastern Asia,116.0,39.0,2010,7336,male
+Northern Europe,15.0,60.0,Eastern Asia,116.0,39.0,2010,26704,male
+Southern Europe,15.0,41.0,Eastern Asia,116.0,39.0,2010,4012,male
+Western Europe,2.0,48.0,Eastern Asia,116.0,39.0,2010,14789,male
+Caribbean,-75.0,18.0,Eastern Asia,116.0,39.0,2010,0,male
+Central America,-86.0,15.0,Eastern Asia,116.0,39.0,2010,880,male
+South America,-60.0,-10.0,Eastern Asia,116.0,39.0,2010,162954,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Asia,116.0,39.0,2010,94181,male
+OCEANIA,140.0,-25.0,Eastern Asia,116.0,39.0,2010,19085,male
+Eastern Africa,39.0,-6.5,South-Eastern Asia,108.0,4.0,2010,665,male
+Middle Africa,17.0,1.0,South-Eastern Asia,108.0,4.0,2010,579,male
+Northern Africa,18.0,28.0,South-Eastern Asia,108.0,4.0,2010,1840,male
+Southern Africa,24.0,-29.0,South-Eastern Asia,108.0,4.0,2010,396,male
+Western Africa,-2.0,16.0,South-Eastern Asia,108.0,4.0,2010,274,male
+Central Asia,63.0,48.0,South-Eastern Asia,108.0,4.0,2010,0,male
+Eastern Asia,116.0,39.0,South-Eastern Asia,108.0,4.0,2010,376782,male
+South-Eastern Asia,108.0,4.0,South-Eastern Asia,108.0,4.0,2010,3072087,male
+Southern Asia,78.0,23.0,South-Eastern Asia,108.0,4.0,2010,684086,male
+Western Asia,40.0,33.0,South-Eastern Asia,108.0,4.0,2010,11268,male
+Eastern Europe,30.0,50.0,South-Eastern Asia,108.0,4.0,2010,308,male
+Northern Europe,15.0,60.0,South-Eastern Asia,108.0,4.0,2010,28275,male
+Southern Europe,15.0,41.0,South-Eastern Asia,108.0,4.0,2010,2371,male
+Western Europe,2.0,48.0,South-Eastern Asia,108.0,4.0,2010,12475,male
+Caribbean,-75.0,18.0,South-Eastern Asia,108.0,4.0,2010,108,male
+Central America,-86.0,15.0,South-Eastern Asia,108.0,4.0,2010,137,male
+South America,-60.0,-10.0,South-Eastern Asia,108.0,4.0,2010,720,male
+NORTHERN AMERICA,-100.0,45.0,South-Eastern Asia,108.0,4.0,2010,43311,male
+OCEANIA,140.0,-25.0,South-Eastern Asia,108.0,4.0,2010,21010,male
+Eastern Africa,39.0,-6.5,Southern Asia,78.0,23.0,2010,23040,male
+Middle Africa,17.0,1.0,Southern Asia,78.0,23.0,2010,0,male
+Northern Africa,18.0,28.0,Southern Asia,78.0,23.0,2010,136,male
+Southern Africa,24.0,-29.0,Southern Asia,78.0,23.0,2010,106,male
+Western Africa,-2.0,16.0,Southern Asia,78.0,23.0,2010,619,male
+Central Asia,63.0,48.0,Southern Asia,78.0,23.0,2010,16170,male
+Eastern Asia,116.0,39.0,Southern Asia,78.0,23.0,2010,155707,male
+South-Eastern Asia,108.0,4.0,Southern Asia,78.0,23.0,2010,440961,male
+Southern Asia,78.0,23.0,Southern Asia,78.0,23.0,2010,6202447,male
+Western Asia,40.0,33.0,Southern Asia,78.0,23.0,2010,116716,male
+Eastern Europe,30.0,50.0,Southern Asia,78.0,23.0,2010,701,male
+Northern Europe,15.0,60.0,Southern Asia,78.0,23.0,2010,31437,male
+Southern Europe,15.0,41.0,Southern Asia,78.0,23.0,2010,3054,male
+Western Europe,2.0,48.0,Southern Asia,78.0,23.0,2010,3269,male
+Caribbean,-75.0,18.0,Southern Asia,78.0,23.0,2010,17,male
+Central America,-86.0,15.0,Southern Asia,78.0,23.0,2010,0,male
+South America,-60.0,-10.0,Southern Asia,78.0,23.0,2010,7605,male
+NORTHERN AMERICA,-100.0,45.0,Southern Asia,78.0,23.0,2010,45891,male
+OCEANIA,140.0,-25.0,Southern Asia,78.0,23.0,2010,2961,male
+Eastern Africa,39.0,-6.5,Western Asia,40.0,33.0,2010,275156,male
+Middle Africa,17.0,1.0,Western Asia,40.0,33.0,2010,5121,male
+Northern Africa,18.0,28.0,Western Asia,40.0,33.0,2010,1912219,male
+Southern Africa,24.0,-29.0,Western Asia,40.0,33.0,2010,7802,male
+Western Africa,-2.0,16.0,Western Asia,40.0,33.0,2010,13879,male
+Central Asia,63.0,48.0,Western Asia,40.0,33.0,2010,41628,male
+Eastern Asia,116.0,39.0,Western Asia,40.0,33.0,2010,9139,male
+South-Eastern Asia,108.0,4.0,Western Asia,40.0,33.0,2010,1857485,male
+Southern Asia,78.0,23.0,Western Asia,40.0,33.0,2010,9657848,male
+Western Asia,40.0,33.0,Western Asia,40.0,33.0,2010,4274781,male
+Eastern Europe,30.0,50.0,Western Asia,40.0,33.0,2010,485364,male
+Northern Europe,15.0,60.0,Western Asia,40.0,33.0,2010,78258,male
+Southern Europe,15.0,41.0,Western Asia,40.0,33.0,2010,117469,male
+Western Europe,2.0,48.0,Western Asia,40.0,33.0,2010,218067,male
+Caribbean,-75.0,18.0,Western Asia,40.0,33.0,2010,116,male
+Central America,-86.0,15.0,Western Asia,40.0,33.0,2010,1370,male
+South America,-60.0,-10.0,Western Asia,40.0,33.0,2010,29137,male
+NORTHERN AMERICA,-100.0,45.0,Western Asia,40.0,33.0,2010,72866,male
+OCEANIA,140.0,-25.0,Western Asia,40.0,33.0,2010,4771,male
+Eastern Africa,39.0,-6.5,Eastern Europe,30.0,50.0,2010,2767,male
+Middle Africa,17.0,1.0,Eastern Europe,30.0,50.0,2010,2189,male
+Northern Africa,18.0,28.0,Eastern Europe,30.0,50.0,2010,10278,male
+Southern Africa,24.0,-29.0,Eastern Europe,30.0,50.0,2010,981,male
+Western Africa,-2.0,16.0,Eastern Europe,30.0,50.0,2010,4311,male
+Central Asia,63.0,48.0,Eastern Europe,30.0,50.0,2010,2701426,male
+Eastern Asia,116.0,39.0,Eastern Europe,30.0,50.0,2010,72737,male
+South-Eastern Asia,108.0,4.0,Eastern Europe,30.0,50.0,2010,55711,male
+Southern Asia,78.0,23.0,Eastern Europe,30.0,50.0,2010,28146,male
+Western Asia,40.0,33.0,Eastern Europe,30.0,50.0,2010,1137125,male
+Eastern Europe,30.0,50.0,Eastern Europe,30.0,50.0,2010,4366704,male
+Northern Europe,15.0,60.0,Eastern Europe,30.0,50.0,2010,200533,male
+Southern Europe,15.0,41.0,Eastern Europe,30.0,50.0,2010,72767,male
+Western Europe,2.0,48.0,Eastern Europe,30.0,50.0,2010,179164,male
+Caribbean,-75.0,18.0,Eastern Europe,30.0,50.0,2010,2539,male
+Central America,-86.0,15.0,Eastern Europe,30.0,50.0,2010,971,male
+South America,-60.0,-10.0,Eastern Europe,30.0,50.0,2010,3921,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Europe,30.0,50.0,2010,23433,male
+OCEANIA,140.0,-25.0,Eastern Europe,30.0,50.0,2010,2405,male
+Eastern Africa,39.0,-6.5,Northern Europe,15.0,60.0,2010,341274,male
+Middle Africa,17.0,1.0,Northern Europe,15.0,60.0,2010,25709,male
+Northern Africa,18.0,28.0,Northern Europe,15.0,60.0,2010,82422,male
+Southern Africa,24.0,-29.0,Northern Europe,15.0,60.0,2010,122484,male
+Western Africa,-2.0,16.0,Northern Europe,15.0,60.0,2010,176976,male
+Central Asia,63.0,48.0,Northern Europe,15.0,60.0,2010,16842,male
+Eastern Asia,116.0,39.0,Northern Europe,15.0,60.0,2010,185406,male
+South-Eastern Asia,108.0,4.0,Northern Europe,15.0,60.0,2010,176472,male
+Southern Asia,78.0,23.0,Northern Europe,15.0,60.0,2010,986020,male
+Western Asia,40.0,33.0,Northern Europe,15.0,60.0,2010,370229,male
+Eastern Europe,30.0,50.0,Northern Europe,15.0,60.0,2010,906858,male
+Northern Europe,15.0,60.0,Northern Europe,15.0,60.0,2010,793017,male
+Southern Europe,15.0,41.0,Northern Europe,15.0,60.0,2010,314610,male
+Western Europe,2.0,48.0,Northern Europe,15.0,60.0,2010,349086,male
+Caribbean,-75.0,18.0,Northern Europe,15.0,60.0,2010,110478,male
+Central America,-86.0,15.0,Northern Europe,15.0,60.0,2010,10800,male
+South America,-60.0,-10.0,Northern Europe,15.0,60.0,2010,100242,male
+NORTHERN AMERICA,-100.0,45.0,Northern Europe,15.0,60.0,2010,167179,male
+OCEANIA,140.0,-25.0,Northern Europe,15.0,60.0,2010,108257,male
+Eastern Africa,39.0,-6.5,Southern Europe,15.0,41.0,2010,77090,male
+Middle Africa,17.0,1.0,Southern Europe,15.0,41.0,2010,104338,male
+Northern Africa,18.0,28.0,Southern Europe,15.0,41.0,2010,963202,male
+Southern Africa,24.0,-29.0,Southern Europe,15.0,41.0,2010,12275,male
+Western Africa,-2.0,16.0,Southern Europe,15.0,41.0,2010,351074,male
+Central Asia,63.0,48.0,Southern Europe,15.0,41.0,2010,20396,male
+Eastern Asia,116.0,39.0,Southern Europe,15.0,41.0,2010,194922,male
+South-Eastern Asia,108.0,4.0,Southern Europe,15.0,41.0,2010,81335,male
+Southern Asia,78.0,23.0,Southern Europe,15.0,41.0,2010,410722,male
+Western Asia,40.0,33.0,Southern Europe,15.0,41.0,2010,157237,male
+Eastern Europe,30.0,50.0,Southern Europe,15.0,41.0,2010,1352100,male
+Northern Europe,15.0,60.0,Southern Europe,15.0,41.0,2010,273857,male
+Southern Europe,15.0,41.0,Southern Europe,15.0,41.0,2010,1593540,male
+Western Europe,2.0,48.0,Southern Europe,15.0,41.0,2010,745327,male
+Caribbean,-75.0,18.0,Southern Europe,15.0,41.0,2010,122225,male
+Central America,-86.0,15.0,Southern Europe,15.0,41.0,2010,50605,male
+South America,-60.0,-10.0,Southern Europe,15.0,41.0,2010,1230247,male
+NORTHERN AMERICA,-100.0,45.0,Southern Europe,15.0,41.0,2010,84713,male
+OCEANIA,140.0,-25.0,Southern Europe,15.0,41.0,2010,26746,male
+Eastern Africa,39.0,-6.5,Western Europe,2.0,48.0,2010,164753,male
+Middle Africa,17.0,1.0,Western Europe,2.0,48.0,2010,202568,male
+Northern Africa,18.0,28.0,Western Europe,2.0,48.0,2010,1770407,male
+Southern Africa,24.0,-29.0,Western Europe,2.0,48.0,2010,21586,male
+Western Africa,-2.0,16.0,Western Europe,2.0,48.0,2010,328999,male
+Central Asia,63.0,48.0,Western Europe,2.0,48.0,2010,469094,male
+Eastern Asia,116.0,39.0,Western Europe,2.0,48.0,2010,172342,male
+South-Eastern Asia,108.0,4.0,Western Europe,2.0,48.0,2010,304610,male
+Southern Asia,78.0,23.0,Western Europe,2.0,48.0,2010,407283,male
+Western Asia,40.0,33.0,Western Europe,2.0,48.0,2010,1406613,male
+Eastern Europe,30.0,50.0,Western Europe,2.0,48.0,2010,2138789,male
+Northern Europe,15.0,60.0,Western Europe,2.0,48.0,2010,305985,male
+Southern Europe,15.0,41.0,Western Europe,2.0,48.0,2010,2143785,male
+Western Europe,2.0,48.0,Western Europe,2.0,48.0,2010,1143662,male
+Caribbean,-75.0,18.0,Western Europe,2.0,48.0,2010,59510,male
+Central America,-86.0,15.0,Western Europe,2.0,48.0,2010,24340,male
+South America,-60.0,-10.0,Western Europe,2.0,48.0,2010,266404,male
+NORTHERN AMERICA,-100.0,45.0,Western Europe,2.0,48.0,2010,155703,male
+OCEANIA,140.0,-25.0,Western Europe,2.0,48.0,2010,24970,male
+Eastern Africa,39.0,-6.5,Caribbean,-75.0,18.0,2010,293,male
+Middle Africa,17.0,1.0,Caribbean,-75.0,18.0,2010,123,male
+Northern Africa,18.0,28.0,Caribbean,-75.0,18.0,2010,182,male
+Southern Africa,24.0,-29.0,Caribbean,-75.0,18.0,2010,108,male
+Western Africa,-2.0,16.0,Caribbean,-75.0,18.0,2010,604,male
+Central Asia,63.0,48.0,Caribbean,-75.0,18.0,2010,5,male
+Eastern Asia,116.0,39.0,Caribbean,-75.0,18.0,2010,4144,male
+South-Eastern Asia,108.0,4.0,Caribbean,-75.0,18.0,2010,2460,male
+Southern Asia,78.0,23.0,Caribbean,-75.0,18.0,2010,4107,male
+Western Asia,40.0,33.0,Caribbean,-75.0,18.0,2010,1285,male
+Eastern Europe,30.0,50.0,Caribbean,-75.0,18.0,2010,921,male
+Northern Europe,15.0,60.0,Caribbean,-75.0,18.0,2010,10010,male
+Southern Europe,15.0,41.0,Caribbean,-75.0,18.0,2010,11931,male
+Western Europe,2.0,48.0,Caribbean,-75.0,18.0,2010,59317,male
+Caribbean,-75.0,18.0,Caribbean,-75.0,18.0,2010,356795,male
+Central America,-86.0,15.0,Caribbean,-75.0,18.0,2010,7264,male
+South America,-60.0,-10.0,Caribbean,-75.0,18.0,2010,42336,male
+NORTHERN AMERICA,-100.0,45.0,Caribbean,-75.0,18.0,2010,131376,male
+OCEANIA,140.0,-25.0,Caribbean,-75.0,18.0,2010,242,male
+Eastern Africa,39.0,-6.5,Central America,-86.0,15.0,2010,113,male
+Middle Africa,17.0,1.0,Central America,-86.0,15.0,2010,153,male
+Northern Africa,18.0,28.0,Central America,-86.0,15.0,2010,553,male
+Southern Africa,24.0,-29.0,Central America,-86.0,15.0,2010,155,male
+Western Africa,-2.0,16.0,Central America,-86.0,15.0,2010,292,male
+Central Asia,63.0,48.0,Central America,-86.0,15.0,2010,0,male
+Eastern Asia,116.0,39.0,Central America,-86.0,15.0,2010,22023,male
+South-Eastern Asia,108.0,4.0,Central America,-86.0,15.0,2010,2226,male
+Southern Asia,78.0,23.0,Central America,-86.0,15.0,2010,3882,male
+Western Asia,40.0,33.0,Central America,-86.0,15.0,2010,3781,male
+Eastern Europe,30.0,50.0,Central America,-86.0,15.0,2010,3417,male
+Northern Europe,15.0,60.0,Central America,-86.0,15.0,2010,5331,male
+Southern Europe,15.0,41.0,Central America,-86.0,15.0,2010,22722,male
+Western Europe,2.0,48.0,Central America,-86.0,15.0,2010,16338,male
+Caribbean,-75.0,18.0,Central America,-86.0,15.0,2010,18791,male
+Central America,-86.0,15.0,Central America,-86.0,15.0,2010,269544,male
+South America,-60.0,-10.0,Central America,-86.0,15.0,2010,82743,male
+NORTHERN AMERICA,-100.0,45.0,Central America,-86.0,15.0,2010,412158,male
+OCEANIA,140.0,-25.0,Central America,-86.0,15.0,2010,560,male
+Eastern Africa,39.0,-6.5,South America,-60.0,-10.0,2010,1114,male
+Middle Africa,17.0,1.0,South America,-60.0,-10.0,2010,3787,male
+Northern Africa,18.0,28.0,South America,-60.0,-10.0,2010,3523,male
+Southern Africa,24.0,-29.0,South America,-60.0,-10.0,2010,1404,male
+Western Africa,-2.0,16.0,South America,-60.0,-10.0,2010,2996,male
+Central Asia,63.0,48.0,South America,-60.0,-10.0,2010,27,male
+Eastern Asia,116.0,39.0,South America,-60.0,-10.0,2010,80391,male
+South-Eastern Asia,108.0,4.0,South America,-60.0,-10.0,2010,2130,male
+Southern Asia,78.0,23.0,South America,-60.0,-10.0,2010,2270,male
+Western Asia,40.0,33.0,South America,-60.0,-10.0,2010,30639,male
+Eastern Europe,30.0,50.0,South America,-60.0,-10.0,2010,17524,male
+Northern Europe,15.0,60.0,South America,-60.0,-10.0,2010,12670,male
+Southern Europe,15.0,41.0,South America,-60.0,-10.0,2010,356591,male
+Western Europe,2.0,48.0,South America,-60.0,-10.0,2010,74073,male
+Caribbean,-75.0,18.0,South America,-60.0,-10.0,2010,37299,male
+Central America,-86.0,15.0,South America,-60.0,-10.0,2010,23072,male
+South America,-60.0,-10.0,South America,-60.0,-10.0,2010,1760286,male
+NORTHERN AMERICA,-100.0,45.0,South America,-60.0,-10.0,2010,65312,male
+OCEANIA,140.0,-25.0,South America,-60.0,-10.0,2010,1697,male
+Eastern Africa,39.0,-6.5,NORTHERN AMERICA,-100.0,45.0,2010,334273,male
+Middle Africa,17.0,1.0,NORTHERN AMERICA,-100.0,45.0,2010,47794,male
+Northern Africa,18.0,28.0,NORTHERN AMERICA,-100.0,45.0,2010,236348,male
+Southern Africa,24.0,-29.0,NORTHERN AMERICA,-100.0,45.0,2010,61258,male
+Western Africa,-2.0,16.0,NORTHERN AMERICA,-100.0,45.0,2010,324730,male
+Central Asia,63.0,48.0,NORTHERN AMERICA,-100.0,45.0,2010,34754,male
+Eastern Asia,116.0,39.0,NORTHERN AMERICA,-100.0,45.0,2010,2233509,male
+South-Eastern Asia,108.0,4.0,NORTHERN AMERICA,-100.0,45.0,2010,2046231,male
+Southern Asia,78.0,23.0,NORTHERN AMERICA,-100.0,45.0,2010,1945965,male
+Western Asia,40.0,33.0,NORTHERN AMERICA,-100.0,45.0,2010,601533,male
+Eastern Europe,30.0,50.0,NORTHERN AMERICA,-100.0,45.0,2010,1019931,male
+Northern Europe,15.0,60.0,NORTHERN AMERICA,-100.0,45.0,2010,796173,male
+Southern Europe,15.0,41.0,NORTHERN AMERICA,-100.0,45.0,2010,834838,male
+Western Europe,2.0,48.0,NORTHERN AMERICA,-100.0,45.0,2010,702754,male
+Caribbean,-75.0,18.0,NORTHERN AMERICA,-100.0,45.0,2010,2558230,male
+Central America,-86.0,15.0,NORTHERN AMERICA,-100.0,45.0,2010,8091652,male
+South America,-60.0,-10.0,NORTHERN AMERICA,-100.0,45.0,2010,1351209,male
+NORTHERN AMERICA,-100.0,45.0,NORTHERN AMERICA,-100.0,45.0,2010,414322,male
+OCEANIA,140.0,-25.0,NORTHERN AMERICA,-100.0,45.0,2010,106169,male
+Eastern Africa,39.0,-6.5,OCEANIA,140.0,-25.0,2010,64248,male
+Middle Africa,17.0,1.0,OCEANIA,140.0,-25.0,2010,2325,male
+Northern Africa,18.0,28.0,OCEANIA,140.0,-25.0,2010,41722,male
+Southern Africa,24.0,-29.0,OCEANIA,140.0,-25.0,2010,102683,male
+Western Africa,-2.0,16.0,OCEANIA,140.0,-25.0,2010,9255,male
+Central Asia,63.0,48.0,OCEANIA,140.0,-25.0,2010,1287,male
+Eastern Asia,116.0,39.0,OCEANIA,140.0,-25.0,2010,336013,male
+South-Eastern Asia,108.0,4.0,OCEANIA,140.0,-25.0,2010,404515,male
+Southern Asia,78.0,23.0,OCEANIA,140.0,-25.0,2010,372729,male
+Western Asia,40.0,33.0,OCEANIA,140.0,-25.0,2010,140768,male
+Eastern Europe,30.0,50.0,OCEANIA,140.0,-25.0,2010,79161,male
+Northern Europe,15.0,60.0,OCEANIA,140.0,-25.0,2010,791244,male
+Southern Europe,15.0,41.0,OCEANIA,140.0,-25.0,2010,315898,male
+Western Europe,2.0,48.0,OCEANIA,140.0,-25.0,2010,194699,male
+Caribbean,-75.0,18.0,OCEANIA,140.0,-25.0,2010,5110,male
+Central America,-86.0,15.0,OCEANIA,140.0,-25.0,2010,8129,male
+South America,-60.0,-10.0,OCEANIA,140.0,-25.0,2010,50561,male
+NORTHERN AMERICA,-100.0,45.0,OCEANIA,140.0,-25.0,2010,92459,male
+OCEANIA,140.0,-25.0,OCEANIA,140.0,-25.0,2010,464235,male
+Eastern Africa,39.0,-6.5,Eastern Africa,39.0,-6.5,2015,2132347,male
+Middle Africa,17.0,1.0,Eastern Africa,39.0,-6.5,2015,511047,male
+Northern Africa,18.0,28.0,Eastern Africa,39.0,-6.5,2015,335870,male
+Southern Africa,24.0,-29.0,Eastern Africa,39.0,-6.5,2015,32299,male
+Western Africa,-2.0,16.0,Eastern Africa,39.0,-6.5,2015,8581,male
+Central Asia,63.0,48.0,Eastern Africa,39.0,-6.5,2015,0,male
+Eastern Asia,116.0,39.0,Eastern Africa,39.0,-6.5,2015,4029,male
+South-Eastern Asia,108.0,4.0,Eastern Africa,39.0,-6.5,2015,777,male
+Southern Asia,78.0,23.0,Eastern Africa,39.0,-6.5,2015,31504,male
+Western Asia,40.0,33.0,Eastern Africa,39.0,-6.5,2015,6641,male
+Eastern Europe,30.0,50.0,Eastern Africa,39.0,-6.5,2015,172,male
+Northern Europe,15.0,60.0,Eastern Africa,39.0,-6.5,2015,9698,male
+Southern Europe,15.0,41.0,Eastern Africa,39.0,-6.5,2015,3658,male
+Western Europe,2.0,48.0,Eastern Africa,39.0,-6.5,2015,59367,male
+Caribbean,-75.0,18.0,Eastern Africa,39.0,-6.5,2015,34,male
+Central America,-86.0,15.0,Eastern Africa,39.0,-6.5,2015,0,male
+South America,-60.0,-10.0,Eastern Africa,39.0,-6.5,2015,0,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Africa,39.0,-6.5,2015,1969,male
+OCEANIA,140.0,-25.0,Eastern Africa,39.0,-6.5,2015,146,male
+Eastern Africa,39.0,-6.5,Middle Africa,17.0,1.0,2015,171636,male
+Middle Africa,17.0,1.0,Middle Africa,17.0,1.0,2015,733385,male
+Northern Africa,18.0,28.0,Middle Africa,17.0,1.0,2015,158642,male
+Southern Africa,24.0,-29.0,Middle Africa,17.0,1.0,2015,3196,male
+Western Africa,-2.0,16.0,Middle Africa,17.0,1.0,2015,270861,male
+Central Asia,63.0,48.0,Middle Africa,17.0,1.0,2015,0,male
+Eastern Asia,116.0,39.0,Middle Africa,17.0,1.0,2015,1326,male
+South-Eastern Asia,108.0,4.0,Middle Africa,17.0,1.0,2015,0,male
+Southern Asia,78.0,23.0,Middle Africa,17.0,1.0,2015,0,male
+Western Asia,40.0,33.0,Middle Africa,17.0,1.0,2015,2463,male
+Eastern Europe,30.0,50.0,Middle Africa,17.0,1.0,2015,1092,male
+Northern Europe,15.0,60.0,Middle Africa,17.0,1.0,2015,149,male
+Southern Europe,15.0,41.0,Middle Africa,17.0,1.0,2015,5052,male
+Western Europe,2.0,48.0,Middle Africa,17.0,1.0,2015,25727,male
+Caribbean,-75.0,18.0,Middle Africa,17.0,1.0,2015,167,male
+Central America,-86.0,15.0,Middle Africa,17.0,1.0,2015,0,male
+South America,-60.0,-10.0,Middle Africa,17.0,1.0,2015,0,male
+NORTHERN AMERICA,-100.0,45.0,Middle Africa,17.0,1.0,2015,1610,male
+OCEANIA,140.0,-25.0,Middle Africa,17.0,1.0,2015,5,male
+Eastern Africa,39.0,-6.5,Northern Africa,18.0,28.0,2015,344882,male
+Middle Africa,17.0,1.0,Northern Africa,18.0,28.0,2015,52009,male
+Northern Africa,18.0,28.0,Northern Africa,18.0,28.0,2015,172288,male
+Southern Africa,24.0,-29.0,Northern Africa,18.0,28.0,2015,622,male
+Western Africa,-2.0,16.0,Northern Africa,18.0,28.0,2015,22526,male
+Central Asia,63.0,48.0,Northern Africa,18.0,28.0,2015,1953,male
+Eastern Asia,116.0,39.0,Northern Africa,18.0,28.0,2015,4903,male
+South-Eastern Asia,108.0,4.0,Northern Africa,18.0,28.0,2015,27873,male
+Southern Asia,78.0,23.0,Northern Africa,18.0,28.0,2015,9430,male
+Western Asia,40.0,33.0,Northern Africa,18.0,28.0,2015,519165,male
+Eastern Europe,30.0,50.0,Northern Africa,18.0,28.0,2015,9413,male
+Northern Europe,15.0,60.0,Northern Africa,18.0,28.0,2015,8941,male
+Southern Europe,15.0,41.0,Northern Africa,18.0,28.0,2015,13309,male
+Western Europe,2.0,48.0,Northern Africa,18.0,28.0,2015,39908,male
+Caribbean,-75.0,18.0,Northern Africa,18.0,28.0,2015,9,male
+Central America,-86.0,15.0,Northern Africa,18.0,28.0,2015,551,male
+South America,-60.0,-10.0,Northern Africa,18.0,28.0,2015,357,male
+NORTHERN AMERICA,-100.0,45.0,Northern Africa,18.0,28.0,2015,12837,male
+OCEANIA,140.0,-25.0,Northern Africa,18.0,28.0,2015,747,male
+Eastern Africa,39.0,-6.5,Southern Africa,24.0,-29.0,2015,809202,male
+Middle Africa,17.0,1.0,Southern Africa,24.0,-29.0,2015,105001,male
+Northern Africa,18.0,28.0,Southern Africa,24.0,-29.0,2015,5768,male
+Southern Africa,24.0,-29.0,Southern Africa,24.0,-29.0,2015,164699,male
+Western Africa,-2.0,16.0,Southern Africa,24.0,-29.0,2015,41610,male
+Central Asia,63.0,48.0,Southern Africa,24.0,-29.0,2015,14,male
+Eastern Asia,116.0,39.0,Southern Africa,24.0,-29.0,2015,13134,male
+South-Eastern Asia,108.0,4.0,Southern Africa,24.0,-29.0,2015,2323,male
+Southern Asia,78.0,23.0,Southern Africa,24.0,-29.0,2015,55215,male
+Western Asia,40.0,33.0,Southern Africa,24.0,-29.0,2015,7082,male
+Eastern Europe,30.0,50.0,Southern Africa,24.0,-29.0,2015,13075,male
+Northern Europe,15.0,60.0,Southern Africa,24.0,-29.0,2015,39999,male
+Southern Europe,15.0,41.0,Southern Africa,24.0,-29.0,2015,27370,male
+Western Europe,2.0,48.0,Southern Africa,24.0,-29.0,2015,28249,male
+Caribbean,-75.0,18.0,Southern Africa,24.0,-29.0,2015,1491,male
+Central America,-86.0,15.0,Southern Africa,24.0,-29.0,2015,265,male
+South America,-60.0,-10.0,Southern Africa,24.0,-29.0,2015,3694,male
+NORTHERN AMERICA,-100.0,45.0,Southern Africa,24.0,-29.0,2015,7396,male
+OCEANIA,140.0,-25.0,Southern Africa,24.0,-29.0,2015,4524,male
+Eastern Africa,39.0,-6.5,Western Africa,-2.0,16.0,2015,3310,male
+Middle Africa,17.0,1.0,Western Africa,-2.0,16.0,2015,60858,male
+Northern Africa,18.0,28.0,Western Africa,-2.0,16.0,2015,31268,male
+Southern Africa,24.0,-29.0,Western Africa,-2.0,16.0,2015,1282,male
+Western Africa,-2.0,16.0,Western Africa,-2.0,16.0,2015,3364864,male
+Central Asia,63.0,48.0,Western Africa,-2.0,16.0,2015,1054,male
+Eastern Asia,116.0,39.0,Western Africa,-2.0,16.0,2015,5052,male
+South-Eastern Asia,108.0,4.0,Western Africa,-2.0,16.0,2015,683,male
+Southern Asia,78.0,23.0,Western Africa,-2.0,16.0,2015,2307,male
+Western Asia,40.0,33.0,Western Africa,-2.0,16.0,2015,6962,male
+Eastern Europe,30.0,50.0,Western Africa,-2.0,16.0,2015,701,male
+Northern Europe,15.0,60.0,Western Africa,-2.0,16.0,2015,1272,male
+Southern Europe,15.0,41.0,Western Africa,-2.0,16.0,2015,4060,male
+Western Europe,2.0,48.0,Western Africa,-2.0,16.0,2015,12450,male
+Caribbean,-75.0,18.0,Western Africa,-2.0,16.0,2015,5044,male
+Central America,-86.0,15.0,Western Africa,-2.0,16.0,2015,249,male
+South America,-60.0,-10.0,Western Africa,-2.0,16.0,2015,3283,male
+NORTHERN AMERICA,-100.0,45.0,Western Africa,-2.0,16.0,2015,2897,male
+OCEANIA,140.0,-25.0,Western Africa,-2.0,16.0,2015,1008,male
+Eastern Africa,39.0,-6.5,Central Asia,63.0,48.0,2015,12,male
+Middle Africa,17.0,1.0,Central Asia,63.0,48.0,2015,0,male
+Northern Africa,18.0,28.0,Central Asia,63.0,48.0,2015,58,male
+Southern Africa,24.0,-29.0,Central Asia,63.0,48.0,2015,0,male
+Western Africa,-2.0,16.0,Central Asia,63.0,48.0,2015,11,male
+Central Asia,63.0,48.0,Central Asia,63.0,48.0,2015,238907,male
+Eastern Asia,116.0,39.0,Central Asia,63.0,48.0,2015,50756,male
+South-Eastern Asia,108.0,4.0,Central Asia,63.0,48.0,2015,80,male
+Southern Asia,78.0,23.0,Central Asia,63.0,48.0,2015,7666,male
+Western Asia,40.0,33.0,Central Asia,63.0,48.0,2015,87138,male
+Eastern Europe,30.0,50.0,Central Asia,63.0,48.0,2015,2027526,male
+Northern Europe,15.0,60.0,Central Asia,63.0,48.0,2015,5591,male
+Southern Europe,15.0,41.0,Central Asia,63.0,48.0,2015,0,male
+Western Europe,2.0,48.0,Central Asia,63.0,48.0,2015,5406,male
+Caribbean,-75.0,18.0,Central Asia,63.0,48.0,2015,11,male
+Central America,-86.0,15.0,Central Asia,63.0,48.0,2015,0,male
+South America,-60.0,-10.0,Central Asia,63.0,48.0,2015,0,male
+NORTHERN AMERICA,-100.0,45.0,Central Asia,63.0,48.0,2015,173,male
+OCEANIA,140.0,-25.0,Central Asia,63.0,48.0,2015,52,male
+Eastern Africa,39.0,-6.5,Eastern Asia,116.0,39.0,2015,0,male
+Middle Africa,17.0,1.0,Eastern Asia,116.0,39.0,2015,0,male
+Northern Africa,18.0,28.0,Eastern Asia,116.0,39.0,2015,780,male
+Southern Africa,24.0,-29.0,Eastern Asia,116.0,39.0,2015,510,male
+Western Africa,-2.0,16.0,Eastern Asia,116.0,39.0,2015,2875,male
+Central Asia,63.0,48.0,Eastern Asia,116.0,39.0,2015,33304,male
+Eastern Asia,116.0,39.0,Eastern Asia,116.0,39.0,2015,2370204,male
+South-Eastern Asia,108.0,4.0,Eastern Asia,116.0,39.0,2015,715422,male
+Southern Asia,78.0,23.0,Eastern Asia,116.0,39.0,2015,106551,male
+Western Asia,40.0,33.0,Eastern Asia,116.0,39.0,2015,103,male
+Eastern Europe,30.0,50.0,Eastern Asia,116.0,39.0,2015,7659,male
+Northern Europe,15.0,60.0,Eastern Asia,116.0,39.0,2015,27709,male
+Southern Europe,15.0,41.0,Eastern Asia,116.0,39.0,2015,4577,male
+Western Europe,2.0,48.0,Eastern Asia,116.0,39.0,2015,15323,male
+Caribbean,-75.0,18.0,Eastern Asia,116.0,39.0,2015,0,male
+Central America,-86.0,15.0,Eastern Asia,116.0,39.0,2015,956,male
+South America,-60.0,-10.0,Eastern Asia,116.0,39.0,2015,151396,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Asia,116.0,39.0,2015,113170,male
+OCEANIA,140.0,-25.0,Eastern Asia,116.0,39.0,2015,18695,male
+Eastern Africa,39.0,-6.5,South-Eastern Asia,108.0,4.0,2015,966,male
+Middle Africa,17.0,1.0,South-Eastern Asia,108.0,4.0,2015,588,male
+Northern Africa,18.0,28.0,South-Eastern Asia,108.0,4.0,2015,1999,male
+Southern Africa,24.0,-29.0,South-Eastern Asia,108.0,4.0,2015,404,male
+Western Africa,-2.0,16.0,South-Eastern Asia,108.0,4.0,2015,279,male
+Central Asia,63.0,48.0,South-Eastern Asia,108.0,4.0,2015,0,male
+Eastern Asia,116.0,39.0,South-Eastern Asia,108.0,4.0,2015,423230,male
+South-Eastern Asia,108.0,4.0,South-Eastern Asia,108.0,4.0,2015,3512267,male
+Southern Asia,78.0,23.0,South-Eastern Asia,108.0,4.0,2015,941399,male
+Western Asia,40.0,33.0,South-Eastern Asia,108.0,4.0,2015,12721,male
+Eastern Europe,30.0,50.0,South-Eastern Asia,108.0,4.0,2015,314,male
+Northern Europe,15.0,60.0,South-Eastern Asia,108.0,4.0,2015,31877,male
+Southern Europe,15.0,41.0,South-Eastern Asia,108.0,4.0,2015,2441,male
+Western Europe,2.0,48.0,South-Eastern Asia,108.0,4.0,2015,13295,male
+Caribbean,-75.0,18.0,South-Eastern Asia,108.0,4.0,2015,75,male
+Central America,-86.0,15.0,South-Eastern Asia,108.0,4.0,2015,139,male
+South America,-60.0,-10.0,South-Eastern Asia,108.0,4.0,2015,696,male
+NORTHERN AMERICA,-100.0,45.0,South-Eastern Asia,108.0,4.0,2015,46631,male
+OCEANIA,140.0,-25.0,South-Eastern Asia,108.0,4.0,2015,23745,male
+Eastern Africa,39.0,-6.5,Southern Asia,78.0,23.0,2015,20767,male
+Middle Africa,17.0,1.0,Southern Asia,78.0,23.0,2015,0,male
+Northern Africa,18.0,28.0,Southern Asia,78.0,23.0,2015,145,male
+Southern Africa,24.0,-29.0,Southern Asia,78.0,23.0,2015,104,male
+Western Africa,-2.0,16.0,Southern Asia,78.0,23.0,2015,570,male
+Central Asia,63.0,48.0,Southern Asia,78.0,23.0,2015,8260,male
+Eastern Asia,116.0,39.0,Southern Asia,78.0,23.0,2015,162646,male
+South-Eastern Asia,108.0,4.0,Southern Asia,78.0,23.0,2015,445693,male
+Southern Asia,78.0,23.0,Southern Asia,78.0,23.0,2015,5843905,male
+Western Asia,40.0,33.0,Southern Asia,78.0,23.0,2015,97775,male
+Eastern Europe,30.0,50.0,Southern Asia,78.0,23.0,2015,642,male
+Northern Europe,15.0,60.0,Southern Asia,78.0,23.0,2015,32343,male
+Southern Europe,15.0,41.0,Southern Asia,78.0,23.0,2015,2790,male
+Western Europe,2.0,48.0,Southern Asia,78.0,23.0,2015,3191,male
+Caribbean,-75.0,18.0,Southern Asia,78.0,23.0,2015,16,male
+Central America,-86.0,15.0,Southern Asia,78.0,23.0,2015,0,male
+South America,-60.0,-10.0,Southern Asia,78.0,23.0,2015,8057,male
+NORTHERN AMERICA,-100.0,45.0,Southern Asia,78.0,23.0,2015,45453,male
+OCEANIA,140.0,-25.0,Southern Asia,78.0,23.0,2015,2757,male
+Eastern Africa,39.0,-6.5,Western Asia,40.0,33.0,2015,343901,male
+Middle Africa,17.0,1.0,Western Asia,40.0,33.0,2015,5286,male
+Northern Africa,18.0,28.0,Western Asia,40.0,33.0,2015,2239950,male
+Southern Africa,24.0,-29.0,Western Asia,40.0,33.0,2015,7719,male
+Western Africa,-2.0,16.0,Western Asia,40.0,33.0,2015,17971,male
+Central Asia,63.0,48.0,Western Asia,40.0,33.0,2015,42033,male
+Eastern Asia,116.0,39.0,Western Asia,40.0,33.0,2015,8647,male
+South-Eastern Asia,108.0,4.0,Western Asia,40.0,33.0,2015,2270706,male
+Southern Asia,78.0,23.0,Western Asia,40.0,33.0,2015,12176428,male
+Western Asia,40.0,33.0,Western Asia,40.0,33.0,2015,6759782,male
+Eastern Europe,30.0,50.0,Western Asia,40.0,33.0,2015,443959,male
+Northern Europe,15.0,60.0,Western Asia,40.0,33.0,2015,80590,male
+Southern Europe,15.0,41.0,Western Asia,40.0,33.0,2015,129814,male
+Western Europe,2.0,48.0,Western Asia,40.0,33.0,2015,195817,male
+Caribbean,-75.0,18.0,Western Asia,40.0,33.0,2015,110,male
+Central America,-86.0,15.0,Western Asia,40.0,33.0,2015,1397,male
+South America,-60.0,-10.0,Western Asia,40.0,33.0,2015,29727,male
+NORTHERN AMERICA,-100.0,45.0,Western Asia,40.0,33.0,2015,72208,male
+OCEANIA,140.0,-25.0,Western Asia,40.0,33.0,2015,4412,male
+Eastern Africa,39.0,-6.5,Eastern Europe,30.0,50.0,2015,3107,male
+Middle Africa,17.0,1.0,Eastern Europe,30.0,50.0,2015,2363,male
+Northern Africa,18.0,28.0,Eastern Europe,30.0,50.0,2015,12232,male
+Southern Africa,24.0,-29.0,Eastern Europe,30.0,50.0,2015,1092,male
+Western Africa,-2.0,16.0,Eastern Europe,30.0,50.0,2015,4979,male
+Central Asia,63.0,48.0,Eastern Europe,30.0,50.0,2015,2736063,male
+Eastern Asia,116.0,39.0,Eastern Europe,30.0,50.0,2015,75450,male
+South-Eastern Asia,108.0,4.0,Eastern Europe,30.0,50.0,2015,50189,male
+Southern Asia,78.0,23.0,Eastern Europe,30.0,50.0,2015,40251,male
+Western Asia,40.0,33.0,Eastern Europe,30.0,50.0,2015,1182214,male
+Eastern Europe,30.0,50.0,Eastern Europe,30.0,50.0,2015,4538845,male
+Northern Europe,15.0,60.0,Eastern Europe,30.0,50.0,2015,209710,male
+Southern Europe,15.0,41.0,Eastern Europe,30.0,50.0,2015,116348,male
+Western Europe,2.0,48.0,Eastern Europe,30.0,50.0,2015,193211,male
+Caribbean,-75.0,18.0,Eastern Europe,30.0,50.0,2015,2770,male
+Central America,-86.0,15.0,Eastern Europe,30.0,50.0,2015,1281,male
+South America,-60.0,-10.0,Eastern Europe,30.0,50.0,2015,5074,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Europe,30.0,50.0,2015,25692,male
+OCEANIA,140.0,-25.0,Eastern Europe,30.0,50.0,2015,2697,male
+Eastern Africa,39.0,-6.5,Northern Europe,15.0,60.0,2015,401802,male
+Middle Africa,17.0,1.0,Northern Europe,15.0,60.0,2015,30181,male
+Northern Africa,18.0,28.0,Northern Europe,15.0,60.0,2015,99131,male
+Southern Africa,24.0,-29.0,Northern Europe,15.0,60.0,2015,106651,male
+Western Africa,-2.0,16.0,Northern Europe,15.0,60.0,2015,206168,male
+Central Asia,63.0,48.0,Northern Europe,15.0,60.0,2015,16952,male
+Eastern Asia,116.0,39.0,Northern Europe,15.0,60.0,2015,212196,male
+South-Eastern Asia,108.0,4.0,Northern Europe,15.0,60.0,2015,203092,male
+Southern Asia,78.0,23.0,Northern Europe,15.0,60.0,2015,1178696,male
+Western Asia,40.0,33.0,Northern Europe,15.0,60.0,2015,474589,male
+Eastern Europe,30.0,50.0,Northern Europe,15.0,60.0,2015,1120800,male
+Northern Europe,15.0,60.0,Northern Europe,15.0,60.0,2015,881994,male
+Southern Europe,15.0,41.0,Northern Europe,15.0,60.0,2015,391505,male
+Western Europe,2.0,48.0,Northern Europe,15.0,60.0,2015,387310,male
+Caribbean,-75.0,18.0,Northern Europe,15.0,60.0,2015,110896,male
+Central America,-86.0,15.0,Northern Europe,15.0,60.0,2015,12589,male
+South America,-60.0,-10.0,Northern Europe,15.0,60.0,2015,111321,male
+NORTHERN AMERICA,-100.0,45.0,Northern Europe,15.0,60.0,2015,189294,male
+OCEANIA,140.0,-25.0,Northern Europe,15.0,60.0,2015,115607,male
+Eastern Africa,39.0,-6.5,Southern Europe,15.0,41.0,2015,79017,male
+Middle Africa,17.0,1.0,Southern Europe,15.0,41.0,2015,106694,male
+Northern Africa,18.0,28.0,Southern Europe,15.0,41.0,2015,868197,male
+Southern Africa,24.0,-29.0,Southern Europe,15.0,41.0,2015,12494,male
+Western Africa,-2.0,16.0,Southern Europe,15.0,41.0,2015,347448,male
+Central Asia,63.0,48.0,Southern Europe,15.0,41.0,2015,19145,male
+Eastern Asia,116.0,39.0,Southern Europe,15.0,41.0,2015,189951,male
+South-Eastern Asia,108.0,4.0,Southern Europe,15.0,41.0,2015,84956,male
+Southern Asia,78.0,23.0,Southern Europe,15.0,41.0,2015,424565,male
+Western Asia,40.0,33.0,Southern Europe,15.0,41.0,2015,143916,male
+Eastern Europe,30.0,50.0,Southern Europe,15.0,41.0,2015,1243506,male
+Northern Europe,15.0,60.0,Southern Europe,15.0,41.0,2015,266979,male
+Southern Europe,15.0,41.0,Southern Europe,15.0,41.0,2015,1533347,male
+Western Europe,2.0,48.0,Southern Europe,15.0,41.0,2015,718197,male
+Caribbean,-75.0,18.0,Southern Europe,15.0,41.0,2015,143405,male
+Central America,-86.0,15.0,Southern Europe,15.0,41.0,2015,55924,male
+South America,-60.0,-10.0,Southern Europe,15.0,41.0,2015,1055926,male
+NORTHERN AMERICA,-100.0,45.0,Southern Europe,15.0,41.0,2015,84295,male
+OCEANIA,140.0,-25.0,Southern Europe,15.0,41.0,2015,27492,male
+Eastern Africa,39.0,-6.5,Western Europe,2.0,48.0,2015,217964,male
+Middle Africa,17.0,1.0,Western Europe,2.0,48.0,2015,221144,male
+Northern Africa,18.0,28.0,Western Europe,2.0,48.0,2015,1912097,male
+Southern Africa,24.0,-29.0,Western Europe,2.0,48.0,2015,22519,male
+Western Africa,-2.0,16.0,Western Europe,2.0,48.0,2015,362015,male
+Central Asia,63.0,48.0,Western Europe,2.0,48.0,2015,479317,male
+Eastern Asia,116.0,39.0,Western Europe,2.0,48.0,2015,184867,male
+South-Eastern Asia,108.0,4.0,Western Europe,2.0,48.0,2015,309097,male
+Southern Asia,78.0,23.0,Western Europe,2.0,48.0,2015,473116,male
+Western Asia,40.0,33.0,Western Europe,2.0,48.0,2015,1584817,male
+Eastern Europe,30.0,50.0,Western Europe,2.0,48.0,2015,2305642,male
+Northern Europe,15.0,60.0,Western Europe,2.0,48.0,2015,319870,male
+Southern Europe,15.0,41.0,Western Europe,2.0,48.0,2015,2209031,male
+Western Europe,2.0,48.0,Western Europe,2.0,48.0,2015,1243855,male
+Caribbean,-75.0,18.0,Western Europe,2.0,48.0,2015,65226,male
+Central America,-86.0,15.0,Western Europe,2.0,48.0,2015,26848,male
+South America,-60.0,-10.0,Western Europe,2.0,48.0,2015,277851,male
+NORTHERN AMERICA,-100.0,45.0,Western Europe,2.0,48.0,2015,162948,male
+OCEANIA,140.0,-25.0,Western Europe,2.0,48.0,2015,26147,male
+Eastern Africa,39.0,-6.5,Caribbean,-75.0,18.0,2015,293,male
+Middle Africa,17.0,1.0,Caribbean,-75.0,18.0,2015,118,male
+Northern Africa,18.0,28.0,Caribbean,-75.0,18.0,2015,178,male
+Southern Africa,24.0,-29.0,Caribbean,-75.0,18.0,2015,117,male
+Western Africa,-2.0,16.0,Caribbean,-75.0,18.0,2015,635,male
+Central Asia,63.0,48.0,Caribbean,-75.0,18.0,2015,5,male
+Eastern Asia,116.0,39.0,Caribbean,-75.0,18.0,2015,5787,male
+South-Eastern Asia,108.0,4.0,Caribbean,-75.0,18.0,2015,2630,male
+Southern Asia,78.0,23.0,Caribbean,-75.0,18.0,2015,4253,male
+Western Asia,40.0,33.0,Caribbean,-75.0,18.0,2015,1308,male
+Eastern Europe,30.0,50.0,Caribbean,-75.0,18.0,2015,765,male
+Northern Europe,15.0,60.0,Caribbean,-75.0,18.0,2015,10400,male
+Southern Europe,15.0,41.0,Caribbean,-75.0,18.0,2015,12196,male
+Western Europe,2.0,48.0,Caribbean,-75.0,18.0,2015,61642,male
+Caribbean,-75.0,18.0,Caribbean,-75.0,18.0,2015,475462,male
+Central America,-86.0,15.0,Caribbean,-75.0,18.0,2015,7202,male
+South America,-60.0,-10.0,Caribbean,-75.0,18.0,2015,42439,male
+NORTHERN AMERICA,-100.0,45.0,Caribbean,-75.0,18.0,2015,116970,male
+OCEANIA,140.0,-25.0,Caribbean,-75.0,18.0,2015,262,male
+Eastern Africa,39.0,-6.5,Central America,-86.0,15.0,2015,115,male
+Middle Africa,17.0,1.0,Central America,-86.0,15.0,2015,161,male
+Northern Africa,18.0,28.0,Central America,-86.0,15.0,2015,590,male
+Southern Africa,24.0,-29.0,Central America,-86.0,15.0,2015,163,male
+Western Africa,-2.0,16.0,Central America,-86.0,15.0,2015,311,male
+Central Asia,63.0,48.0,Central America,-86.0,15.0,2015,0,male
+Eastern Asia,116.0,39.0,Central America,-86.0,15.0,2015,26323,male
+South-Eastern Asia,108.0,4.0,Central America,-86.0,15.0,2015,2529,male
+Southern Asia,78.0,23.0,Central America,-86.0,15.0,2015,5281,male
+Western Asia,40.0,33.0,Central America,-86.0,15.0,2015,4307,male
+Eastern Europe,30.0,50.0,Central America,-86.0,15.0,2015,3717,male
+Northern Europe,15.0,60.0,Central America,-86.0,15.0,2015,5671,male
+Southern Europe,15.0,41.0,Central America,-86.0,15.0,2015,26286,male
+Western Europe,2.0,48.0,Central America,-86.0,15.0,2015,17785,male
+Caribbean,-75.0,18.0,Central America,-86.0,15.0,2015,20501,male
+Central America,-86.0,15.0,Central America,-86.0,15.0,2015,291970,male
+South America,-60.0,-10.0,Central America,-86.0,15.0,2015,94932,male
+NORTHERN AMERICA,-100.0,45.0,Central America,-86.0,15.0,2015,402671,male
+OCEANIA,140.0,-25.0,Central America,-86.0,15.0,2015,609,male
+Eastern Africa,39.0,-6.5,South America,-60.0,-10.0,2015,1259,male
+Middle Africa,17.0,1.0,South America,-60.0,-10.0,2015,5798,male
+Northern Africa,18.0,28.0,South America,-60.0,-10.0,2015,4097,male
+Southern Africa,24.0,-29.0,South America,-60.0,-10.0,2015,1633,male
+Western Africa,-2.0,16.0,South America,-60.0,-10.0,2015,8551,male
+Central Asia,63.0,48.0,South America,-60.0,-10.0,2015,31,male
+Eastern Asia,116.0,39.0,South America,-60.0,-10.0,2015,103683,male
+South-Eastern Asia,108.0,4.0,South America,-60.0,-10.0,2015,2391,male
+Southern Asia,78.0,23.0,South America,-60.0,-10.0,2015,3510,male
+Western Asia,40.0,33.0,South America,-60.0,-10.0,2015,34059,male
+Eastern Europe,30.0,50.0,South America,-60.0,-10.0,2015,19485,male
+Northern Europe,15.0,60.0,South America,-60.0,-10.0,2015,14965,male
+Southern Europe,15.0,41.0,South America,-60.0,-10.0,2015,401966,male
+Western Europe,2.0,48.0,South America,-60.0,-10.0,2015,88244,male
+Caribbean,-75.0,18.0,South America,-60.0,-10.0,2015,59932,male
+Central America,-86.0,15.0,South America,-60.0,-10.0,2015,28267,male
+South America,-60.0,-10.0,South America,-60.0,-10.0,2015,2020277,male
+NORTHERN AMERICA,-100.0,45.0,South America,-60.0,-10.0,2015,74882,male
+OCEANIA,140.0,-25.0,South America,-60.0,-10.0,2015,1942,male
+Eastern Africa,39.0,-6.5,NORTHERN AMERICA,-100.0,45.0,2015,410331,male
+Middle Africa,17.0,1.0,NORTHERN AMERICA,-100.0,45.0,2015,72521,male
+Northern Africa,18.0,28.0,NORTHERN AMERICA,-100.0,45.0,2015,347860,male
+Southern Africa,24.0,-29.0,NORTHERN AMERICA,-100.0,45.0,2015,71955,male
+Western Africa,-2.0,16.0,NORTHERN AMERICA,-100.0,45.0,2015,426132,male
+Central Asia,63.0,48.0,NORTHERN AMERICA,-100.0,45.0,2015,61589,male
+Eastern Asia,116.0,39.0,NORTHERN AMERICA,-100.0,45.0,2015,2560216,male
+South-Eastern Asia,108.0,4.0,NORTHERN AMERICA,-100.0,45.0,2015,2221871,male
+Southern Asia,78.0,23.0,NORTHERN AMERICA,-100.0,45.0,2015,2515355,male
+Western Asia,40.0,33.0,NORTHERN AMERICA,-100.0,45.0,2015,862072,male
+Eastern Europe,30.0,50.0,NORTHERN AMERICA,-100.0,45.0,2015,1047894,male
+Northern Europe,15.0,60.0,NORTHERN AMERICA,-100.0,45.0,2015,755674,male
+Southern Europe,15.0,41.0,NORTHERN AMERICA,-100.0,45.0,2015,816647,male
+Western Europe,2.0,48.0,NORTHERN AMERICA,-100.0,45.0,2015,664620,male
+Caribbean,-75.0,18.0,NORTHERN AMERICA,-100.0,45.0,2015,2912168,male
+Central America,-86.0,15.0,NORTHERN AMERICA,-100.0,45.0,2015,8002375,male
+South America,-60.0,-10.0,NORTHERN AMERICA,-100.0,45.0,2015,1470186,male
+NORTHERN AMERICA,-100.0,45.0,NORTHERN AMERICA,-100.0,45.0,2015,390661,male
+OCEANIA,140.0,-25.0,NORTHERN AMERICA,-100.0,45.0,2015,119955,male
+Eastern Africa,39.0,-6.5,OCEANIA,140.0,-25.0,2015,81035,male
+Middle Africa,17.0,1.0,OCEANIA,140.0,-25.0,2015,3607,male
+Northern Africa,18.0,28.0,OCEANIA,140.0,-25.0,2015,39669,male
+Southern Africa,24.0,-29.0,OCEANIA,140.0,-25.0,2015,118147,male
+Western Africa,-2.0,16.0,OCEANIA,140.0,-25.0,2015,13648,male
+Central Asia,63.0,48.0,OCEANIA,140.0,-25.0,2015,1820,male
+Eastern Asia,116.0,39.0,OCEANIA,140.0,-25.0,2015,418304,male
+South-Eastern Asia,108.0,4.0,OCEANIA,140.0,-25.0,2015,477150,male
+Southern Asia,78.0,23.0,OCEANIA,140.0,-25.0,2015,511227,male
+Western Asia,40.0,33.0,OCEANIA,140.0,-25.0,2015,159370,male
+Eastern Europe,30.0,50.0,OCEANIA,140.0,-25.0,2015,79659,male
+Northern Europe,15.0,60.0,OCEANIA,140.0,-25.0,2015,825777,male
+Southern Europe,15.0,41.0,OCEANIA,140.0,-25.0,2015,304195,male
+Western Europe,2.0,48.0,OCEANIA,140.0,-25.0,2015,197063,male
+Caribbean,-75.0,18.0,OCEANIA,140.0,-25.0,2015,5600,male
+Central America,-86.0,15.0,OCEANIA,140.0,-25.0,2015,9469,male
+South America,-60.0,-10.0,OCEANIA,140.0,-25.0,2015,64524,male
+NORTHERN AMERICA,-100.0,45.0,OCEANIA,140.0,-25.0,2015,108622,male
+OCEANIA,140.0,-25.0,OCEANIA,140.0,-25.0,2015,512709,male
+Eastern Africa,39.0,-6.5,Eastern Africa,39.0,-6.5,2020,2491285,male
+Middle Africa,17.0,1.0,Eastern Africa,39.0,-6.5,2020,620870,male
+Northern Africa,18.0,28.0,Eastern Africa,39.0,-6.5,2020,342176,male
+Southern Africa,24.0,-29.0,Eastern Africa,39.0,-6.5,2020,33992,male
+Western Africa,-2.0,16.0,Eastern Africa,39.0,-6.5,2020,9232,male
+Central Asia,63.0,48.0,Eastern Africa,39.0,-6.5,2020,0,male
+Eastern Asia,116.0,39.0,Eastern Africa,39.0,-6.5,2020,4400,male
+South-Eastern Asia,108.0,4.0,Eastern Africa,39.0,-6.5,2020,793,male
+Southern Asia,78.0,23.0,Eastern Africa,39.0,-6.5,2020,32034,male
+Western Asia,40.0,33.0,Eastern Africa,39.0,-6.5,2020,10713,male
+Eastern Europe,30.0,50.0,Eastern Africa,39.0,-6.5,2020,165,male
+Northern Europe,15.0,60.0,Eastern Africa,39.0,-6.5,2020,10077,male
+Southern Europe,15.0,41.0,Eastern Africa,39.0,-6.5,2020,3756,male
+Western Europe,2.0,48.0,Eastern Africa,39.0,-6.5,2020,63459,male
+Caribbean,-75.0,18.0,Eastern Africa,39.0,-6.5,2020,34,male
+Central America,-86.0,15.0,Eastern Africa,39.0,-6.5,2020,0,male
+South America,-60.0,-10.0,Eastern Africa,39.0,-6.5,2020,0,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Africa,39.0,-6.5,2020,2061,male
+OCEANIA,140.0,-25.0,Eastern Africa,39.0,-6.5,2020,197,male
+Eastern Africa,39.0,-6.5,Middle Africa,17.0,1.0,2020,210433,male
+Middle Africa,17.0,1.0,Middle Africa,17.0,1.0,2020,810637,male
+Northern Africa,18.0,28.0,Middle Africa,17.0,1.0,2020,180455,male
+Southern Africa,24.0,-29.0,Middle Africa,17.0,1.0,2020,3564,male
+Western Africa,-2.0,16.0,Middle Africa,17.0,1.0,2020,318398,male
+Central Asia,63.0,48.0,Middle Africa,17.0,1.0,2020,0,male
+Eastern Asia,116.0,39.0,Middle Africa,17.0,1.0,2020,1364,male
+South-Eastern Asia,108.0,4.0,Middle Africa,17.0,1.0,2020,0,male
+Southern Asia,78.0,23.0,Middle Africa,17.0,1.0,2020,0,male
+Western Asia,40.0,33.0,Middle Africa,17.0,1.0,2020,2628,male
+Eastern Europe,30.0,50.0,Middle Africa,17.0,1.0,2020,1080,male
+Northern Europe,15.0,60.0,Middle Africa,17.0,1.0,2020,174,male
+Southern Europe,15.0,41.0,Middle Africa,17.0,1.0,2020,4939,male
+Western Europe,2.0,48.0,Middle Africa,17.0,1.0,2020,27773,male
+Caribbean,-75.0,18.0,Middle Africa,17.0,1.0,2020,164,male
+Central America,-86.0,15.0,Middle Africa,17.0,1.0,2020,0,male
+South America,-60.0,-10.0,Middle Africa,17.0,1.0,2020,0,male
+NORTHERN AMERICA,-100.0,45.0,Middle Africa,17.0,1.0,2020,1762,male
+OCEANIA,140.0,-25.0,Middle Africa,17.0,1.0,2020,6,male
+Eastern Africa,39.0,-6.5,Northern Africa,18.0,28.0,2020,714248,male
+Middle Africa,17.0,1.0,Northern Africa,18.0,28.0,2020,73970,male
+Northern Africa,18.0,28.0,Northern Africa,18.0,28.0,2020,193678,male
+Southern Africa,24.0,-29.0,Northern Africa,18.0,28.0,2020,721,male
+Western Africa,-2.0,16.0,Northern Africa,18.0,28.0,2020,26030,male
+Central Asia,63.0,48.0,Northern Africa,18.0,28.0,2020,3130,male
+Eastern Asia,116.0,39.0,Northern Africa,18.0,28.0,2020,5822,male
+South-Eastern Asia,108.0,4.0,Northern Africa,18.0,28.0,2020,31504,male
+Southern Asia,78.0,23.0,Northern Africa,18.0,28.0,2020,10850,male
+Western Asia,40.0,33.0,Northern Africa,18.0,28.0,2020,581771,male
+Eastern Europe,30.0,50.0,Northern Africa,18.0,28.0,2020,10888,male
+Northern Europe,15.0,60.0,Northern Africa,18.0,28.0,2020,10250,male
+Southern Europe,15.0,41.0,Northern Africa,18.0,28.0,2020,15315,male
+Western Europe,2.0,48.0,Northern Africa,18.0,28.0,2020,45828,male
+Caribbean,-75.0,18.0,Northern Africa,18.0,28.0,2020,11,male
+Central America,-86.0,15.0,Northern Africa,18.0,28.0,2020,620,male
+South America,-60.0,-10.0,Northern Africa,18.0,28.0,2020,455,male
+NORTHERN AMERICA,-100.0,45.0,Northern Africa,18.0,28.0,2020,14785,male
+OCEANIA,140.0,-25.0,Northern Africa,18.0,28.0,2020,888,male
+Eastern Africa,39.0,-6.5,Southern Africa,24.0,-29.0,2020,852666,male
+Middle Africa,17.0,1.0,Southern Africa,24.0,-29.0,2020,106689,male
+Northern Africa,18.0,28.0,Southern Africa,24.0,-29.0,2020,7288,male
+Southern Africa,24.0,-29.0,Southern Africa,24.0,-29.0,2020,175379,male
+Western Africa,-2.0,16.0,Southern Africa,24.0,-29.0,2020,40986,male
+Central Asia,63.0,48.0,Southern Africa,24.0,-29.0,2020,19,male
+Eastern Asia,116.0,39.0,Southern Africa,24.0,-29.0,2020,14064,male
+South-Eastern Asia,108.0,4.0,Southern Africa,24.0,-29.0,2020,3229,male
+Southern Asia,78.0,23.0,Southern Africa,24.0,-29.0,2020,48996,male
+Western Asia,40.0,33.0,Southern Africa,24.0,-29.0,2020,9130,male
+Eastern Europe,30.0,50.0,Southern Africa,24.0,-29.0,2020,17068,male
+Northern Europe,15.0,60.0,Southern Africa,24.0,-29.0,2020,45616,male
+Southern Europe,15.0,41.0,Southern Africa,24.0,-29.0,2020,34578,male
+Western Europe,2.0,48.0,Southern Africa,24.0,-29.0,2020,34337,male
+Caribbean,-75.0,18.0,Southern Africa,24.0,-29.0,2020,1810,male
+Central America,-86.0,15.0,Southern Africa,24.0,-29.0,2020,349,male
+South America,-60.0,-10.0,Southern Africa,24.0,-29.0,2020,4875,male
+NORTHERN AMERICA,-100.0,45.0,Southern Africa,24.0,-29.0,2020,9027,male
+OCEANIA,140.0,-25.0,Southern Africa,24.0,-29.0,2020,5534,male
+Eastern Africa,39.0,-6.5,Western Africa,-2.0,16.0,2020,3422,male
+Middle Africa,17.0,1.0,Western Africa,-2.0,16.0,2020,79009,male
+Northern Africa,18.0,28.0,Western Africa,-2.0,16.0,2020,33893,male
+Southern Africa,24.0,-29.0,Western Africa,-2.0,16.0,2020,1318,male
+Western Africa,-2.0,16.0,Western Africa,-2.0,16.0,2020,3577848,male
+Central Asia,63.0,48.0,Western Africa,-2.0,16.0,2020,1235,male
+Eastern Asia,116.0,39.0,Western Africa,-2.0,16.0,2020,5508,male
+South-Eastern Asia,108.0,4.0,Western Africa,-2.0,16.0,2020,786,male
+Southern Asia,78.0,23.0,Western Africa,-2.0,16.0,2020,2237,male
+Western Asia,40.0,33.0,Western Africa,-2.0,16.0,2020,7688,male
+Eastern Europe,30.0,50.0,Western Africa,-2.0,16.0,2020,766,male
+Northern Europe,15.0,60.0,Western Africa,-2.0,16.0,2020,1344,male
+Southern Europe,15.0,41.0,Western Africa,-2.0,16.0,2020,4298,male
+Western Europe,2.0,48.0,Western Africa,-2.0,16.0,2020,13215,male
+Caribbean,-75.0,18.0,Western Africa,-2.0,16.0,2020,5141,male
+Central America,-86.0,15.0,Western Africa,-2.0,16.0,2020,239,male
+South America,-60.0,-10.0,Western Africa,-2.0,16.0,2020,3443,male
+NORTHERN AMERICA,-100.0,45.0,Western Africa,-2.0,16.0,2020,3022,male
+OCEANIA,140.0,-25.0,Western Africa,-2.0,16.0,2020,1047,male
+Eastern Africa,39.0,-6.5,Central Asia,63.0,48.0,2020,12,male
+Middle Africa,17.0,1.0,Central Asia,63.0,48.0,2020,0,male
+Northern Africa,18.0,28.0,Central Asia,63.0,48.0,2020,59,male
+Southern Africa,24.0,-29.0,Central Asia,63.0,48.0,2020,0,male
+Western Africa,-2.0,16.0,Central Asia,63.0,48.0,2020,11,male
+Central Asia,63.0,48.0,Central Asia,63.0,48.0,2020,247462,male
+Eastern Asia,116.0,39.0,Central Asia,63.0,48.0,2020,53332,male
+South-Eastern Asia,108.0,4.0,Central Asia,63.0,48.0,2020,77,male
+Southern Asia,78.0,23.0,Central Asia,63.0,48.0,2020,7676,male
+Western Asia,40.0,33.0,Central Asia,63.0,48.0,2020,90105,male
+Eastern Europe,30.0,50.0,Central Asia,63.0,48.0,2020,2095763,male
+Northern Europe,15.0,60.0,Central Asia,63.0,48.0,2020,5733,male
+Southern Europe,15.0,41.0,Central Asia,63.0,48.0,2020,0,male
+Western Europe,2.0,48.0,Central Asia,63.0,48.0,2020,5376,male
+Caribbean,-75.0,18.0,Central Asia,63.0,48.0,2020,11,male
+Central America,-86.0,15.0,Central Asia,63.0,48.0,2020,0,male
+South America,-60.0,-10.0,Central Asia,63.0,48.0,2020,0,male
+NORTHERN AMERICA,-100.0,45.0,Central Asia,63.0,48.0,2020,173,male
+OCEANIA,140.0,-25.0,Central Asia,63.0,48.0,2020,52,male
+Eastern Africa,39.0,-6.5,Eastern Asia,116.0,39.0,2020,0,male
+Middle Africa,17.0,1.0,Eastern Asia,116.0,39.0,2020,0,male
+Northern Africa,18.0,28.0,Eastern Asia,116.0,39.0,2020,875,male
+Southern Africa,24.0,-29.0,Eastern Asia,116.0,39.0,2020,909,male
+Western Africa,-2.0,16.0,Eastern Asia,116.0,39.0,2020,3817,male
+Central Asia,63.0,48.0,Eastern Asia,116.0,39.0,2020,43336,male
+Eastern Asia,116.0,39.0,Eastern Asia,116.0,39.0,2020,2441375,male
+South-Eastern Asia,108.0,4.0,Eastern Asia,116.0,39.0,2020,951150,male
+Southern Asia,78.0,23.0,Eastern Asia,116.0,39.0,2020,142781,male
+Western Asia,40.0,33.0,Eastern Asia,116.0,39.0,2020,110,male
+Eastern Europe,30.0,50.0,Eastern Asia,116.0,39.0,2020,8938,male
+Northern Europe,15.0,60.0,Eastern Asia,116.0,39.0,2020,31187,male
+Southern Europe,15.0,41.0,Eastern Asia,116.0,39.0,2020,5550,male
+Western Europe,2.0,48.0,Eastern Asia,116.0,39.0,2020,18273,male
+Caribbean,-75.0,18.0,Eastern Asia,116.0,39.0,2020,0,male
+Central America,-86.0,15.0,Eastern Asia,116.0,39.0,2020,1222,male
+South America,-60.0,-10.0,Eastern Asia,116.0,39.0,2020,171603,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Asia,116.0,39.0,2020,133145,male
+OCEANIA,140.0,-25.0,Eastern Asia,116.0,39.0,2020,23086,male
+Eastern Africa,39.0,-6.5,South-Eastern Asia,108.0,4.0,2020,1500,male
+Middle Africa,17.0,1.0,South-Eastern Asia,108.0,4.0,2020,624,male
+Northern Africa,18.0,28.0,South-Eastern Asia,108.0,4.0,2020,2110,male
+Southern Africa,24.0,-29.0,South-Eastern Asia,108.0,4.0,2020,431,male
+Western Africa,-2.0,16.0,South-Eastern Asia,108.0,4.0,2020,296,male
+Central Asia,63.0,48.0,South-Eastern Asia,108.0,4.0,2020,0,male
+Eastern Asia,116.0,39.0,South-Eastern Asia,108.0,4.0,2020,438018,male
+South-Eastern Asia,108.0,4.0,South-Eastern Asia,108.0,4.0,2020,3696872,male
+Southern Asia,78.0,23.0,South-Eastern Asia,108.0,4.0,2020,1005577,male
+Western Asia,40.0,33.0,South-Eastern Asia,108.0,4.0,2020,13415,male
+Eastern Europe,30.0,50.0,South-Eastern Asia,108.0,4.0,2020,336,male
+Northern Europe,15.0,60.0,South-Eastern Asia,108.0,4.0,2020,33741,male
+Southern Europe,15.0,41.0,South-Eastern Asia,108.0,4.0,2020,2575,male
+Western Europe,2.0,48.0,South-Eastern Asia,108.0,4.0,2020,14031,male
+Caribbean,-75.0,18.0,South-Eastern Asia,108.0,4.0,2020,79,male
+Central America,-86.0,15.0,South-Eastern Asia,108.0,4.0,2020,147,male
+South America,-60.0,-10.0,South-Eastern Asia,108.0,4.0,2020,740,male
+NORTHERN AMERICA,-100.0,45.0,South-Eastern Asia,108.0,4.0,2020,48946,male
+OCEANIA,140.0,-25.0,South-Eastern Asia,108.0,4.0,2020,24878,male
+Eastern Africa,39.0,-6.5,Southern Asia,78.0,23.0,2020,18816,male
+Middle Africa,17.0,1.0,Southern Asia,78.0,23.0,2020,0,male
+Northern Africa,18.0,28.0,Southern Asia,78.0,23.0,2020,149,male
+Southern Africa,24.0,-29.0,Southern Asia,78.0,23.0,2020,106,male
+Western Africa,-2.0,16.0,Southern Asia,78.0,23.0,2020,527,male
+Central Asia,63.0,48.0,Southern Asia,78.0,23.0,2020,3157,male
+Eastern Asia,116.0,39.0,Southern Asia,78.0,23.0,2020,119359,male
+South-Eastern Asia,108.0,4.0,Southern Asia,78.0,23.0,2020,932897,male
+Southern Asia,78.0,23.0,Southern Asia,78.0,23.0,2020,5565784,male
+Western Asia,40.0,33.0,Southern Asia,78.0,23.0,2020,79021,male
+Eastern Europe,30.0,50.0,Southern Asia,78.0,23.0,2020,596,male
+Northern Europe,15.0,60.0,Southern Asia,78.0,23.0,2020,20576,male
+Southern Europe,15.0,41.0,Southern Asia,78.0,23.0,2020,2843,male
+Western Europe,2.0,48.0,Southern Asia,78.0,23.0,2020,3074,male
+Caribbean,-75.0,18.0,Southern Asia,78.0,23.0,2020,16,male
+Central America,-86.0,15.0,Southern Asia,78.0,23.0,2020,0,male
+South America,-60.0,-10.0,Southern Asia,78.0,23.0,2020,4518,male
+NORTHERN AMERICA,-100.0,45.0,Southern Asia,78.0,23.0,2020,32961,male
+OCEANIA,140.0,-25.0,Southern Asia,78.0,23.0,2020,2580,male
+Eastern Africa,39.0,-6.5,Western Asia,40.0,33.0,2020,390680,male
+Middle Africa,17.0,1.0,Western Asia,40.0,33.0,2020,6796,male
+Northern Africa,18.0,28.0,Western Asia,40.0,33.0,2020,2576486,male
+Southern Africa,24.0,-29.0,Western Asia,40.0,33.0,2020,7703,male
+Western Africa,-2.0,16.0,Western Asia,40.0,33.0,2020,19647,male
+Central Asia,63.0,48.0,Western Asia,40.0,33.0,2020,43348,male
+Eastern Asia,116.0,39.0,Western Asia,40.0,33.0,2020,10327,male
+South-Eastern Asia,108.0,4.0,Western Asia,40.0,33.0,2020,2685060,male
+Southern Asia,78.0,23.0,Western Asia,40.0,33.0,2020,14497713,male
+Western Asia,40.0,33.0,Western Asia,40.0,33.0,2020,7743124,male
+Eastern Europe,30.0,50.0,Western Asia,40.0,33.0,2020,477932,male
+Northern Europe,15.0,60.0,Western Asia,40.0,33.0,2020,91516,male
+Southern Europe,15.0,41.0,Western Asia,40.0,33.0,2020,163525,male
+Western Europe,2.0,48.0,Western Asia,40.0,33.0,2020,229230,male
+Caribbean,-75.0,18.0,Western Asia,40.0,33.0,2020,129,male
+Central America,-86.0,15.0,Western Asia,40.0,33.0,2020,1389,male
+South America,-60.0,-10.0,Western Asia,40.0,33.0,2020,28955,male
+NORTHERN AMERICA,-100.0,45.0,Western Asia,40.0,33.0,2020,76943,male
+OCEANIA,140.0,-25.0,Western Asia,40.0,33.0,2020,4778,male
+Eastern Africa,39.0,-6.5,Eastern Europe,30.0,50.0,2020,3892,male
+Middle Africa,17.0,1.0,Eastern Europe,30.0,50.0,2020,3048,male
+Northern Africa,18.0,28.0,Eastern Europe,30.0,50.0,2020,17411,male
+Southern Africa,24.0,-29.0,Eastern Europe,30.0,50.0,2020,1590,male
+Western Africa,-2.0,16.0,Eastern Europe,30.0,50.0,2020,7816,male
+Central Asia,63.0,48.0,Eastern Europe,30.0,50.0,2020,2742150,male
+Eastern Asia,116.0,39.0,Eastern Europe,30.0,50.0,2020,84949,male
+South-Eastern Asia,108.0,4.0,Eastern Europe,30.0,50.0,2020,58122,male
+Southern Asia,78.0,23.0,Eastern Europe,30.0,50.0,2020,40245,male
+Western Asia,40.0,33.0,Eastern Europe,30.0,50.0,2020,1188517,male
+Eastern Europe,30.0,50.0,Eastern Europe,30.0,50.0,2020,4845557,male
+Northern Europe,15.0,60.0,Eastern Europe,30.0,50.0,2020,263785,male
+Southern Europe,15.0,41.0,Eastern Europe,30.0,50.0,2020,187296,male
+Western Europe,2.0,48.0,Eastern Europe,30.0,50.0,2020,265880,male
+Caribbean,-75.0,18.0,Eastern Europe,30.0,50.0,2020,3205,male
+Central America,-86.0,15.0,Eastern Europe,30.0,50.0,2020,2344,male
+South America,-60.0,-10.0,Eastern Europe,30.0,50.0,2020,7742,male
+NORTHERN AMERICA,-100.0,45.0,Eastern Europe,30.0,50.0,2020,36289,male
+OCEANIA,140.0,-25.0,Eastern Europe,30.0,50.0,2020,3716,male
+Eastern Africa,39.0,-6.5,Northern Europe,15.0,60.0,2020,464967,male
+Middle Africa,17.0,1.0,Northern Europe,15.0,60.0,2020,35257,male
+Northern Africa,18.0,28.0,Northern Europe,15.0,60.0,2020,117321,male
+Southern Africa,24.0,-29.0,Northern Europe,15.0,60.0,2020,139081,male
+Western Africa,-2.0,16.0,Northern Europe,15.0,60.0,2020,236846,male
+Central Asia,63.0,48.0,Northern Europe,15.0,60.0,2020,19068,male
+Eastern Asia,116.0,39.0,Northern Europe,15.0,60.0,2020,239061,male
+South-Eastern Asia,108.0,4.0,Northern Europe,15.0,60.0,2020,225323,male
+Southern Asia,78.0,23.0,Northern Europe,15.0,60.0,2020,1242622,male
+Western Asia,40.0,33.0,Northern Europe,15.0,60.0,2020,598262,male
+Eastern Europe,30.0,50.0,Northern Europe,15.0,60.0,2020,1343355,male
+Northern Europe,15.0,60.0,Northern Europe,15.0,60.0,2020,959564,male
+Southern Europe,15.0,41.0,Northern Europe,15.0,60.0,2020,547531,male
+Western Europe,2.0,48.0,Northern Europe,15.0,60.0,2020,415698,male
+Caribbean,-75.0,18.0,Northern Europe,15.0,60.0,2020,110900,male
+Central America,-86.0,15.0,Northern Europe,15.0,60.0,2020,14958,male
+South America,-60.0,-10.0,Northern Europe,15.0,60.0,2020,127114,male
+NORTHERN AMERICA,-100.0,45.0,Northern Europe,15.0,60.0,2020,187727,male
+OCEANIA,140.0,-25.0,Northern Europe,15.0,60.0,2020,127142,male
+Eastern Africa,39.0,-6.5,Southern Europe,15.0,41.0,2020,92179,male
+Middle Africa,17.0,1.0,Southern Europe,15.0,41.0,2020,131680,male
+Northern Africa,18.0,28.0,Southern Europe,15.0,41.0,2020,937224,male
+Southern Africa,24.0,-29.0,Southern Europe,15.0,41.0,2020,14650,male
+Western Africa,-2.0,16.0,Southern Europe,15.0,41.0,2020,479300,male
+Central Asia,63.0,48.0,Southern Europe,15.0,41.0,2020,21758,male
+Eastern Asia,116.0,39.0,Southern Europe,15.0,41.0,2020,218083,male
+South-Eastern Asia,108.0,4.0,Southern Europe,15.0,41.0,2020,95832,male
+Southern Asia,78.0,23.0,Southern Europe,15.0,41.0,2020,513090,male
+Western Asia,40.0,33.0,Southern Europe,15.0,41.0,2020,199206,male
+Eastern Europe,30.0,50.0,Southern Europe,15.0,41.0,2020,1274619,male
+Northern Europe,15.0,60.0,Southern Europe,15.0,41.0,2020,285895,male
+Southern Europe,15.0,41.0,Southern Europe,15.0,41.0,2020,1629061,male
+Western Europe,2.0,48.0,Southern Europe,15.0,41.0,2020,758021,male
+Caribbean,-75.0,18.0,Southern Europe,15.0,41.0,2020,173733,male
+Central America,-86.0,15.0,Southern Europe,15.0,41.0,2020,88580,male
+South America,-60.0,-10.0,Southern Europe,15.0,41.0,2020,1280862,male
+NORTHERN AMERICA,-100.0,45.0,Southern Europe,15.0,41.0,2020,100149,male
+OCEANIA,140.0,-25.0,Southern Europe,15.0,41.0,2020,34190,male
+Eastern Africa,39.0,-6.5,Western Europe,2.0,48.0,2020,298276,male
+Middle Africa,17.0,1.0,Western Europe,2.0,48.0,2020,247958,male
+Northern Africa,18.0,28.0,Western Europe,2.0,48.0,2020,2138348,male
+Southern Africa,24.0,-29.0,Western Europe,2.0,48.0,2020,28454,male
+Western Africa,-2.0,16.0,Western Europe,2.0,48.0,2020,452296,male
+Central Asia,63.0,48.0,Western Europe,2.0,48.0,2020,610970,male
+Eastern Asia,116.0,39.0,Western Europe,2.0,48.0,2020,237447,male
+South-Eastern Asia,108.0,4.0,Western Europe,2.0,48.0,2020,346169,male
+Southern Asia,78.0,23.0,Western Europe,2.0,48.0,2020,758045,male
+Western Asia,40.0,33.0,Western Europe,2.0,48.0,2020,2374656,male
+Eastern Europe,30.0,50.0,Western Europe,2.0,48.0,2020,3225427,male
+Northern Europe,15.0,60.0,Western Europe,2.0,48.0,2020,382241,male
+Southern Europe,15.0,41.0,Western Europe,2.0,48.0,2020,2926530,male
+Western Europe,2.0,48.0,Western Europe,2.0,48.0,2020,1425548,male
+Caribbean,-75.0,18.0,Western Europe,2.0,48.0,2020,76085,male
+Central America,-86.0,15.0,Western Europe,2.0,48.0,2020,34714,male
+South America,-60.0,-10.0,Western Europe,2.0,48.0,2020,322119,male
+NORTHERN AMERICA,-100.0,45.0,Western Europe,2.0,48.0,2020,198869,male
+OCEANIA,140.0,-25.0,Western Europe,2.0,48.0,2020,31658,male
+Eastern Africa,39.0,-6.5,Caribbean,-75.0,18.0,2020,296,male
+Middle Africa,17.0,1.0,Caribbean,-75.0,18.0,2020,116,male
+Northern Africa,18.0,28.0,Caribbean,-75.0,18.0,2020,168,male
+Southern Africa,24.0,-29.0,Caribbean,-75.0,18.0,2020,123,male
+Western Africa,-2.0,16.0,Caribbean,-75.0,18.0,2020,717,male
+Central Asia,63.0,48.0,Caribbean,-75.0,18.0,2020,5,male
+Eastern Asia,116.0,39.0,Caribbean,-75.0,18.0,2020,6150,male
+South-Eastern Asia,108.0,4.0,Caribbean,-75.0,18.0,2020,2853,male
+Southern Asia,78.0,23.0,Caribbean,-75.0,18.0,2020,4611,male
+Western Asia,40.0,33.0,Caribbean,-75.0,18.0,2020,1303,male
+Eastern Europe,30.0,50.0,Caribbean,-75.0,18.0,2020,673,male
+Northern Europe,15.0,60.0,Caribbean,-75.0,18.0,2020,11118,male
+Southern Europe,15.0,41.0,Caribbean,-75.0,18.0,2020,12811,male
+Western Europe,2.0,48.0,Caribbean,-75.0,18.0,2020,62037,male
+Caribbean,-75.0,18.0,Caribbean,-75.0,18.0,2020,492844,male
+Central America,-86.0,15.0,Caribbean,-75.0,18.0,2020,6637,male
+South America,-60.0,-10.0,Caribbean,-75.0,18.0,2020,80154,male
+NORTHERN AMERICA,-100.0,45.0,Caribbean,-75.0,18.0,2020,116502,male
+OCEANIA,140.0,-25.0,Caribbean,-75.0,18.0,2020,285,male
+Eastern Africa,39.0,-6.5,Central America,-86.0,15.0,2020,124,male
+Middle Africa,17.0,1.0,Central America,-86.0,15.0,2020,178,male
+Northern Africa,18.0,28.0,Central America,-86.0,15.0,2020,663,male
+Southern Africa,24.0,-29.0,Central America,-86.0,15.0,2020,187,male
+Western Africa,-2.0,16.0,Central America,-86.0,15.0,2020,342,male
+Central Asia,63.0,48.0,Central America,-86.0,15.0,2020,1,male
+Eastern Asia,116.0,39.0,Central America,-86.0,15.0,2020,30809,male
+South-Eastern Asia,108.0,4.0,Central America,-86.0,15.0,2020,3006,male
+Southern Asia,78.0,23.0,Central America,-86.0,15.0,2020,6205,male
+Western Asia,40.0,33.0,Central America,-86.0,15.0,2020,4963,male
+Eastern Europe,30.0,50.0,Central America,-86.0,15.0,2020,4379,male
+Northern Europe,15.0,60.0,Central America,-86.0,15.0,2020,6548,male
+Southern Europe,15.0,41.0,Central America,-86.0,15.0,2020,29773,male
+Western Europe,2.0,48.0,Central America,-86.0,15.0,2020,20203,male
+Caribbean,-75.0,18.0,Central America,-86.0,15.0,2020,26009,male
+Central America,-86.0,15.0,Central America,-86.0,15.0,2020,360785,male
+South America,-60.0,-10.0,Central America,-86.0,15.0,2020,198154,male
+NORTHERN AMERICA,-100.0,45.0,Central America,-86.0,15.0,2020,448624,male
+OCEANIA,140.0,-25.0,Central America,-86.0,15.0,2020,706,male
+Eastern Africa,39.0,-6.5,South America,-60.0,-10.0,2020,1386,male
+Middle Africa,17.0,1.0,South America,-60.0,-10.0,2020,8040,male
+Northern Africa,18.0,28.0,South America,-60.0,-10.0,2020,4409,male
+Southern Africa,24.0,-29.0,South America,-60.0,-10.0,2020,1835,male
+Western Africa,-2.0,16.0,South America,-60.0,-10.0,2020,12374,male
+Central Asia,63.0,48.0,South America,-60.0,-10.0,2020,34,male
+Eastern Asia,116.0,39.0,South America,-60.0,-10.0,2020,126833,male
+South-Eastern Asia,108.0,4.0,South America,-60.0,-10.0,2020,2805,male
+Southern Asia,78.0,23.0,South America,-60.0,-10.0,2020,11222,male
+Western Asia,40.0,33.0,South America,-60.0,-10.0,2020,37499,male
+Eastern Europe,30.0,50.0,South America,-60.0,-10.0,2020,21221,male
+Northern Europe,15.0,60.0,South America,-60.0,-10.0,2020,18038,male
+Southern Europe,15.0,41.0,South America,-60.0,-10.0,2020,423079,male
+Western Europe,2.0,48.0,South America,-60.0,-10.0,2020,94611,male
+Caribbean,-75.0,18.0,South America,-60.0,-10.0,2020,234353,male
+Central America,-86.0,15.0,South America,-60.0,-10.0,2020,35557,male
+South America,-60.0,-10.0,South America,-60.0,-10.0,2020,4192334,male
+NORTHERN AMERICA,-100.0,45.0,South America,-60.0,-10.0,2020,96920,male
+OCEANIA,140.0,-25.0,South America,-60.0,-10.0,2020,2424,male
+Eastern Africa,39.0,-6.5,NORTHERN AMERICA,-100.0,45.0,2020,498947,male
+Middle Africa,17.0,1.0,NORTHERN AMERICA,-100.0,45.0,2020,94235,male
+Northern Africa,18.0,28.0,NORTHERN AMERICA,-100.0,45.0,2020,400847,male
+Southern Africa,24.0,-29.0,NORTHERN AMERICA,-100.0,45.0,2020,81117,male
+Western Africa,-2.0,16.0,NORTHERN AMERICA,-100.0,45.0,2020,540141,male
+Central Asia,63.0,48.0,NORTHERN AMERICA,-100.0,45.0,2020,69531,male
+Eastern Asia,116.0,39.0,NORTHERN AMERICA,-100.0,45.0,2020,2329473,male
+South-Eastern Asia,108.0,4.0,NORTHERN AMERICA,-100.0,45.0,2020,2299687,male
+Southern Asia,78.0,23.0,NORTHERN AMERICA,-100.0,45.0,2020,2836296,male
+Western Asia,40.0,33.0,NORTHERN AMERICA,-100.0,45.0,2020,813235,male
+Eastern Europe,30.0,50.0,NORTHERN AMERICA,-100.0,45.0,2020,1052437,male
+Northern Europe,15.0,60.0,NORTHERN AMERICA,-100.0,45.0,2020,762271,male
+Southern Europe,15.0,41.0,NORTHERN AMERICA,-100.0,45.0,2020,800074,male
+Western Europe,2.0,48.0,NORTHERN AMERICA,-100.0,45.0,2020,638105,male
+Caribbean,-75.0,18.0,NORTHERN AMERICA,-100.0,45.0,2020,3122539,male
+Central America,-86.0,15.0,NORTHERN AMERICA,-100.0,45.0,2020,7754276,male
+South America,-60.0,-10.0,NORTHERN AMERICA,-100.0,45.0,2020,1621947,male
+NORTHERN AMERICA,-100.0,45.0,NORTHERN AMERICA,-100.0,45.0,2020,389003,male
+OCEANIA,140.0,-25.0,NORTHERN AMERICA,-100.0,45.0,2020,146362,male
+Eastern Africa,39.0,-6.5,OCEANIA,140.0,-25.0,2020,93311,male
+Middle Africa,17.0,1.0,OCEANIA,140.0,-25.0,2020,4459,male
+Northern Africa,18.0,28.0,OCEANIA,140.0,-25.0,2020,43470,male
+Southern Africa,24.0,-29.0,OCEANIA,140.0,-25.0,2020,137726,male
+Western Africa,-2.0,16.0,OCEANIA,140.0,-25.0,2020,17286,male
+Central Asia,63.0,48.0,OCEANIA,140.0,-25.0,2020,2175,male
+Eastern Asia,116.0,39.0,OCEANIA,140.0,-25.0,2020,531790,male
+South-Eastern Asia,108.0,4.0,OCEANIA,140.0,-25.0,2020,567583,male
+Southern Asia,78.0,23.0,OCEANIA,140.0,-25.0,2020,678214,male
+Western Asia,40.0,33.0,OCEANIA,140.0,-25.0,2020,188674,male
+Eastern Europe,30.0,50.0,OCEANIA,140.0,-25.0,2020,86929,male
+Northern Europe,15.0,60.0,OCEANIA,140.0,-25.0,2020,880917,male
+Southern Europe,15.0,41.0,OCEANIA,140.0,-25.0,2020,316045,male
+Western Europe,2.0,48.0,OCEANIA,140.0,-25.0,2020,215900,male
+Caribbean,-75.0,18.0,OCEANIA,140.0,-25.0,2020,5904,male
+Central America,-86.0,15.0,OCEANIA,140.0,-25.0,2020,10718,male
+South America,-60.0,-10.0,OCEANIA,140.0,-25.0,2020,86758,male
+NORTHERN AMERICA,-100.0,45.0,OCEANIA,140.0,-25.0,2020,124579,male
+OCEANIA,140.0,-25.0,OCEANIA,140.0,-25.0,2020,558116,male
