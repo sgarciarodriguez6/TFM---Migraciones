@@ -1,0 +1,239 @@
+origen,destino,year,num_migrantes,continentes
+Eastern Africa,Developed regions,1990,863906,África
+Middle Africa,Developed regions,1990,410433,África
+Northern Africa,Developed regions,1990,3161800,África
+Southern Africa,Developed regions,1990,229362,África
+Western Africa,Developed regions,1990,726622,África
+Central Asia,Developed regions,1990,5115880,Asia
+Eastern Asia,Developed regions,1990,3844369,Asia
+South-Eastern Asia,Developed regions,1990,3779787,Asia
+Southern Asia,Developed regions,1990,2747367,Asia
+Western Asia,Developed regions,1990,6077240,Asia
+Eastern Europe,Developed regions,1990,17711583,Europa
+Northern Europe,Developed regions,1990,5815798,Europa
+Southern Europe,Developed regions,1990,8940781,Europa
+Western Europe,Developed regions,1990,5172328,Europa
+Caribbean,Developed regions,1990,3611619,Latinoamerica
+Central America,Developed regions,1990,5567240,Latinoamerica
+South America,Developed regions,1990,2054000,Latinoamerica
+Eastern Africa,Less developed regions,1990,6920837,África
+Middle Africa,Less developed regions,1990,1511810,África
+Northern Africa,Less developed regions,1990,2124857,África
+Southern Africa,Less developed regions,1990,347390,África
+Western Africa,Less developed regions,1990,4324447,África
+Central Asia,Less developed regions,1990,604012,Asia
+Eastern Asia,Less developed regions,1990,3204655,Asia
+South-Eastern Asia,Less developed regions,1990,3945608,Asia
+Southern Asia,Less developed regions,1990,22636761,Asia
+Western Asia,Less developed regions,1990,5001321,Asia
+Eastern Europe,Less developed regions,1990,7068090,Europa
+Northern Europe,Less developed regions,1990,411453,Europa
+Southern Europe,Less developed regions,1990,1682045,Europa
+Western Europe,Less developed regions,1990,928200,Europa
+Caribbean,Less developed regions,1990,528156,Latinoamerica
+Central America,Less developed regions,1990,1255796,Latinoamerica
+South America,Less developed regions,1990,2256588,Latinoamerica
+Eastern Africa,Developed regions,1995,1023533,África
+Middle Africa,Developed regions,1995,476996,África
+Northern Africa,Developed regions,1995,3418150,África
+Southern Africa,Developed regions,1995,304581,África
+Western Africa,Developed regions,1995,965984,África
+Central Asia,Developed regions,1995,5576141,Asia
+Eastern Asia,Developed regions,1995,4746136,Asia
+South-Eastern Asia,Developed regions,1995,4623070,Asia
+Southern Asia,Developed regions,1995,3681341,Asia
+Western Asia,Developed regions,1995,6537373,Asia
+Eastern Europe,Developed regions,1995,17870566,Europa
+Northern Europe,Developed regions,1995,5791289,Europa
+Southern Europe,Developed regions,1995,10401477,Europa
+Western Europe,Developed regions,1995,5422085,Europa
+Caribbean,Developed regions,1995,4451551,Latinoamerica
+Central America,Developed regions,1995,8604622,Latinoamerica
+South America,Developed regions,1995,2860518,Latinoamerica
+Eastern Africa,Less developed regions,1995,6711241,África
+Middle Africa,Less developed regions,1995,1380606,África
+Northern Africa,Less developed regions,1995,2434271,África
+Southern Africa,Less developed regions,1995,299875,África
+Western Africa,Less developed regions,1995,5326157,África
+Central Asia,Less developed regions,1995,583718,Asia
+Eastern Asia,Less developed regions,1995,3420539,Asia
+South-Eastern Asia,Less developed regions,1995,5071178,Asia
+Southern Asia,Less developed regions,1995,19228783,Asia
+Western Asia,Less developed regions,1995,5679643,Asia
+Eastern Europe,Less developed regions,1995,6298022,Europa
+Northern Europe,Less developed regions,1995,410958,Europa
+Southern Europe,Less developed regions,1995,1488479,Europa
+Western Europe,Less developed regions,1995,953127,Europa
+Caribbean,Less developed regions,1995,584302,Latinoamerica
+Central America,Less developed regions,1995,683842,Latinoamerica
+South America,Less developed regions,1995,2484869,Latinoamerica
+Eastern Africa,Developed regions,2000,1203241,África
+Middle Africa,Developed regions,2000,555050,África
+Northern Africa,Developed regions,2000,3751335,África
+Southern Africa,Developed regions,2000,411006,África
+Western Africa,Developed regions,2000,1223065,África
+Central Asia,Developed regions,2000,5894237,Asia
+Eastern Asia,Developed regions,2000,5734323,Asia
+South-Eastern Asia,Developed regions,2000,5542550,Asia
+Southern Asia,Developed regions,2000,4656760,Asia
+Western Asia,Developed regions,2000,6772438,Asia
+Eastern Europe,Developed regions,2000,18238874,Europa
+Northern Europe,Developed regions,2000,5938923,Europa
+Southern Europe,Developed regions,2000,11341484,Europa
+Western Europe,Developed regions,2000,5823252,Europa
+Caribbean,Developed regions,2000,5322354,Latinoamerica
+Central America,Developed regions,2000,11713406,Latinoamerica
+South America,Developed regions,2000,3702061,Latinoamerica
+Eastern Africa,Less developed regions,2000,4876751,África
+Middle Africa,Less developed regions,2000,1884310,África
+Northern Africa,Less developed regions,2000,2690654,África
+Southern Africa,Less developed regions,2000,321306,África
+Western Africa,Less developed regions,2000,5163285,África
+Central Asia,Less developed regions,2000,568108,Asia
+Eastern Asia,Less developed regions,2000,3618365,Asia
+South-Eastern Asia,Less developed regions,2000,6545616,Asia
+Southern Asia,Less developed regions,2000,19778589,Asia
+Western Asia,Less developed regions,2000,6222627,Asia
+Eastern Europe,Less developed regions,2000,5581785,Europa
+Northern Europe,Less developed regions,2000,483617,Europa
+Southern Europe,Less developed regions,2000,1309861,Europa
+Western Europe,Less developed regions,2000,1009988,Europa
+Caribbean,Less developed regions,2000,644133,Latinoamerica
+Central America,Less developed regions,2000,515297,Latinoamerica
+South America,Less developed regions,2000,2731449,Latinoamerica
+Eastern Africa,Developed regions,2005,1619839,África
+Middle Africa,Developed regions,2005,714426,África
+Northern Africa,Developed regions,2005,4920180,África
+Southern Africa,Developed regions,2005,511527,África
+Western Africa,Developed regions,2005,1709963,África
+Central Asia,Developed regions,2005,6314840,Asia
+Eastern Asia,Developed regions,2005,6829480,Asia
+South-Eastern Asia,Developed regions,2005,6400368,Asia
+Southern Asia,Developed regions,2005,6053543,Asia
+Western Asia,Developed regions,2005,6735738,Asia
+Eastern Europe,Developed regions,2005,20087244,Europa
+Northern Europe,Developed regions,2005,6235819,Europa
+Southern Europe,Developed regions,2005,10331708,Europa
+Western Europe,Developed regions,2005,6399881,Europa
+Caribbean,Developed regions,2005,5796495,Latinoamerica
+Central America,Developed regions,2005,13411141,Latinoamerica
+South America,Developed regions,2005,5637868,Latinoamerica
+Eastern Africa,Less developed regions,2005,4572908,África
+Middle Africa,Less developed regions,2005,2012130,África
+Northern Africa,Less developed regions,2005,3046241,África
+Southern Africa,Less developed regions,2005,393087,África
+Western Africa,Less developed regions,2005,5741105,África
+Central Asia,Less developed regions,2005,604059,Asia
+Eastern Asia,Less developed regions,2005,4190494,Asia
+South-Eastern Asia,Less developed regions,2005,8136641,Asia
+Southern Asia,Less developed regions,2005,20375248,Asia
+Western Asia,Less developed regions,2005,7165632,Asia
+Eastern Europe,Less developed regions,2005,5467542,Europa
+Northern Europe,Less developed regions,2005,544275,Europa
+Southern Europe,Less developed regions,2005,1203510,Europa
+Western Europe,Less developed regions,2005,1067005,Europa
+Caribbean,Less developed regions,2005,710176,Latinoamerica
+Central America,Less developed regions,2005,567509,Latinoamerica
+South America,Less developed regions,2005,3215017,Latinoamerica
+Eastern Africa,Developed regions,2010,2070685,África
+Middle Africa,Developed regions,2010,803446,África
+Northern Africa,Developed regions,2010,5511004,África
+Southern Africa,Developed regions,2010,650439,África
+Western Africa,Developed regions,2010,2135593,África
+Central Asia,Developed regions,2010,6617738,Asia
+Eastern Asia,Developed regions,2010,7934898,Asia
+South-Eastern Asia,Developed regions,2010,7384973,Asia
+Southern Asia,Developed regions,2010,7672817,Asia
+Western Asia,Developed regions,2010,7057172,Asia
+Eastern Europe,Developed regions,2010,22172713,Europa
+Northern Europe,Developed regions,2010,6652635,Europa
+Southern Europe,Developed regions,2010,10606878,Europa
+Western Europe,Developed regions,2010,7071601,Europa
+Caribbean,Developed regions,2010,6479310,Latinoamerica
+Central America,Developed regions,2010,15565014,Latinoamerica
+South America,Developed regions,2010,7089096,Latinoamerica
+Eastern Africa,Less developed regions,2010,5453507,África
+Middle Africa,Less developed regions,2010,2204097,África
+Northern Africa,Less developed regions,2010,3740124,África
+Southern Africa,Less developed regions,2010,549374,África
+Western Africa,Less developed regions,2010,6075583,África
+Central Asia,Less developed regions,2010,614557,Asia
+Eastern Asia,Less developed regions,2010,4928396,Asia
+South-Eastern Asia,Less developed regions,2010,10728939,Asia
+Southern Asia,Less developed regions,2010,26177276,Asia
+Western Asia,Less developed regions,2010,9005411,Asia
+Eastern Europe,Less developed regions,2010,5405429,Europa
+Northern Europe,Less developed regions,2010,526145,Europa
+Southern Europe,Less developed regions,2010,1121247,Europa
+Western Europe,Less developed regions,2010,1154653,Europa
+Caribbean,Less developed regions,2010,794192,Latinoamerica
+Central America,Less developed regions,2010,639437,Latinoamerica
+South America,Less developed regions,2010,4070601,Latinoamerica
+Eastern Africa,Developed regions,2015,2553057,África
+Middle Africa,Developed regions,2015,934929,África
+Northern Africa,Developed regions,2015,6038468,África
+Southern Africa,Developed regions,2015,693485,África
+Western Africa,Developed regions,2015,2489892,África
+Central Asia,Developed regions,2015,6798371,Asia
+Eastern Asia,Developed regions,2015,8906321,Asia
+South-Eastern Asia,Developed regions,2015,8321216,Asia
+Southern Asia,Developed regions,2015,9630786,Asia
+Western Asia,Developed regions,2015,8272537,Asia
+Eastern Europe,Developed regions,2015,23295169,Europa
+Northern Europe,Developed regions,2015,6820416,Europa
+Southern Europe,Developed regions,2015,10826524,Europa
+Western Europe,Developed regions,2015,7174157,Europa
+Caribbean,Developed regions,2015,7123437,Latinoamerica
+Central America,Developed regions,2015,15594486,Latinoamerica
+South America,Developed regions,2015,7135987,Latinoamerica
+Eastern Africa,Less developed regions,2015,7271233,África
+Middle Africa,Less developed regions,2015,2882061,África
+Northern Africa,Less developed regions,2015,4876280,África
+Southern Africa,Less developed regions,2015,436466,África
+Western Africa,Less developed regions,2015,6936088,África
+Central Asia,Less developed regions,2015,629661,Asia
+Eastern Asia,Less developed regions,2015,5511404,Asia
+South-Eastern Asia,Less developed regions,2015,12466649,Asia
+Southern Asia,Less developed regions,2015,29422312,Asia
+Western Asia,Less developed regions,2015,13418762,Asia
+Eastern Europe,Less developed regions,2015,5527446,Europa
+Northern Europe,Less developed regions,2015,494731,Europa
+Southern Europe,Less developed regions,2015,1218729,Europa
+Western Europe,Less developed regions,2015,1220581,Europa
+Caribbean,Less developed regions,2015,1011870,Latinoamerica
+Central America,Less developed regions,2015,696736,Latinoamerica
+South America,Less developed regions,2015,4643484,Latinoamerica
+Eastern Africa,Developed regions,2020,3082132,África
+Middle Africa,Developed regions,2020,1095017,África
+Northern Africa,Developed regions,2020,6778192,África
+Southern Africa,Developed regions,2020,818376,África
+Western Africa,Developed regions,2020,3111790,África
+Central Asia,Developed regions,2020,7182034,Asia
+Eastern Asia,Developed regions,2020,9017654,Asia
+South-Eastern Asia,Developed regions,2020,9242662,Asia
+Southern Asia,Developed regions,2020,11382542,Asia
+Western Asia,Developed regions,2020,9960382,Asia
+Eastern Europe,Developed regions,2020,26322046,Europa
+Northern Europe,Developed regions,2020,7342483,Europa
+Southern Europe,Developed regions,2020,12661572,Europa
+Western Europe,Developed regions,2020,7767497,Europa
+Caribbean,Developed regions,2020,7723732,Latinoamerica
+Central America,Developed regions,2020,15365881,Latinoamerica
+South America,Developed regions,2020,8311665,Latinoamerica
+Eastern Africa,Less developed regions,2020,8945157,África
+Middle Africa,Less developed regions,2020,3325645,África
+Northern Africa,Less developed regions,2020,5504433,África
+Southern Africa,Less developed regions,2020,460059,África
+Western Africa,Less developed regions,2020,7446362,África
+Central Asia,Less developed regions,2020,653470,Asia
+Eastern Asia,Less developed regions,2020,5802350,Asia
+South-Eastern Asia,Less developed regions,2020,14338074,Asia
+Southern Asia,Less developed regions,2020,32011503,Asia
+Western Asia,Less developed regions,2020,15320813,Asia
+Eastern Europe,Less developed regions,2020,5872306,Europa
+Northern Europe,Less developed regions,2020,542297,Europa
+Southern Europe,Less developed regions,2020,1355539,Europa
+Western Europe,Less developed regions,2020,1409923,Europa
+Caribbean,Less developed regions,2020,1355040,Latinoamerica
+Central America,Less developed regions,2020,833093,Latinoamerica
+South America,Less developed regions,2020,9301070,Latinoamerica
